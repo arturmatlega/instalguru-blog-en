@@ -4,16 +4,16 @@ hide_body: true
 fields:
 - type: text
   name: layout
-  label: layout
+  label: Layout
 - type: text
   name: pagename
   label: pagename
 - type: text
   name: seo_title
-  label: seo_title
+  label: Tytuł (Meta)
 - type: text
   name: seo_description
-  label: seo_description
+  label: Opis (Meta)
 - type: boolean
   name: menu
   label: menu
