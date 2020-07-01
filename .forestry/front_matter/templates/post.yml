@@ -1,0 +1,66 @@
+---
+label: Post
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: seo_title
+  label: seo_title
+- type: text
+  name: seo_description
+  label: seo_description
+- type: datetime
+  name: date
+  label: date
+- type: datetime
+  name: update_date
+  label: update_date
+- type: text
+  name: title
+  label: title
+- type: text
+  name: small-intro
+  label: small-intro
+- type: textarea
+  name: intro
+  label: intro
+- type: file
+  name: photo
+  label: photo
+- type: text
+  name: photo_desc
+  label: photo_desc
+- type: field_group_list
+  name: faq
+  label: faq
+  fields:
+  - type: text
+    name: question
+    label: question
+  - type: text
+    name: answer
+    label: answer
+- type: text
+  name: author_name
+  label: author_name
+- type: text
+  name: author_desc
+  label: author_desc
+- type: file
+  name: author_photo
+  label: author_photo
+- type: boolean
+  name: toc
+  label: toc
+- type: field_group_list
+  name: hreflangs
+  label: hreflangs
+  fields:
+  - type: text
+    name: lang
+    label: lang
+  - type: text
+    name: link
+    label: link
