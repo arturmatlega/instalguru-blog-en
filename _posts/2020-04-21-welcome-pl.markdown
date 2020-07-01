@@ -1,51 +1,44 @@
 ---
 layout: post
-seo_title:  SEO Tytuł postu
+seo_title: SEO Tytuł postu
 seo_description: META Opis postu
 date: 2019-10-28T16:02:04.000+00:00
 update_date: 2020-02-28T16:02:04.000+00:00
 title: Jakie rury do gazu wybrać - przewody miedziane czy stalowe?
-small-intro: Każde gospodarstwo domowe generuje ścieki, które należy w jakiś sposób odprowadzić.
+small-intro: Każde gospodarstwo domowe generuje ścieki, które należy w jakiś sposób
+  odprowadzić.
 intro: Każde gospodarstwo domowe generuje ścieki, które należy w jakiś sposób odprowadzić.
   Kanalizacja to system rur służący do usuwania nieczystości poza teren budynku. Elementy
   instalacji wodnej znajdują się zazwyczaj na terenie całej posesji, dlatego warto
   dobrze ją zaplanować już na etapie projektowania budynku. W ten sposób zapewnisz
   sobie sprawne i bezawaryjne działanie systemu.
-photo: /uploads/eaa7dd4bd3dd431ca5de388a903d9b78.jpg
+photo: "/uploads/eaa7dd4bd3dd431ca5de388a903d9b78.jpg"
 photo_desc: Tutaj jest podpis do zdjęcia
 faq:
-  -
-    question: Tutaj mamy przykładowe pytanie?
-    answer: odpowiedz 1
-  -
-    question: pytanko 2
-    answer: odpowiedz 2
-  -
-    question: pytanko 3
-    answer: odpowiedz 3
+- question: Tutaj mamy przykładowe pytanie?
+  answer: odpowiedz 1
+- question: pytanko 2
+  answer: odpowiedz 2
+- question: pytanko 3
+  answer: odpowiedz 3
 author_name: Maksymilian Ignacyk
 author_desc: Specjalista ds. sprzedaży i marketingu w sklepie Instalguru
-author_photo:  /uploads/maks.jpg
+author_photo: "/uploads/maks.jpg"
 toc: true
 hreflangs:
-  -
-    lang: pl
-    link: https://instalguru.pl/
-  -
-    lang: cs
-    link: https://instalguru.cs/
-  -
-    lang: de
-    link: https://instalguru.de/
-  -
-    lang: it
-    link: https://instalguru.it/
-  -
-    lang: fr
-    link: https://instalguru.fr/
-  -
-    lang: es
-    link: https://instalguru.es/
+- lang: pl
+  link: https://instalguru.pl/
+- lang: cs
+  link: https://instalguru.cs/
+- lang: de
+  link: https://instalguru.de/
+- lang: it
+  link: https://instalguru.it/
+- lang: fr
+  link: https://instalguru.fr/
+- lang: es
+  link: https://instalguru.es/
+
 ---
 ## Czym jest zawór termostatyczny?
 
