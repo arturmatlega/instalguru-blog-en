@@ -1,0 +1,35 @@
+---
+label: Page
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: pagename
+  label: pagename
+- type: text
+  name: seo_title
+  label: seo_title
+- type: text
+  name: seo_description
+  label: seo_description
+- type: boolean
+  name: menu
+  label: menu
+- type: text
+  name: menu_title
+  label: menu_title
+- type: text
+  name: page_header
+  label: page_header
+- type: field_group_list
+  name: hreflangs
+  label: hreflangs
+  fields:
+  - type: text
+    name: lang
+    label: lang
+  - type: text
+    name: link
+    label: link
