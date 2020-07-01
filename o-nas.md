@@ -23,8 +23,6 @@ hreflangs:
   link: https://instalguru.es/
 
 ---
-**InstalGuru** to sklep internetowy będący jednym z głównych dystrybutorów na rynku w zakresie techniki grzewczej, systemów instalacyjnych, armatury kuchennej i łazienkowej oraz akcesoriów montażowych.
-
 ## Proponujemy między innymi elementy instalacji C.O, gazowej czy kanalizacyjnej.
 
 Są to pompy i zbiorniki, zawory, odpowietrzniki, syfony, spłuczki, akcesoria do zlewozmywaków i umywalek, systemy rynnowe czy narzędzia ręczne.
