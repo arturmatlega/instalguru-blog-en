@@ -9,9 +9,7 @@ lang: "pl"
 
 markdown: kramdown
 
-sass:
-  sass_dir: assets/_scss
-  style: compressed
+remote_theme: arturmatlega/ig-theme
 
 toc:
   min_level: 2
@@ -21,6 +19,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-toc
+  - jekyll-remote-theme
 
 ampdir: amp
 
