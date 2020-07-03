@@ -1,10 +1,9 @@
 ---
 layout: post
 seo_title: SEO Tytuł postu
-seo_description: |-
-  META Opis postu
+seo_description: META Opis postu
 date: 2019-10-28T16:02:04.000+00:00
-update_date: 2020-02-28 16:02:04 +0000
+update_date: 2020-02-28T16:02:04.000+00:00
 title: Jakie rury do gazu wybrać - przewody miedziane czy stalowe?
 small-intro: Każde gospodarstwo domowe generuje ścieki, które należy w jakiś sposób
   odprowadzić.
