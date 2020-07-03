@@ -6,21 +6,9 @@ seo_description: |-
   Szukasz najlepszego dystrybutora wyposażenia instalacyjnego? Sprawdź
   ofertę InstalGuru. Proponujemy artykuły systemów wodnych, wentylacyjnych i montażowych.
 menu: true
-menu_title: O nas
-page_header: O nas
-hreflangs:
-- lang: pl
-  link: https://instalguru.pl/
-- lang: cs
-  link: https://instalguru.cs/
-- lang: de
-  link: https://instalguru.de/
-- lang: it
-  link: https://instalguru.it/
-- lang: fr
-  link: https://instalguru.fr/
-- lang: es
-  link: https://instalguru.es/
+menu_title: About us
+page_header: About us
+hreflangs: []
 
 ---
 ## Proponujemy między innymi elementy instalacji C.O, gazowej czy kanalizacyjnej.
