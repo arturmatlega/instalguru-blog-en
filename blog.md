@@ -11,8 +11,8 @@ page_header: Blog
 hreflangs:
 - lang: pl
   link: https://instalguru.pl/blog.html
-- lang: cs
-  link: https://instalguru.cs/blog.html
+- lang: en
+  link: https://instalguru.co.uk/blog.html
 - lang: de
   link: https://instalguru.de/blog.html
 - lang: it
@@ -21,6 +21,8 @@ hreflangs:
   link: https://instalguru.fr/blog.html
 - lang: es
   link: https://instalguru.es/blog.html
+- lang: cs
+  link: https://instalguru.cz/blog.html
 
 ---
 ## Poszukujesz porad związanych z budową, remontem lub wyposażeniem budynku?

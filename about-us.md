@@ -8,7 +8,21 @@ seo_description: |-
 menu: true
 menu_title: About us
 page_header: About us
-hreflangs: []
+hreflangs:
+- lang: en
+  link: https://instalguru.co.uk/about-us.html
+- lang: pl
+  link: https://instalguru.pl/o-nas.html
+- lang: de
+  link: https://instalguru.de/uber-uns.html
+- lang: it
+  link: https://instalguru.it/riguardo-a-noi.html
+- lang: fr
+  link: https://instalguru.fr/a-propos-de-nous.html
+- lang: es
+  link: https://instalguru.es/sobre-nosotras.html
+- lang: cs
+  link: https://instalguru.cz/o-nas.html
 
 ---
 ## Proponujemy między innymi elementy instalacji C.O, gazowej czy kanalizacyjnej.

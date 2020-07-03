@@ -17,8 +17,8 @@ blog_intro: Dobrze trafiłeś! Znajdziesz tu informacje na temat najlepszych roz
 hreflangs:
 - lang: pl
   link: https://instalguru.pl/
-- lang: cs
-  link: https://instalguru.cz/
+- lang: en
+  link: https://instalguru.co.uk/
 - lang: de
   link: https://instalguru.de/
 - lang: it
@@ -27,5 +27,7 @@ hreflangs:
   link: https://instalguru.fr/
 - lang: es
   link: https://instalguru.es/
+- lang: cs
+  link: https://instalguru.cz/
 
 ---
