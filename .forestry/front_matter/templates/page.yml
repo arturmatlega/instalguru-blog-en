@@ -39,6 +39,6 @@ fields:
     name: link
     label: link
 pages:
+- about-us.md
 - blog.md
 - kontakt.md
-- o-nas.md
