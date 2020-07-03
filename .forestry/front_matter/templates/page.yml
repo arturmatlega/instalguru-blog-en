@@ -39,6 +39,7 @@ fields:
     name: link
     label: link
 pages:
+- 404.md
 - about-us.md
 - blog.md
 - contact.md
