@@ -6,7 +6,7 @@ seo_description: 'Sklep internetowy Instalguru - najwyższej jakości artykuły:
   instalacyjne, budowa domu, montaż, wykończenie wnętrz i ogród. Wszystko w jednym
   miejscu.'
 menu: false
-menu_title: Strona główna
+menu_title: Home
 page_header: Sklep internetowy instalguru
 page_intro: InstalGuru to sklep internetowy będący jednym z głównych dystrybutorów
   na rynku w zakresie techniki grzewczej, systemów instalacyjnych, armatury kuchennej
@@ -18,7 +18,7 @@ hreflangs:
 - lang: pl
   link: https://instalguru.pl/
 - lang: cs
-  link: https://instalguru.cs/
+  link: https://instalguru.cz/
 - lang: de
   link: https://instalguru.de/
 - lang: it
