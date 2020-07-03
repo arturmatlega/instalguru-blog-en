@@ -10,17 +10,17 @@ menu_title: Blog
 page_header: Blog
 hreflangs:
 - lang: pl
-  link: https://instalguru.pl/
+  link: https://instalguru.pl/blog.html
 - lang: cs
-  link: https://instalguru.cs/
+  link: https://instalguru.cs/blog.html
 - lang: de
-  link: https://instalguru.de/
+  link: https://instalguru.de/blog.html
 - lang: it
-  link: https://instalguru.it/
+  link: https://instalguru.it/blog.html
 - lang: fr
-  link: https://instalguru.fr/
+  link: https://instalguru.fr/blog.html
 - lang: es
-  link: https://instalguru.es/
+  link: https://instalguru.es/blog.html
 
 ---
 ## Poszukujesz porad związanych z budową, remontem lub wyposażeniem budynku?
