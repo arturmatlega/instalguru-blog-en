@@ -1,11 +1,11 @@
 ---
 layout: page
-pagename: contanct
+pagename: contact
 seo_title: SEO Kontakt
 seo_description: META Kontakt
 menu: true
-menu_title: Contanct
-page_header: Contanct
+menu_title: Contact
+page_header: Contact
 hreflangs: []
 
 ---
