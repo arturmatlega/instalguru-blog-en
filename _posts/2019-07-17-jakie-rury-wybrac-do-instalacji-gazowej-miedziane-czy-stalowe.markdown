@@ -1,94 +1,84 @@
 ---
 layout: post
-seo_title: Jakie Rury do Gazu Wybrać? Które Przewody Będą Trwałe?
-seo_description: "Jak wykonać  poprawnie działającą instalację gazową? ✔️ Które rury
-  do gazu będą lepsze - przewody miedziane \U0001F19A rurki stalowe? Postaw na jakość
-  i trwałość."
-date: 2019-07-17 15:02:04 +0000
-update_date: 2019-07-17 15:02:04 +0000
-title: |-
-  Jakie rury do gazu wybrać - przewody miedziane czy stalowe? Instalacja gazowa
-  bez tajemnic
-small-intro: 'Instalacja gazowa to w ostatnich latach podstawa niemal każdego nowego
-  budynku. '
-intro: Instalacja gazowa to w ostatnich latach podstawa niemal każdego nowego budynku.
-  Daje ona wiele korzyści. Jest to między innymi możliwość podłączenia sieci grzewczej
-  całego budynku. Nie każda instalacja gazowa jest jednak taka sama, co jest zależne
-  od wykorzystanych do jej stworzenia materiałów. W tym celu wykorzystywane są rurki
-  stalowe oraz przewody miedziane. Konieczne jest także ich uzupełnienie w dodatkowe
-  komponenty instalacyjne - między innymi zawory czy filtry. Zanim zdecydujesz się
-  na konkretne rozwiązanie, sprawdź, czym charakteryzuje się każde z nich. To powinno
-  zdecydowanie ułatwić Ci wybór.
+seo_title: Gas line installation. Which pipe is better - copper or steel?
+seo_description: 'Planning to install gas fittings at your home? Make sure to choose
+  the right pipes. Which pipe type it is better to use in your pipeworks - copper
+  or steel? '
+date: 2019-07-17T15:02:04.000+00:00
+update_date: 2019-07-17T15:02:04.000+00:00
+title: Which gas pipe is better - copper or steel?
+small-intro: Gas line installation is an essential element probably for every new
+  building.
+intro: Gas line installation is an essential element probably for every new building.
+  It allows to connect the whole building to the heating system. Gas installation
+  can consist of steel pipes, although copper pipes are used as well. Before choosing
+  a particular solution, one should learn advantages and disadvantages of both. Thank
+  to such knowledge the decision is easier to make.
 photo: "/uploads/195e87ad8a354ffb801e5efc82cd9ffe.jpg"
-photo_desc: 'Nie każda instalacja gazowa jest jednak taka sama, co jest zależne od
-  wykorzystanych do jej stworzenia materiałów. '
+photo_desc: Gas installation can consist of steel pipes, although copper pipes are
+  used as well.
 faq:
-- question: Ile kosztuje instalacja gazowa?
-  answer: |-
-    Koszt instalacji gazowej to wydatek rzędu 1700 - 3000 złotych w zależności
-    od wymagań, charakteru projektu i wykorzystanych materiałów. Wycena zależna jest także od kosztu robocizny - ten może być różny w zależności np. od miejsca zamieszkania.
-- question: Instalacja gazowa w domu - jakie rury wybrać?
-  answer: Według niektórych osób przewody miedziane są idealnym wyborem do instalacji
-    gazowych. Zaletą tego rozwiązania jest fakt, że rury miedziane do gazu są plastyczne
-    od odporne na rozciąganie. Możliwe jest także wykorzystanie rurek stalowych w
-    instalacjach gazowych, których główną zaletą jest przede wszystkim sztywność.
-    Dzięki tej właściwości nie ma konieczności stosowania dodatkowych mocowań do powierzchni
-    ściany.
+- question: How to solder copper pipes?
+  answer: If you are not a professional, do not attempt to solder a gas pipe. It is
+    best to hire a specialist who will do it quickly and safely.
+- question: How to connect PVC pipes?
+  answer: You can connect a PVC tube by gluing it. Cover ends of both elements with
+    glue, and then apply glue. This is a very easy method of connecting a pvc pipe.
+- question: How long do copper pipes last?
+  answer: Copper pipes typically last around 20 years. Properly maintained, this type
+    of pipework material can last up to 50 years - in some cases even longer.
+- question: What is pvc pipes?
+  answer: The abbreviation PVC stands for polyvinyl chloride. In recent times it is
+    common to replace metal pipes with PVC tubes in water installations.
 author_name: Mateusz Knapik
-author_desc: Specjalista ds. sprzedaży i obsługi klienta w sklepie Instalguru
+author_desc: Sales and Customer Support Specialist at Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: true
 hreflangs:
 - lang: pl
-  link: https://instalguru.pl/
-- lang: cs
-  link: https://instalguru.cs/
+  link: ''
+- lang: en
+  link: ''
 - lang: de
-  link: https://instalguru.de/
+  link: ''
 - lang: it
-  link: https://instalguru.it/
+  link: ''
 - lang: fr
-  link: https://instalguru.fr/
+  link: ''
 - lang: es
-  link: https://instalguru.es/
+  link: ''
+- lang: cs
+  link: ''
 
 ---
 ## Rury miedziane do gazu? Jakie zalety ma tak stworzona instalacja gazowa?
 
-Rury miedziane do gazu to wybór polecany tak naprawdę przez wielu specjalistów. **Co wpływa na ten fakt?** Przede wszystkim przewody miedziane są plastyczne, a jednocześnie odporne na rozciąganie. Jest to bardzo ważna kwestia, którą należy uwzględnić podczas pracy przy wysokich temperaturach, jakie osiąga instalacja gazowa.
+Pipes made of copper are typically recommended for gas line installation. Why? The main reason is the fact that copper is a malleable metal which can stretch without damage. It is very important issue for systems working in high temperatures. It requires preparing enough space for an installation, as it can increase its size. A **copper tube is definitely smaller than pipes made of other materials** - its walls are thinner, as less material is used for their production.
 
-To, na co warto zwrócić uwagę, wybierając rury miedziane do gazu, to wygospodarowanie dostatecznej ilości miejsca na instalację, które może delikatnie zwiększać swój rozmiar. Z drugiej strony jednak **przewody miedziane do instalacji gazowej** są mniejsze ze względu na cieńsze ścianki i wykorzystanie mniejszej ilości materiału do ich produkcji porównując z nimi, chociażby rurki stalowe.
+{:.distinction.distinction-info.distinction-positive}
 
-{:.distinction.distinction-quotation.distinction-positive}
+Copper gas installations are leaktight and resistant to various factors, such as UV lighting. The biggest advantage of a copper pipe is it high resistance to corrosion.
 
-_Przewody miedziane sprawiają, że instalacja gazowa w domu jest szczelna i odporna na różne czynniki np. duże promieniowanie UV. Jednak największą zaletą jest fakt, że rury miedziane do gazu charakteryzuje wysoka odporność na korozję._
+## Copper pipes - how to connect the elements?
 
-### Jak łączyć ze sobą przewody miedziane?
-
-Instalacja gazowa, w której zastosowane zostały przewody miedziane, daje wiele możliwości w zakresie ich łączenia. Rury miedziane do gazu są twarde, a ich grubość przekracza 1mm. W związku z tymi właściwościami najczęściej stosowana metoda to lutowanie. Przed wykonaniem łączenia warto oczyścić powierzchnię za pomocą specjalnej [szczotki do miedzi](https://instalguru.com/pl/products/szczotka-do-miedzi), dzięki czemu będzie ono trwalsze. Specjaliści zalecają także wykorzystanie [pasty do lutu](https://instalguru.com/pl/products/pasta-do-lutu-degufit-3000), która przeznaczona jest do rur i złączek wykonanych z miedzi.
-
-Innym sposobem jest także wykorzystanie [kształtek zaprasowywanych](https://instalguru.com/pl/systemy-instalacyjne/ksztaltki/zaprasowywane). W tym przypadku sprawdzi się zwykła [złączka PEX](https://instalguru.com/pl/products/zlaczka-pex-zaprasowywana). Jeżeli jednak będziesz chciał zmienić kierunek biegu instalacji gazowej - dopasowują go tym samym do konstrukcji budynku, wykorzystaj [trójniki PEX](https://instalguru.com/pl/products/trojnik-pex-zaprasowywany) lub [kolanka zaprasowywane](https://instalguru.com/pl/products/kolanko-pex-zaprasowywane). Sam montaż tych elementów jest natomiast obecnie jednym z najłatwiejszych, dzięki temu poradzi sobie z nim każdy specjalista. To przekłada się także na zdecydowanie niższy koszt instalacji gazowej.
+**Copper pipes** used in home gas line installation are quite tough. Their walls are typically over 1 mm. Because of it the tubes can be connected very effectively, by the means of hard soldering. You shouldn’t attempt to solder a gas pipe yourself - leave it to a professional. Another method is using compression fitting. Assembling such pipes is very easy and it should not be a problem for a specialist. This fact contributes greatly to lower costs of assembling the installation.
 
 ![](/uploads/e2aff6e93728483ea374e9d2c218e2c2.jpg)
 
-## Rurki stalowe - instalacja gazowa bardziej narażona na szkodliwe czynniki?
+## What are the advantages of steel pipes?
 
-Rurki stalowe, które wykorzystuje instalacja gazowa, mają średnice większe niż w przypadku odpowiedników wykonanych z miedzi. Wynika to z faktu, że ich ścianki są grubsze. Dzięki temu są one sztywne i nie ma konieczności wykorzystywania dodatkowych elementów mocowania do ściany. **Niestety w ten sposób wykonana instalacja gazowa w domu jest także zdecydowanie cięższa.** Rurki stalowe podobnie, jak i przewody miedziane mają właściwość nazywaną rozszerzalnością cieplną. Dzięki temu doskonale sprawdzają się w przypadku wysokich temperatur.
+Steel pipes used for **gas line installation** have bigger diameters than the copper counterparts. The walls of a steel tube is thicker, therefore it is more stiff and it does not need to be attached to a wall with additional elements. Unfortunately this type of installation is very heavy.
 
-{:.distinction.distinction-quotation.distinction-negative}
+Similar to copper piping, steel pipes for gas line installation undergo thermal expansion. This feature makes them suitable for working in high temperatures. Steel pipes can be assembled by a specialist by the means of soldering or using threaded fittings.
 
-_Montaż tych elementów jest możliwy dzięki ich spawaniu lub łączeniu na gwincie. W porównaniu do instalacji wykonanej z miedzi czas jego wykonania jest jednak znacznie dłuższy. Minusem może być również o wiele niższa odporność na korozję i powstawanie kamienia w przewodach. Właśnie z tego względu rurki stalowe są rzadziej wybierane niż przewody miedziane._
+{:.distinction.distinction-info.distinction-negative}
 
-## Jaka instalacja gazowa będzie lepsza - z wykorzystaniem rur miedzianych czy stalowych?
+Compared to copper pipes, the process of connecting steel pipes takes far more time. They are also less resistant to corrosion and more likely to build up scale inside (if used for a water installation).
 
-Zarówno rurki stalowe, jak i przewody miedziane mają swoje wady i zalety. Na korzyść miedzi oprócz funkcjonalności przemawia także estetyka wykonania. Tego typu instalacja gazowa może być wykorzystana jako element wystroju wnętrza. Nie jest ona jednak wskazana dla systemu podtynkowego. Równie wytrzymałe są rurki stalowe, które idealnie sprawdzają się w zabudowie. Nie powinny one natomiast być montowane w tych miejscach, gdzie panuje duża wilgoć.
+### Pipes lifespan
 
-Instalacja gazowa w domu powinna być zatem dopasowana do warunków, jakie panują w konkretnym budynku.
+Both copper and steel pipes can last very long, from 20 to 50 years, and in some cases even longer. Those materials are often replaced with PVC (polyvinyl chloride) tubes, however their lifespan is a debatable matter. They are not, however, used for gas installations.
 
-## Instalacja gazowa w domu - dodatkowe wyposażenie, w które warto zainwestować
+## Gas line installation - copper or steel pipes?
 
-Jeżeli wybierzesz odpowiednie rury do gazu, pamiętaj, aby skompletować także pozostałe wyposażenie, które będzie odpowiadać za prawidłową pracę całego systemu w budynku. Same **rury gazowe** są oczywiście podstawą, ale nie powinny być stosowane bez dodatkowych części.
-
-Wśród najważniejszych elementów wymienia się przede wszystkim zawory kulowe. Wykorzystanie tego komponentu jest bardzo ważne - zwłaszcza w sytuacji, kiedy dopływ gazu musi być szybko zamknięty. Doskonałym przykładem jest awaria, która może zdarzyć się zawsze. Wykorzystując [zawór kulowy do gazu](https://instalguru.com/pl/products/zawor-kulowy-do-gazu), masz pewność, że zawsze, kiedy będzie taka potrzeba - będziesz mógł samodzielnie zamknąć jego dopływ do domu. To ogromny komfort, kiedy nie trzeba wzywać specjalisty do tak błahego zadania.
-
-Dobrze działająca instalacja gazowa w domu jest także zależna od takich akcesoriów jak [filtr skośny do gazu](https://instalguru.com/pl/products/filtr-skosny-do-gazu). Dzięki niemu możesz pozbyć się wszelkich zanieczyszczeń znajdujących się w systemie instalacyjnym. Ten mały, aczkolwiek bardzo funkcjonalny produkt jest w stanie zapobiegać awariom, które mogłyby się skończyć poważnymi skutkami, a przede wszystkim generowałyby wysokie koszty naprawy.
+Both of the solutions have their strengths and weaknesses. Copper installation is not only functional but also looks good. Pipes of this type might serve as a decoration. Nonetheless, they are not suitable for **recessed systems**. Steel pipes, on the other hand are as strong as copper and they can be placed inside of a wall. They cannot be, however, installed in places of high humidity due to their corrosiveness.
