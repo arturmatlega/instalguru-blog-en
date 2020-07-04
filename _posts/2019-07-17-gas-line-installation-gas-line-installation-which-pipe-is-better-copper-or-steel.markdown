@@ -6,7 +6,7 @@ seo_description: "Planning to install gas fittings at your home? ✔️ Make sur
   \U0001F19A steel? "
 date: 2019-07-17T15:02:04.000+00:00
 update_date: 2019-07-17T15:02:04.000+00:00
-title: Which gas pipe is better - copper or steel?
+title: Gas line installation. Which pipe is better - copper or steel?
 small-intro: Gas line installation is an essential element probably for every new
   building.
 intro: Gas line installation is an essential element probably for every new building.
