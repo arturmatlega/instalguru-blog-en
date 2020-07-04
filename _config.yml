@@ -3,6 +3,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://instalguru.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 lang: "en"
 photo: "/assets/img/default.jpg"
+scvarificationnumber: "ue_IscLxssveSXAKUAH89IIyVfWSR2nvp0ZupO50IFI" # numer identyfikacjyny google search console
+analyticsvarificationnumber: "UA-145248341-5" # numer identyfikacjyny google analyticks
 
 markdown: kramdown
 
