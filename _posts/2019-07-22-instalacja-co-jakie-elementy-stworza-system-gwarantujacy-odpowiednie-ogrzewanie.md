@@ -67,6 +67,8 @@ Whether they are PVC fittings, PEX fittings, copper fittings or any other type, 
 
 A threaded fitting consists of the following elements:
 
+{:.list}
+
 * A threaded nut.
 * Tightening ring.
 * Tube (with sealing o-rings).
