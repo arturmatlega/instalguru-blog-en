@@ -83,6 +83,8 @@ Threaded pipe fittings have a threaded nut which needs to be twisted off the die
 
 There are several elements in press pipe fittings:
 
+{:.list}
+
 * Tightening sleeve.
 * Tube (with sealing o-rings).
 * Dielectric spacer.
