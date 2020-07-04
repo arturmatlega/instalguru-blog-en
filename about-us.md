@@ -1,10 +1,9 @@
 ---
 layout: page
 pagename: aboutus
-seo_title: InstalGuru - Najlepszy dystrybutor wyposażenia instalacyjnego
-seo_description: |-
-  Szukasz najlepszego dystrybutora wyposażenia instalacyjnego? Sprawdź
-  ofertę InstalGuru. Proponujemy artykuły systemów wodnych, wentylacyjnych i montażowych.
+seo_title: Instalguru | Building, renovation and garden supplies
+seo_description: Are you interested in the best solutions? Check our stock and select
+  superior products that fit your needs. Find professional knowledge and experience.
 menu: true
 menu_title: About us
 page_header: About us
@@ -25,20 +24,16 @@ hreflangs:
   link: https://instalguru.cz/o-nas.html
 
 ---
-## Proponujemy między innymi elementy instalacji C.O, gazowej czy kanalizacyjnej.
+Are you looking for a high-quality construction hardware in a competitive price? Instalguru is an online shop that offers construction materials, home fixtures and fittings and garden equipment. We sell products that can improve a building’s condition and enhance its functionality.
 
-Są to pompy i zbiorniki, zawory, odpowietrzniki, syfony, spłuczki, akcesoria do zlewozmywaków i umywalek, systemy rynnowe czy narzędzia ręczne.
+## A wide selection of products
 
-Dzięki produktom dostępnym w naszej ofercie można w prosty sposób stworzyć sieć wodno-kanalizacyjną lub instalację grzewczą. Co więcej, można wyremontować swoją kuchnię lub łazienkę - a to wszystko w bardzo atrakcyjnych cenach.
+We offer the most effective solutions provided by the most renowned global manufacturers. The rich choice of products of various parameters will interest both specialists in construction industry, as well as private customers.
 
-Bogate doświadczenie oraz specjalistyczna wiedza sprawiają, że **oferujemy najlepsze produkty na rynku** - wyróżniające się wysoką odpornością oraz precyzją wykonania. Nasza oferta skierowana jest do wszystkich tych osób, dla których jakość i zadowolenie są najważniejsze.
+## Delivery within Europe
 
-## Co nas wyróżnia na tle konkurencji?
+We provide a fast and professional order processing, with various forms of payment and delivery - fit to your needs. We guarantee shipment to most European countries. You can also pick your order yourself.
 
-Szybka i profesjonalna obsługa - to słowa, które najbardziej charakteryzują naszą firmę. Zapewniamy elastyczne formy płatności, szybką realizację zamówień i dogodne formy transportu. Przesyłka dostępna jest zarówno na terenie Polski, jak i całej Europy. Klienci z okolic Krakowa mają także możliwość osobistego odbioru zamówionego towaru.
+## Professional help
 
-Wychodząc naprzeciw oczekiwaniom coraz szerszej grupy klientów, służymy pomocą w wyborze rozwiązań dopasowanych do indywidualnych potrzeb. Fachowe doradztwo jest jednym z głównych celów naszej firmy. Dążymy do ciągłego rozwoju - zarówno w kwestii wyboru asortymentu, jak i doskonalenia naszych specjalistów. Dokładamy wszelkich starań, aby rozwiązania dostępne w naszej ofercie były w pełni satysfakcjonujące - zarówno dla klientów indywidualnych, jak i specjalistycznych firm montażowych, z którymi współpracujemy.
-
-Jesteśmy dumni, że nasza praca przekłada się na zaufanie, którym obdarzają nas partnerzy, decydując się na ponowne skorzystanie z naszej oferty.
-
-**Wierzymy, że jest ono podstawą długoletniej, owocnej współpracy.**
+Do you need an advice on which product to choose so that it is best for the work you need to do? Our experts will try to resolve your problem and match the suitable products to meet all of your needs. You can also use the suggestions from the articles published on the blog. They are full of extensive specialized information concerning construction, renovations, home finishing and garden equipment.
