@@ -51,7 +51,7 @@ hreflangs:
   link: ''
 
 ---
-## Rury miedziane do gazu? Jakie zalety ma tak stworzona instalacja gazowa?
+## Copper tube - why it is used in gas line installation?
 
 Pipes made of copper are typically recommended for gas line installation. Why? The main reason is the fact that copper is a malleable metal which can stretch without damage. It is very important issue for systems working in high temperatures. It requires preparing enough space for an installation, as it can increase its size. A **copper tube is definitely smaller than pipes made of other materials** - its walls are thinner, as less material is used for their production.
 
