@@ -1,19 +1,19 @@
 ---
 layout: index
 pagename: home
-seo_title: Instalguru - sklep internetowy | Instalacje, budowa, ogród
-seo_description: 'Sklep internetowy Instalguru - najwyższej jakości artykuły: systemy
-  instalacyjne, budowa domu, montaż, wykończenie wnętrz i ogród. Wszystko w jednym
-  miejscu.'
+seo_title: Instalguru | Online store - construction, home and garden
+seo_description: A wide selection of fixtures and fittings. High-quality products
+  and accessories for your home and garden. Best solutions for construction and renovation.
 menu: false
 menu_title: Home
-page_header: Sklep internetowy instalguru
-page_intro: InstalGuru to sklep internetowy będący jednym z głównych dystrybutorów
-  na rynku w zakresie techniki grzewczej, systemów instalacyjnych, armatury kuchennej
-  i łazienkowej oraz akcesoriów montażowych.
-blog_intro: Dobrze trafiłeś! Znajdziesz tu informacje na temat najlepszych rozwiązań
-  gwarantujących wysoką jakość oraz bezpieczeństwo - nie tylko z zakresu budownictwa,
-  ale także techniki grzewczej, wentylacji, kanalizacji czy montażu.
+page_header: Instalguru online store
+page_intro: Check what we have in stock and pick from hundreds of products from various
+  manufacturers. Choose the most superior quality in attractive prices and have the
+  products sent directly where you want it.
+blog_intro: Are you interested in issues concerning construction or home improvement?
+  Are you seeking the best solutions for your home or garden? We have prepared the
+  finest tips and inspirations for you - supported by knowledge and experience. Check
+  us and find the answers to your questions.
 hreflangs:
 - lang: pl
   link: https://instalguru.pl/
