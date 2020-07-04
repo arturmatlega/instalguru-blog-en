@@ -1,108 +1,99 @@
 ---
 layout: post
-seo_title: Instalacja CO - jakie elementy stworzą system gwarantujący odpowiednie
-  ogrzewanie?
-seo_description: "Budujesz dom? \U0001F3E0 Zastanawiasz się jakie elementy PEX wybrać
-  do rur instalacji CO? \U0001F449 Sprawdź, które złączki będą lepsze - skręcane czy
-  zaprasowywane."
+seo_title: 'Pipe fittings: do threaded and press fittings differ?'
+seo_description: "Are you planning a home renovation?\U0001F3E0 Perhaps you are wondering
+  what pipe fittings you should choose?\U0001F449 Learn the difference between threaded
+  and press fittings"
 date: 2019-07-22T22:00:00.000+00:00
 update_date: 2019-07-22T22:00:00.000+00:00
-title: Instalacja CO - jakie elementy stworzą system gwarantujący odpowiednie ogrzewanie?
-small-intro: 'Każda instalacja CO może bazować na różnych rodzajach połączeń poszczególnych
-  elementów. '
-intro: Każda instalacja CO może bazować na różnych rodzajach połączeń poszczególnych
-  elementów. Wynika to przede wszystkim z ich wykonania bazującego na zróżnicowanych
-  materiałach. Najpopularniejsze od lat są systemy PEX w wersji skręcanej i zaprasowywanej.
-  Jednak w zależności od potrzeb - ogrzewanie budynku może wykorzystywać przewody
-  instalacyjne wyprodukowane z mosiądzu, niklu, czy żeliwa. Sprawdź, czym charakteryzuje
-  się każda instalacja grzewcza i jak dokładnie wygląda kwestia jej budowy.
+title: 'Pipe fittings: do threaded and press fittings differ?'
+small-intro: Water and central heating installation uses various types of pipe fittings
+intro: Water and central heating installation uses various types of pipe fittings.
+  Two of the most popular elements are threaded fittings and press elements. What
+  is the difference between them and what are their biggest advantages? Pipe fittings
+  are among the most important elements of any water installation. PVC fittings and
+  PEX fittings are becoming more popular, being chosen more often than copper fittings.
+  The can be used both in heating (95° C max) and water installation. One of the biggest
+  advantages of a solution of this type is the possibility to transfer drinking water
+  without the risk of polluting it. Regardless of the type, both products can be used
+  to connect a PEX pipe with other elements in water installation. Different types,
+  such as tees and elbows are useful to build larger and more complicated installations.
 photo: "/uploads/f4dc065de7c0426d8ca399f2c22cf17d.png"
-photo_desc: Najpopularniejsze od lat są systemy PEX w wersji skręcanej i zaprasowywanej.
-faq: []
+photo_desc: 'Two of the most popular elements are threaded fittings and press elements. '
+faq:
+- question: PEX fittings - how to install them?
+  answer: The method of installation for PEX pipe fittings depends on their construction.
+    Before starting the installation process you should make sure which type you own
+    and follow the manufacturer’s instructions.
+- question: How to measure pipe fittings?
+  answer: Measuring pipes and pipe fittings depends on the type of the thread. For
+    male threads, measure the outside diameter. For female threads you should measure
+    the inside diameter.
+- question: How to sweat copper fittings?
+  answer: Start from cleaning the metal and the apply a flux paste. Put the pipe fitting
+    on the pipe and heat the joint so that the flux paste melts and secures the fitting.
+- question: How to remove pex fittings?
+  answer: The easiest way to remove PEX pipe fittings is using a special removal tool.
+    Use it to cut the crimp ring band. Many types, for instance copper fittings can
+    be used again, if they are not damaged.
 author_name: Mateusz Knapik
-author_desc: Specjalista ds. sprzedaży i obsługi klienta w sklepie Instalguru
+author_desc: Sales and Customer Support Specialist at Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: pl
+  link: ''
+- lang: en
+  link: ''
+- lang: de
+  link: ''
+- lang: it
+  link: ''
+- lang: fr
+  link: ''
+- lang: es
+  link: ''
+- lang: cs
+  link: ''
 
 ---
-## Ogrzewanie bazujące na systemach PEX
+## Pipe fittings - construction and installation
 
-Instalacja CO, która od lat cieszy się ogromnym zainteresowaniem, bazuje przede wszystkim na systemach PEX. Ze względu na wykorzystany do ich produkcji materiał oraz właściwości [rury typu PEX/AL/PEX](https://instalguru.com/pl/products/rura-pex-al-pe) i [kształtki PEX](https://instalguru.com/pl/products/zlaczka-pex-zaprasowywana) mogą być stosowane zarówno jeżeli chodzi o instalacje CO, jak i CWU. **Ograniczeniem jest w tym przypadku temperatura, która może wynosić maksymalnie 95°C.**
+Whether they are PVC fittings, PEX fittings, copper fittings or any other type, their construction is not very complicated. The elements differ only slightly. The main distinction is in **the method of installation**. See a comprehensive description of threaded and press fittings below.
 
-Dodatkową zaletą tego rozwiązania jest możliwość przesyłania wody pitnej bez obaw o jej skażenie - niezależnie od tego, czy wybierasz [złączki zaprasowywane](https://instalguru.com/pl/systemy-instalacyjne/ksztaltki/zaprasowywane), czy [kształtki skręcane](https://instalguru.com/pl/systemy-instalacyjne/ksztaltki/skrecane). W łączeniu rur PEX z pozostałymi elementami instalacji wodnych możesz wykorzystać różne typu elementów. Są to przede wszystkim [kolanka PEX](https://instalguru.com/pl/products/kolanko-pex-zaprasowywane), czy [trójniki PEX](https://instalguru.com/pl/products/trojnik-pex-skrecany). Ich zastosowanie daje możliwość stworzenia większych i bardziej skomplikowanych sieci - dopasowanych do struktury budynku. Dzięki temu schemat instalacji CO powstaje bardzo sprawnie, a następnie możliwa jest jego realizacja.
-
-Różnica, którą wykazują instalacje CO, gdzie zastosowano systemy PEX, polega na wykorzystaniu różnych rodzajów złączek. **Czym charakteryzują się poszczególne elementy?**
-
-### Instalacje CO z wykorzystaniem złączek skręcanych
+### Threaded fittings
 
 ![](/uploads/6ff11734a9a849f79c5bf79cdea6dea0.png)
 
-Podstawą, którą wykorzystuje każda instalacja CO są **przewody PEX/AL/PEX**. Jednak ich zespolenie odbywa się za pomocą odpowiednich kształtek. W złączce skręcanej możemy wyróżnić następujące elementy:
+A threaded fitting consists of the following elements:
 
-1. Nakrętka z gwintem.
-2. Pierścień zaciskowy.
-3. Trzpień złączki (z dodatkowymi o-ringami uszczelniającymi).
-4. Przekładka dielektryczna.
-5. Korpus.
+* A threaded nut.
+* Tightening ring.
+* Tube (with sealing o-rings).
+* Dielectric spacer.
+* Fitting body.
 
-W kształtkach skręcanych nakrętka odkręcana jest od przekładki dielektrycznej złączki. Następnie konieczne jest nałożenie nakrętki i pierścienia zaciskowego na rurę. Trzpień złączki należy włożyć do środka rury, bardzo dokładnie dociskając go, w celu wyeliminowania przerw pomiędzy rurą a trzpieniem (ważne jest, aby rura była ucięta możliwie jak najbardziej pod kątem prostym - to gwarantuje, że instalacja CO będzie szczelna). Gdy trzpień znajduje się już w rurze, należy zakręcić rękami do oporu nakrętkę, a następnie dokręcić ją o 3/4 obrotu rury za pomocą kluczy.
+Threaded pipe fittings have a threaded nut which needs to be twisted off the dielectric spacer. Then the nut and tightening ring is put on the pipe. The tube should be placed inside the pipe and press it tightly to eliminate any spaces between the two elements (the pipe should be cut in 90 degree angle). If **the tube is inside the pipe**, the nut should be screwed with hands as tightly as possible and then fastened with a wrench. Be careful not to fasten the nut too much, as it could damage both the fitting and the pipe.
 
-{:.distinction.distinction-info.distinction-positive}
-
-Trzeba być ostrożnym, aby nie przekręcić nakrętki za bardzo, ponieważ grozi to uszkodzeniem zarówno złączki, jak i rury.
-
-### Instalacja grzewcza z zastosowaniem złączek zaprasowywanych
+### Press pipe fittings
 
 ![](/uploads/7e1cd077fb3640e6b0a524d398d1f7d9.png)
 
-Bardzo popularne są także instalacje CO, gdzie stosowane są kształtki zaprasowywane. W takim przypadku można wyróżnić następujące elementy złączki:
+There are several elements in press pipe fittings:
 
-1. Tuleja zaciskowa.
-2. Trzpień złączki (z dodatkowymi o-ringami uszczelniającymi).
-3. Przekładka dielektryczna.
-4. Korpus.
+* Tightening sleeve.
+* Tube (with sealing o-rings).
+* Dielectric spacer.
+* Fitting body.
 
-W kształtkach zaprasowywanych tuleja zaciskowa nakładana jest bezpośrednio na rurę (bez jej uprzedniego rozkładania). Konieczne jest upewnienie się za pomocą specjalnych otworów kontrolnych znajdujących się w tulei złączki, że rura znalazła się odpowiednio głęboko. W tym momencie pojawia się największa różnica w obu systemach, ponieważ **do kształtek zaprasowywanych niezbędna będzie specjalna zaciskarka**. Jest ona nakładana na tuleję zaciskową, po czym włączana. Po kilku sekundach można usłyszeć charakterystyczny trzask oznaczający, że tuleja została odpowiednio połączona z rurą. Tak stworzona instalacja CO jest równie trwała.
+Installation of pipe fittings of this type involves putting the tightening sleeve directly on pipe (without dismantling it). **Special gaps** located in the tube are used to make sure that the pipe has been placed deep enough. To fix the fitting, a special mechanical press tool is used, which is the main difference between the two types. The tool is put on the pipe and turned on. After a few seconds you can hear a characteristic noise - that means that the fitting has been properly connected with the pipe.
 
-### Schemat instalacji CO - różnice w systemach PEX
+## Pipe fittings - main differences
 
-Największą różnicą, jeżeli chodzi o instalacje CO z wykorzystaniem obu wymienionych systemów, jest sposób ich montażu. **Kształtki skręcane są przede wszystkim znacznie łatwiejsze do zamontowania i nie wymagają użycia specjalistycznych narzędzi.** Ponadto po zamontowaniu można ponownie rozebrać daną kształtkę - to sprawia, że instalacja grzewcza może być modernizowana bez większego problemu z wykorzystaniem tych samych akcesoriów.
+As stated in the descriptions above, the main difference between the two systems lies in the method of installation. **Threaded fittings are easier to install** and they do not require any special tools. Threaded pipe fittings are also cheaper than the other ones (although the difference in pricing is relatively small). An additional advantage is the fact that the fitting can be easily disassembled after the installation.
 
-Może zdarzyć się oczywiście sytuacja, w której już po jednym założeniu i rozłożeniu pierścień zaciskowy będzie do wymiany - jest to kwestia indywidualna, zależna od intensywności eksploatacji systemu.
+There are, however, certain limitations. It might happen that after dismantling the fitting, the tightening ring needs to be replaced. Another disadvantage is that after installation the fitting cannot be moved, as it could cause leaking. It is particularly problematic with elbows, as they have to be positioned at a certain angle.
 
-{:.distinction.distinction-quotation.distinction-positive}
+Press pipe fittings are a bit more expensive. Using a mechanical press tool is a safer method of installation (it is easy to fasten a threaded fitting too tight). Pressed pipe fittings (especially elbows and tees) can be moved around after installation. This means that they can be easily adjusted to the next element without the risk of damage. Furthermore, they can be placed in concrete, as they are more durable and stable.
 
-_Instalacja centralnego ogrzewania, która wykorzystuje złączki skręcane, jest mniejszym kosztem, niż w przypadku zastosowania zaprasowywanych odpowiedników._
-
-Kształtki zaprasowywane są nieco droższe, natomiast posiadając zgrzewarkę, sam montaż jest dużo łatwiejszy i pewniejszy. Dodatkowo po zamontowaniu można je swobodnie obracać na rurze, tak aby dopasować je do kolejnego elementu, bez obawy o uszkodzenia. Ważna jest także możliwość umieszczenia złączek zaprasowywanych bezpośrednio w betonie, ponieważ są wytrzymalsze i bardziej odporne na jego przemieszczanie się. **Tego typu instalacja CO przez wiele osób uznawana jest więc za zdecydowanie trwalszą.**
-
-## Instalacja centralnego ogrzewania - złączki mosiężne
-
-Każda instalacja grzewcza powinna być przede wszystkim wytrzymała. Bardzo ważne jest wykonanie szczelnych i odpornych na różne czynniki połączeń. Właśnie z tego względu coraz częściej stosowanymi elementami są kształtki mosiężne: [kolana](https://https//instalguru.com/pl/products/kolano-mosiezne), [nyple](https://instalguru.com/pl/products/nypel-mosiezny) oraz różnego rodzaju [przedłużki](https://instalguru.com/pl/products/przedluzka-mosiezna).
-
-### Zastosowanie kształtek przy grzejnikach
-
-Złączki mosiężne ze względu na swoją wytrzymałość, a także odporność na działanie bardzo wysokich temperatur, są wykorzystywane do podpięcia instalacji z kaloryferami. W tym przypadku zastosowanie znajdują śrubunki. Oprócz trwałości wyróżniają się one także bardzo łatwą obsługą oraz funkcjonalnością.
-
-{:.distinction.distinction-quotation.distinction-negative}
-
-_Dzięki użyciu tych elementów, jeżeli instalacja CO ulegnie awarii - możliwy jest szybki demontaż kaloryfera._
-
-### Ogrzewanie - instalacje wodne i gazowe
-
-Złączki mosiężne to również podstawa instalacji gazowych i wodnych. W tym przypadku sprawdzają się wszystkie rodzaje kształtek. Ogromną zaletą jest możliwość zastosowania [redukcji mosiężnych](https://instalguru.com/pl/products/redukcja-mosiezna), czy [nypli redukcyjnych](https://instalguru.com/pl/products/nypel-redukcyjny-mosiezny). Z pomocą tych elementów nie ma problemu, jeżeli elementy instalacji mają inne średnice. Konstrukcja budynku bardzo często wymusza także zmiany, które musi uwzględniać schemat instalacji CO. Zmiana kierunku rurociągu w tym przypadku nie stanowi jednak większego problemu. Konieczne jest jedynie zastosowanie [trójnika mosiężnego](https://instalguru.com/pl/products/trojnik-mosiezny) lub wspomnianego już wcześniej kolanka.
-
-## Kształtki niklowane w instalacji CO
-
-Elementy niklowane, pokryte ochronną warstwą są wykorzystywane w instalacjach, gdzie oprócz odpowiedniej wytrzymałości liczy się także estetyka. Dotyczy to więc wszystkich tych miejsc, które są wyeksponowane - najczęściej w toaletach i łazienkach, ale nie tylko.
-
-Dzięki zastosowaniu elementów można być pewnym, że stworzona instalacja centralnego ogrzewania lub system wodny - będą wytrzymałe i odporne na różnego rodzaju szkodliwe czynniki. Jakie złączki w tym przypadku wykorzystuje się najczęściej? Są to przede wszystkim [mufy niklowane](https://instalguru.com/pl/products/mufa-niklowana), [przedłużki niklowane](https://instalguru.com/pl/products/przedluzka-niklowana) czy [kolanka pokryte niklem](https://instalguru.com/pl/products/kolano-niklowane).
-
-## Ogrzewanie tworzone na podstawie systemów żeliwnych
-
-Oprócz wszystkich wymienionych wyżej możliwości instalacja grzewcza może być wykonana także z elementów żeliwnych ocynkowanych. Chociaż wiele osób rezygnuje z tego rozwiązania - głównie z uwagi na estetykę - to jednak nie należy zapominać o najważniejszych właściwościach. Kształtki żeliwne są jednym z najtrwalszych dostępnych na rynku. Specjaliści podkreślają, że można stosować je wszędzie tam, gdzie istnieje ryzyko wystąpienia dużych zmian ciśnienia. Z tego względu elementy żeliwne wykorzystuje nie tylko instalacja CO, ale również systemy wodne, gazowe, przeciwpożarowe, czy wentylacyjne.
-
-Podobnie, jak w każdym poprzednim przypadku - wśród chętnie wybieranych produktów znajdują się między innymi [żeliwne trójniki redukcyjne,](https://instalguru.com/pl/products/trojnik-redukcyjny-zeliwny-ocynkowany) ny[ple redukcyjne z żeliwa ocynkowanego](https://instalguru.com/pl/products/nypel-redukcyjny-zeliwny-ocynkowany), czy [śrubunki żeliwne](https://instalguru.com/pl/products/srubunek-zeliwny-ocynkowany), a także wiele innych elementów, które można indywidualnie dopasować do powstającej instalacji.
-
-Niezależnie od zastosowanych elementów wyposażenia w zakresie instalacji grzewczej, najważniejsze jest jej poprawne wykonanie. To można zrealizować samodzielnie lub oddać sprawę w ręce fachowców. Wiele zależy od samej specyfiki systemu oraz medium wykorzystywanego do ogrzania budynku.
+Both of the systems have their strengths and weaknesses. The decision between them depends on one’s individual needs.
