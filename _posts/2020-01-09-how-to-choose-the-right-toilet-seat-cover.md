@@ -36,7 +36,7 @@ faq:
     Pinch the middle section so that it falls into the toilet bowl. After using the
     toilet you can flush the cover as it is made of disposable material.
 author_name: Mateusz Knapik
-author_desc: Specjalista ds. sprzedaży i obsługi klienta w sklepie Instalguru
+author_desc: Sales and Customer Support Specialist at Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: true
 hreflangs: []
