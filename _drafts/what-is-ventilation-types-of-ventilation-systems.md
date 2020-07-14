@@ -30,10 +30,14 @@ hreflangs: []
 
 **Ventilation** is not a very complex issue. The appropriate system allows for air circulation in every room of a building. The used, “old” air is replaced with clean and fresh one. It is much healthier, as it does not contain any harmful substances or pollutants. Depending on its driving force, there are two types of ventilation:
 
+{:.list}
+
 * gravity, also called natural ventilation,
 * forced, requiring the use of ventilators.
 
 That not the only division. The experts claim that one can perfectly fit a **ventilation system** to any kind of building. In addition to the types mentioned above, there are also types such as:
+
+{:.list}
 
 * heat recovery ventilation,
 * mixed mode ventilation,
@@ -55,6 +59,8 @@ Specialists consider this type of ventilation one of the most reliable. It shoul
 ## How do forced ventilation systems work?
 
 With regards to mechanical ventilation, there is no one type of it. Depending on the mechanism, one can distinguish ventilations:
+
+{:.list}
 
 * with the air forced outside the building,
 * with the air forced inside and outside the building,
