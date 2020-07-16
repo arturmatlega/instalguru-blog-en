@@ -24,7 +24,7 @@ hreflangs:
 - lang: EN
   link: https://instalguru.co.uk/blog/heated-floors-which-type-of-underfloor-heating-is-the-best.html
 - lang: DE
-  link: https://instalguru.de/blog/beheizte-fusboden-welche-art-von-fusbodenheizung-ist-die-beste
+  link: https://instalguru.de/blog/beheizte-fusboden-welche-art-von-fusbodenheizung-ist-die-beste.html
 - lang: IT
   link: https://instalguru.it/blog/pavimenti-riscaldati-quale-tipo-di-riscaldamento-a-pavimento-e-il-migliore.html
 - lang: FR

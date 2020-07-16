@@ -31,7 +31,7 @@ hreflangs:
 - lang: DE
   link: https://instalguru.de/blog/was-ist-beatmung-arten-von-beluftungssystemen.html
 - lang: IT
-  link: https://instalguru.it/blog/cos-e-la-ventilazione-tipi-di-sistemi-di-ventilazione
+  link: https://instalguru.it/blog/cos-e-la-ventilazione-tipi-di-sistemi-di-ventilazione.html
 - lang: FR
   link: https://instalguru.fr/blog/qu-est-ce-que-la-ventilation-types-de-systemes-de-ventilation.html
 - lang: ES
