@@ -41,20 +41,20 @@ author_desc: Sales and Customer Support Specialist at Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: true
 hreflangs:
-- lang: pl
-  link: ''
-- lang: en
-  link: ''
-- lang: de
-  link: ''
-- lang: it
-  link: ''
-- lang: fr
-  link: ''
-- lang: es
-  link: ''
-- lang: cs
-  link: ''
+- lang: PL
+  link: https://instalguru.pl/blog/instalacja-co-jakie-elementy-stworza-system-gwarantujacy-odpowiednie-ogrzewanie.html
+- lang: EN
+  link: https://instalguru.co.uk/blog/pipe-fittings-do-threaded-and-press-fittings-differ.html
+- lang: DE
+  link: https://instalguru.de/blog/rohrverschraubungen-unterscheiden-sich-gewinde-und-pressfittings.html
+- lang: IT
+  link: https://instalguru.it/blog/raccord-per-tubi-i-raccordi-filettati-e-i-raccordi-a-pressare-sono-diversi.html
+- link: https://instalguru.fr/blog/raccords-de-tuyauterie-les-raccords-filetes-et-les-raccords-a-pression-sont-ils-differents.html
+  lang: FR
+- lang: ES
+  link: https://instalguru.es/blog/accesorios-de-tuberia-los-accesorios-roscados-y-a-presion-son-diferentes.html
+- lang: CS
+  link: https://instalguru.cz/blog/potrubni-tvarovky-lisi-se-prislusenstvi-se-zavitem-a-stiskem.html
 
 ---
 ## Pipe fittings - construction and installation

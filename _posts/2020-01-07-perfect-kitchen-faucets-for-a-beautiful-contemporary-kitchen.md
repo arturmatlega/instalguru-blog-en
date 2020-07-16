@@ -21,7 +21,21 @@ author_name: Magdalena Data-Urban
 author_desc: Content Manager at Instalguru
 author_photo: "/uploads/ccd0bafcbc864b52afb6e7826ae63e4b.png"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: PL
+  link: https://instalguru.pl/blog/nowoczesna-kuchnia-jaka-armatura-bedzie-do-niej-idealna.html
+- lang: EN
+  link: https://instalguru.co.uk/blog/perfect-kitchen-faucets-for-a-beautiful-contemporary-kitchen.html
+- lang: DE
+  link: https://instalguru.de/blog/perfekte-kuchenarmaturen-fur-eine-schone-zeitgenossische-kuche.html
+- lang: IT
+  link: https://instalguru.it/blog/rubinetti-da-cucina-perfetti-per-una-bella-cucina-contemporanea.html
+- lang: FR
+  link: https://instalguru.fr/blog/des-robinets-de-cuisine-parfaits-pour-une-belle-cuisine-contemporaine.html
+- lang: ES
+  link: https://instalguru.es/blog/grifos-de-cocina-perfectos-para-una-hermosa-cocina-contemporanea.html
+- lang: CS
+  link: https://instalguru.cz/blog/perfektni-kuchynske-kohoutky-pro-krasnou-moderni-kuchyn.html
 
 ---
 ## Faucets by installation method

@@ -24,7 +24,21 @@ author_name: Magdalena Data-Urban
 author_desc: Content Manager at Instalguru
 author_photo: "/uploads/ccd0bafcbc864b52afb6e7826ae63e4b.png"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: PL
+  link: https://instalguru.pl/blog/jak-pozbyc-sie-brzydkiego-zapachu-z-umywalki-lub-zlewu.html
+- lang: EN
+  link: https://instalguru.co.uk/blog/how-to-get-rid-of-a-bad-smell-from-your-sink.html
+- lang: DE
+  link: https://instalguru.de/blog/wie-wird-man-einen-schlechten-geruch-aus-seinem-waschbecken-los.html
+- lang: IT
+  link: https://instalguru.it/blog/come-liberarsi-di-un-cattivo-odore-dal-lavandino.html
+- lang: FR
+  link: https://instalguru.fr/blog/comment-se-debarrasser-d-une-mauvaise-odeur-dans-votre-evier.html
+- lang: ES
+  link: https://instalguru.es/blog/como-deshacerse-del-mal-olor-de-tu-fregadero.html
+- lang: CS
+  link: https://instalguru.cz/blog/jak-se-zbavit-zapachu-ze-drezu.html
 
 ---
 ## Why does your sink smell?

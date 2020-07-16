@@ -35,20 +35,20 @@ author_desc: Sales and Customer Support Specialist at Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: true
 hreflangs:
-- lang: pl
-  link: ''
-- lang: en
-  link: ''
-- lang: de
-  link: ''
-- lang: it
-  link: ''
-- lang: fr
-  link: ''
-- lang: es
-  link: ''
-- lang: cs
-  link: ''
+- lang: PL
+  link: https://instalguru.pl/blog/jakie-rury-do-gazu-wybrac-przewody-miedziane-czy-stalowe-instalacja-gazowa-bez-tajemnic.html
+- lang: EN
+  link: https://instalguru.co.uk/blog/gas-line-installation-gas-line-installation-which-pipe-is-better-copper-or-steel.html
+- lang: DE
+  link: https://instalguru.de/blog/installation-der-gasleitung-welches-rohr-ist-besser-kupfer-oder-stahl.html
+- lang: IT
+  link: https://instalguru.it/blog/quale-tubo-e-migliore-rame-o-acciaio.html
+- lang: FR
+  link: https://instalguru.fr/blog/quel-est-le-meilleur-tuyau-de-gaz-le-cuivre-ou-lacier.html
+- lang: ES
+  link: https://instalguru.es/blog/que-tubo-de-gas-es-mejor-el-de-cobre-o-el-de-acero.html
+- lang: CS
+  link: https://instalguru.cz/blog/ktere-plynove-potrubi-je-lepsi-med-nebo-ocel.html
 
 ---
 ## Copper tube - why it is used in gas line installation?

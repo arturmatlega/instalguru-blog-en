@@ -39,7 +39,21 @@ author_name: Mateusz Knapik
 author_desc: Sales and Customer Support Specialist at Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: true
-hreflangs: []
+hreflangs:
+- link: https://instalguru.pl/blog/jak-wybrac-wlasciwa-deske-klozetowa-na-jakie-parametry-zwrocic-uwage.html
+  lang: PL
+- lang: EN
+  link: https://instalguru.co.uk/blog/how-to-choose-the-right-toilet-seat-cover.html
+- lang: DE
+  link: https://instalguru.de/blog/wie-wahlt-man-den-richtigen-toilettensitzbezug-aus.html
+- lang: IT
+  link: https://instalguru.it/blog/come-scegliere-il-giusto-copriwater.html
+- lang: FR
+  link: https://instalguru.fr/blog/comment-choisir-le-bon-revetement-pour-le-siege-des-toilettes.html
+- lang: ES
+  link: https://instalguru.es/blog/como-elegir-la-tapa-del-inodoro-correcta.html
+- lang: CS
+  link: https://instalguru.cz/blog/jak-zvolit-spravny-kryt-zachodoveho-prkynka.html
 
 ---
 ## Toilet seat sizes

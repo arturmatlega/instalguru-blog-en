@@ -21,7 +21,21 @@ author_name: Magdalena Data-Urban
 author_desc: Content Manager at Instalguru
 author_photo: "/uploads/ccd0bafcbc864b52afb6e7826ae63e4b.png"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: PL
+  link: https://instalguru.pl/blog/jak-ukryc-rury-i-elementy-instalacyjne-w-domu-lub-mieszkaniu-trendy-wnetrzarskie-2020.html
+- lang: EN
+  link: https://instalguru.co.uk/blog/pipe-cover-how-to-hide-exposed-pipes.html
+- lang: DE
+  link: https://instalguru.de/blog/rohrabdeckung-wie-konnen-freiliegende-rohre-versteckt-werden.html
+- lang: IT
+  link: https://instalguru.it/blog/copertura-dei-tubi-come-nascondere-i-tubi-esposti.html
+- lang: FR
+  link: https://instalguru.fr/blog/couverture-de-tuyau-comment-cacher-les-tuyaux-exposes.html
+- lang: ES
+  link: https://instalguru.es/blog/cubrir-las-tuberias-como-ocultar-las-tuberias-expuestas.html
+- lang: CS
+  link: https://instalguru.cz/blog/potrubi-jak-skryt-odhalene-trubky.html
 
 ---
 ## How to design an interior with pipes?

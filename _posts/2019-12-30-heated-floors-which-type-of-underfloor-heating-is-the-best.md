@@ -18,7 +18,21 @@ author_name: Mateusz Knapik
 author_desc: Sales and Customer Support Specialist at Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: PL
+  link: https://instalguru.pl/blog/ogrzewanie-podlogowe-instalacja-elektryczna-czy-wodna-ktora-wybrac.html
+- lang: EN
+  link: https://instalguru.co.uk/blog/heated-floors-which-type-of-underfloor-heating-is-the-best.html
+- lang: DE
+  link: https://instalguru.de/blog/beheizte-fusboden-welche-art-von-fusbodenheizung-ist-die-beste
+- lang: IT
+  link: https://instalguru.it/blog/pavimenti-riscaldati-quale-tipo-di-riscaldamento-a-pavimento-e-il-migliore.html
+- lang: FR
+  link: https://instalguru.fr/blog/planchers-chauffants-quel-est-le-meilleur-type-de-chauffage-par-le-sol.html
+- lang: ES
+  link: https://instalguru.es/blog/suelos-calefactados-que-tipo-de-calefaccion-por-suelo-radiante-es-la-mejor.html
+- lang: CS
+  link: https://instalguru.cz/blog/vyhrivane-podlahy-ktery-typ-podlahoveho-topeni-je-nejlepsi.html
 
 ---
 ## What should you know about heated floors?

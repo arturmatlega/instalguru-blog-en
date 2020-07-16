@@ -23,7 +23,21 @@ author_name: Mateusz Knapik
 author_desc: Sales and Customer Support Specialist at Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: PL
+  link: https://instalguru.pl/blog/jak-powinna-dzialac-prawidlowa-wentylacja-w-domu-i-garazu.html
+- lang: EN
+  link: https://instalguru.co.uk/blog/what-is-ventilation-types-of-ventilation-systems.html
+- lang: DE
+  link: https://instalguru.de/blog/was-ist-beatmung-arten-von-beluftungssystemen.html
+- lang: IT
+  link: https://instalguru.it/blog/cos-e-la-ventilazione-tipi-di-sistemi-di-ventilazione
+- lang: FR
+  link: https://instalguru.fr/blog/qu-est-ce-que-la-ventilation-types-de-systemes-de-ventilation.html
+- lang: ES
+  link: https://instalguru.es/blog/que-es-la-ventilacion-tipos-de-sistemas-de-ventilacion.html
+- lang: CS
+  link: https://instalguru.cz/blog/co-je-ventilace-typy-vetracich-systemu.html
 
 ---
 ## Building a ventilation system - how does it work?

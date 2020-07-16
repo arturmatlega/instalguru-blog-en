@@ -29,7 +29,21 @@ author_name: Emilia Konieczny
 author_desc: Product Specialist at Instalguru
 author_photo: "/uploads/f0defcc2aa5447b4a5398b8f6eff9596.jpg"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: PL
+  link: https://instalguru.pl/blog/montaz-umywalki-nablatowej-i-sciennej-jak-podlaczyc-ceramike-sanitarna.html
+- lang: EN
+  link: https://instalguru.co.uk/blog/bathroom-accessories-installation.html
+- lang: DE
+  link: https://instalguru.de/blog/installation-von-badezimmerzubehor.html
+- link: https://instalguru.it/blog/installazione-degli-accessori-per-il-bagno.html
+  lang: IT
+- lang: FR
+  link: https://instalguru.fr/blog/installation-d-accessoires-de-salle-de-bains.html
+- lang: ES
+  link: https://instalguru.es/blog/instalacion-de-accesorios-de-bano.html
+- lang: CS
+  link: https://instalguru.cz/blog/instalace-prislusenstvi-koupelny.html
 
 ---
 ## How to plumb a basin?
