@@ -18,12 +18,19 @@ intro: How to make your garden look stunning? It's a problem of many gardeners. 
 photo: "/uploads/na-czym-polega-nawadnianie-kropelkowe.png"
 photo_desc: Drip irrigation system – an innovative watering method
 faq:
-- question: How drip iirrigation system works?
-  answer: ''
 - question: What is drip irrigation?
-  answer: ''
+  answer: Drip irrigation is one of the modern methods of plants watering. It's much
+    more efficient than traditional watering and it can save a lot of time, money
+    and resources.
+- question: How a drip irrigation system works?
+  answer: A drip irrigation system consists of a drip line – a hose or tape and a
+    water source. The water flows through the line and drips out of small holes. It's
+    a solution that provides the plants a perfect amount of water.
 - question: How to make a cheap drip irrigation system?
-  answer: ''
+  answer: All you need to make a cheap drip irrigation system is a drip line and a
+    source of water. Put the drip hose or tape right by the plants so that the water
+    can flow directly to their roots. Then connect the line with water source and
+    adjust the pressure.
 author_name: Maksymilian Ignacyk
 author_desc: Sales and Marketing Specialist at Instalguru
 author_photo: "/uploads/maks.jpg"
