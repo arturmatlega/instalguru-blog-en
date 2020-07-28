@@ -54,7 +54,7 @@ A drip line is a unique solution of many advantages. It can save a lot of time, 
 * **A drip irrigation system means lesser risk of plant diseases.** The water is distributed directly into soil, so that it has no contact with overground parts of the plants. It prevents spread of fungi and mould, which occur quite often when plants are sprinked from above. A drip line also eliminates the problem of sunburnt leaves.
 * **Such system might contribute to a better vegetable, fruit and herb harvest.** A drip watering system results in a better plant care and independence from the weater conditions. There is no need to worry that a drought will destroy the crops.
 
-![](/uploads/nawadnianie-kropelkowe-instalguru.jpg)
+![What are the advantages of drip irrigation?](/uploads/nawadnianie-kropelkowe-instalguru.jpg "What are the advantages of drip irrigation?")
 
 ## Where can one use a drip irrigation system?
 
@@ -70,7 +70,7 @@ A drip irrigation system is not recommended for lawns. In this case it is advise
 
 Despite the undeniable benefits of a drip irrigation system, one should also know its disadvantages. It's a system that cannot be really moved around, therefore it should be used in case of perrenials. A drip line, like every water installation, is susceptible to dirt, which might cause clogging. **Each element of the system should be controlled regularly.** Another problem might be difficulty to adjust watering intensity to the plants type – although it can be easily solved by using a splitter to create several drip lines.
 
-![](/uploads/linia-kroplujaca-nawadnianie.jpg)
+![Are there any disadvantages of drip irrigation?](/uploads/linia-kroplujaca-nawadnianie.jpg "Are there any disadvantages of drip irrigation?")
 
 ## Drip watering system – what elements are needed to create an installation?
 
@@ -108,9 +108,9 @@ Are you wondering how expensive a drip irrigation system is? As most installatio
 
 The less complicated the installation is, the less it costs. For this reason one should consider all solutions that could be used in a paricular case. Small designs can surely give up electronic controllers, unless convenience is the priority. One can also decrease the costs by choosing to install the system by themselves.
 
-![](/uploads/podlewanie-kropelkowe.jpg)
+![Drip irrigation system – estimated costs](/uploads/podlewanie-kropelkowe.jpg "Drip irrigation system – estimated costs")
 
-## What else should one remember when installing drip irrigation
+## What else should one remember when installing drip irrigation?
 
 Because all gardens are different, one should pay attention to every detail when choosing a drip irrigation system: from the shape of terrain to drip line colour. This way one can **create a system that will match all needs and serve for years.**
 
