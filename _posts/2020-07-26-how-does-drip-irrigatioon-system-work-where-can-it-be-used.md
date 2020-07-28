@@ -35,7 +35,9 @@ author_name: Maksymilian Ignacyk
 author_desc: Sales and Marketing Specialist at Instalguru
 author_photo: "/uploads/maks.jpg"
 toc: false
-hreflangs: []
+hreflangs:
+- lang: PL
+  link: https://instalguru.pl/blog/na-czym-polega-nawadnianie-kropelkowe-gdzie-je-zastosowac.html
 
 ---
 ## What is a drip irrigation system?
