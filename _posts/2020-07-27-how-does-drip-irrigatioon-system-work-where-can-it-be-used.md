@@ -36,6 +36,8 @@ author_desc: Sales and Marketing Specialist at Instalguru
 author_photo: "/uploads/maks.jpg"
 toc: false
 hreflangs:
+- lang: FR
+  link: https://instalguru.fr/blog/comment-fonctionne-un-systeme-dirrigation-au-goutte-a-goutte-ou-peut-il-etre-utilise.html
 - lang: PL
   link: https://instalguru.pl/blog/na-czym-polega-nawadnianie-kropelkowe-gdzie-je-zastosowac.html
 
