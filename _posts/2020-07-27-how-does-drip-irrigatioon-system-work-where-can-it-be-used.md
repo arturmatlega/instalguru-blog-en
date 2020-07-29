@@ -36,9 +36,11 @@ author_desc: Sales and Marketing Specialist at Instalguru
 author_photo: "/uploads/maks.jpg"
 toc: true
 hreflangs:
-- lang: FR
+- lang: en
+  link: https://instalguru.co.uk/blog/how-does-drip-irrigatioon-system-work-where-can-it-be-used.html
+- lang: fr
   link: https://instalguru.fr/blog/comment-fonctionne-un-systeme-dirrigation-au-goutte-a-goutte-ou-peut-il-etre-utilise.html
-- lang: PL
+- lang: pl
   link: https://instalguru.pl/blog/na-czym-polega-nawadnianie-kropelkowe-gdzie-je-zastosowac.html
 
 ---
