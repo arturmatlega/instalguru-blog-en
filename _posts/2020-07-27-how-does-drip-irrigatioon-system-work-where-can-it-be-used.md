@@ -36,6 +36,14 @@ author_desc: Sales and Marketing Specialist at Instalguru
 author_photo: "/uploads/maks.jpg"
 toc: true
 hreflangs:
+- lang: cz
+  link: https://instalguru.cz/blog/co-je-kapaci-zavlazovaci-system-a-kde-ho-instalovat.html
+- lang: es
+  link: https://instalguru.es/blog/que-es-el-sistema-de-riego-por-goteo-y-donde-instalarlo.html
+- lang: it
+  link: https://instalguru.it/blog/cose-limpianto-di-irrigazione-a-goccia-e-dove-installarlo.html
+- lang: de
+  link: https://instalguru.de/blog/was-ist-ein-tropfbewasserungssystem-wie-wird-es-installiert.html
 - lang: en
   link: https://instalguru.co.uk/blog/how-does-drip-irrigatioon-system-work-where-can-it-be-used.html
 - lang: fr
