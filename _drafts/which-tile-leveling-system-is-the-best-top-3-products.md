@@ -50,3 +50,72 @@ hreflangs:
 
 ---
 ## What is a tile leveling system?
+
+A tile leveling system is a **set of elements thanks to whose it is much easier to fit and grout the tiles.** It contains **clips and wedges** made from plastic material. They can be used to level the tiles on the floor or on the wall. They should be placed between adjacent tiles.
+
+**Using modern tile leveling system is a perfect solution both for professionals and for unexperienced users.** This method makes the whole process much easier and, more importantly, quicker. It's estimated that a t**ile leveling system can save up to 50% of time** that normally would take to lay tiles using traditional spacers.
+
+{% fig %}
+
+![What is a tile leveling system?](/uploads/system-poziomowania-plytek-szczypce.jpg "What is a tile leveling system?")
+
+{% endfig %}
+
+## How does a tile leveling system work?
+
+A standard tile leveling system contains **specially shaped clips and wedges with characteristic bumps on the surface.** It's important that one uses both of those elements, as only together they give expected results.
+
+The  equipment should be used at the stage of setting the tiles on the surface. Before doing that, one needs to put a clip between two adjacent tiles. Then, a wedge should be put in the clip. It's role is **pushing the tiles to the floor or the wall**, which results in leveling the surface.
+
+The bumps or carvings on the wedges are very important. Such a construction prevents the element from moving and it stabilizes the tiles. **It's definitely much more efficient solution than placing cross spacers between the tiles - the latter don't hold the tiles at all.** Furthermore, a tile leveling system is much easier to use. There is no need to use additional equipment such as a level - which might make the process much longer and more complicated.
+
+## Where can you use a tile leveling system?
+
+Although many believe that a tile leveling system can be used only for floors, in reality **it is highly universal**. It means that you can use it also for tiling walls, or even stairs.
+
+It's worth noting that it doesn't matter what kind of tiles you use. They can be made of:
+
+{:.list.list-positive}
+
+* ceramic,
+* grés,
+* granite,
+* stone.
+
+{% fig %}
+
+![Where can you use a tile leveling system?](/uploads/system-poziomowania-plytek-top3.jpg "Where can you use a tile leveling system?")
+
+{% endfig %}
+
+## Is a tile leveling system worth it? Advantages of the solution
+
+**A tile leveling system is a universal solution** - you can use it for finishing various types of surfaces.  It can be used both in home interiors, as well as on the areas located outside the building.
+
+Using theis tyle of equipment, **you can lay tiles of any type** - regardless of the size and thickness. In any case, you can get a perfectly even surface.
+
+Leveled tiles are only one of the advantages. Additionaly, you also get a possibility to get perfectly even grouting across the whole surface. Evenly set tiles results in exactly the same width between each of them. The grouting looks exceptionally elegant.
+
+## TOP 3 - the most popular tile leveling systems
+
+Most users associate a tile leveling system with a set of clips and wedges. It is, of course, correct, although one can find various sets that slightly differ in usage - which results from different construction of the elements. There are also systems of a completely different structure.
+
+**We present TOP 3 products which are most popular among specialists and rated as the best.**
+
+### A tile leveling system with anchor-shaped clips
+
+It's the most popular tile leveling system - both among expers and do-it-yourselfers who want to lay the tiles themselves. The **clips have a special design - they resemble an anchor or an inverted "T".**
+
+The slightly raised endings on the both sides of a clip are placed under the tiles. Then, a wedge is put on the clip. In this type of set, the wedge is open at one side. It surrounds the clip's stem. **After putting a pressure, it gets blocked by the bumps on its surface.**
+
+It's common that such set also contains special pliers. Thanks to them, **setting the system and its elements is much quicker** and it doesn't require putting any force to it.
+
+{% fig %}
+
+![Tile leveling system with anchor-shaped clips](/uploads/system_poziomowania_ranking.jpg "Tile leveling system with anchor-shaped clips")
+
+{% endfig %}
+
+### A tile leveling system with standard clips and wedges
+
+One of the most commonly used option is a tile leveling system which uses **classic clips and wedges**. In this case, a clip resembles a window with a base at the bottom. The window is simply the space for a wedge. In this case
