@@ -118,4 +118,44 @@ It's common that such set also contains special pliers. Thanks to them, **settin
 
 ### A tile leveling system with standard clips and wedges
 
-One of the most commonly used option is a tile leveling system which uses **classic clips and wedges**. In this case, a clip resembles a window with a base at the bottom. The window is simply the space for a wedge. In this case
+One of the most commonly used option is a tile leveling system which uses **classic clips and wedges**. In this case, a clip resembles a window with a base at the bottom. The window is simply the space for a wedge. It's different than the previous system - the wedge is slid in the middle of the clip. Thanks to the characteristic bumps one can put a maximum pressure on the wedge and pefrectly level the tiles.
+
+{% fig %}
+
+![A tile leveling system with standard clips and wedges](/uploads/system_poziomowania_ranking_2.jpg "A tile leveling system with standard clips and wedges")
+
+{% endfig %}
+
+### A reusable tile leveling system
+
+Manufacturers also offer a reusable tile leveling system, which uses twisted elements. It's **quite different from the classic model**. The differences lie both is the construction and the usage.
+
+This type of a tile leveling system also uses two elements. The basis is a clip with a large thread and a metal element hsaped like a "T". The other element is a cap, which secures a tile.
+
+{:.distinction.distinction-warning}
+
+It's not an etirely flawless solution. In this case you have to use additional tile cross spacers, which takes more time and might be difficult for unexperienced users. Furtermore, after the tiles are leveled, the clips have to be removed in few hours. It might ruin the achieved level.
+
+{% fig %}
+
+![A reusable tile leveling system](/uploads/system_poziomowania_ranking_3.jpg "A reusable tile leveling system")
+
+{% endfig %}
+
+## A tile leveling system - single-use or reusable?
+
+A tile leveling system which uses clips and wedges might be partially reused. The clips are single-use elements. You can, however, **reuse the wedges**. It's a common solution among experts, who can save a lot by buying only the missing clips.
+
+{:.distinction.distinction-warning}
+
+It's important to control the condition of the wedges. After several uses they might get worn - it can be judged by the state of the bumps that hold the wedge in a clip. If you noticed such an occurence - you might decide to buy new  wedges as well.
+
+**A great advantage of a reusble tile leveling system is definitely the fact that it can be used many times, which can save some money.** Nevertheless, many users claim that using it is far less convenient. The necessity to use additional cross spacers is a great disadvantage. It not only makes the work longer for experts, but for unexperienced users it also might be very problematic.
+
+## How to choose a tile leveling system?
+
+Quality is definitely the most important aspect when choosing a tile leveling system. **Material of the elements is quite significant.** A durable, damage-resistant material used for production guarantees the stability of the tiles, hence it's a crucial matter.
+
+Another important aspect of great significance for systems with clips and wedges is whether the **manufacturer offers a possibility to buy each of those elements later, separately**. It's crucial especially for professionals who use the same wedges many times.
+
+The price of a set is, of course also very important. Calculate how many elements you can buy for a given price and check whether the manufacturer offers sets with additional equipment like pliers for pressing wedges to tiles. It's a good way to catch great offers that are worth investing.
