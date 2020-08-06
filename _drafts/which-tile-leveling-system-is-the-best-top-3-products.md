@@ -28,10 +28,24 @@ faq:
     type of the tiles or their thickness. Some users prefer single-use systems, others
     choose reusable sets which are long term investments. It's important that the
     tile leveling system matches one's personal needs and skills.
-author_name: ''
-author_desc: ''
-author_photo: ''
-toc: false
-hreflangs: []
+author_name: Magdalena Data-Urban
+author_desc: Content Manager at Instalguru
+author_photo: "/uploads/ccd0bafcbc864b52afb6e7826ae63e4b.png"
+toc: true
+hreflangs:
+- lang: cs
+  link: ''
+- lang: es
+  link: ''
+- lang: it
+  link: ''
+- lang: de
+  link: ''
+- lang: pl
+  link: ''
+- lang: fr
+  link: ''
+- lang: en
+  link: ''
 
 ---
