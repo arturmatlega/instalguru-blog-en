@@ -40,7 +40,7 @@ hreflangs:
 - lang: it
   link: ''
 - lang: de
-  link: ''
+  link: https://instalguru.de/blog/welches-fliesen-nivelliersystem-ist-das-beste-top-3-produkte.html
 - lang: pl
   link: https://instalguru.pl/blog/jaki-system-poziomowania-plytek-wybrac-top-3-produktow.html
 - lang: fr
