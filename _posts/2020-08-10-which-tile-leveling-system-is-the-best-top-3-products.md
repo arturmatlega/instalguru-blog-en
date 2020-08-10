@@ -3,8 +3,8 @@ layout: post
 seo_title: Choose the Best Tile Leveling System - TOP 3 Products
 seo_description: "Wondering how to lay tiles? Don't waste your precious time. \U0001F449
   Choose tile leveling system. Check the TOP 3 \U0001F3C6 best products."
-date: 2020-08-05 21:00:00 +0000
-update_date: 2020-08-05 21:00:00 +0000
+date: 2020-08-10 06:00:00 +0000
+update_date: 2020-08-10 06:00:00 +0000
 title: Which Tile Leveling System Is the Best? TOP 3 Products
 small-intro: Are you planning a renovation and you want to lay tiles in the kitchen?
   Do you need to tile the bathroom? You can make it easier!
@@ -42,7 +42,7 @@ hreflangs:
 - lang: de
   link: ''
 - lang: pl
-  link: ''
+  link: https://instalguru.pl/blog/jaki-system-poziomowania-plytek-wybrac-top-3-produktow.html
 - lang: fr
   link: ''
 - lang: en
