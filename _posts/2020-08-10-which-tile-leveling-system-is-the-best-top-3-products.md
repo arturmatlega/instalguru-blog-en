@@ -34,17 +34,17 @@ author_photo: "/uploads/ccd0bafcbc864b52afb6e7826ae63e4b.png"
 toc: true
 hreflangs:
 - lang: cs
-  link: ''
+  link: https://instalguru.cz/blog/jaky-system-zarovnani-dlazdice-zvolit-top-3-produkty.html
 - lang: es
-  link: ''
+  link: https://instalguru.es/blog/el-mejor-sistema-de-nivelacion-de-baldosas-top-3-productos.html
 - lang: it
-  link: ''
+  link: https://instalguru.it/blog/il-miglior-sistema-di-livellamento-delle-piastrelle-prodotti-top-3.html
 - lang: de
   link: https://instalguru.de/blog/welches-fliesen-nivelliersystem-ist-das-beste-top-3-produkte.html
 - lang: pl
   link: https://instalguru.pl/blog/jaki-system-poziomowania-plytek-wybrac-top-3-produktow.html
 - lang: fr
-  link: ''
+  link: https://instalguru.fr/blog/meilleur-systeme-de-nivellement-des-carreaux-top-3-produits.html
 - lang: en
   link: https://instalguru.co.uk/blog/which-tile-leveling-system-is-the-best-top-3-products.html
 
