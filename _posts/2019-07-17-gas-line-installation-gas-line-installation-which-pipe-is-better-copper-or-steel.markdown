@@ -4,6 +4,10 @@ seo_title: Gas line installation. Which pipe is better - copper or steel?
 seo_description: "Planning to install gas fittings at your home? ✔️ Make sure to choose
   the right pipes. Which pipe type it is better to use in your pipeworks - copper
   \U0001F19A steel? "
+main_keywords:
+  - pipeworks
+  - gas line installation
+  - pipework materials
 date: 2019-07-17T15:02:04.000+00:00
 update_date: 2019-07-17T15:02:04.000+00:00
 title: Gas line installation. Which pipe is better - copper or steel?

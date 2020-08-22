@@ -4,6 +4,13 @@ seo_title: 'Pipe fittings: do threaded and press fittings differ?'
 seo_description: "Are you planning a home renovation?\U0001F3E0 Perhaps you are wondering
   what pipe fittings you should choose?\U0001F449 Learn the difference between threaded
   and press fittings"
+main_keywords:
+  - pex fittings
+  - pipe fittings
+  - pvc pipe fittings
+  - hydraulic fittings
+  - copper fittings
+  - pex pipe fittings
 date: 2019-07-22T22:00:00.000+00:00
 update_date: 2019-07-22T22:00:00.000+00:00
 title: 'Pipe fittings: do threaded and press fittings differ?'

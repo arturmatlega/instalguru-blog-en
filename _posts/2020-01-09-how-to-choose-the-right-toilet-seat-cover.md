@@ -4,6 +4,15 @@ seo_title: Choosing toilet seat cover. The most important matters
 seo_description: Choosing the right toilet seat might not be as simple as it seems.
   There are various parameters that you should pay attention to, such as toilet seat
   sizes.
+main_keywords:
+  - toilet seat
+  - bidet toilet seat
+  - toilet seat riser
+  - raised toilet seat
+  - toilet seat covers
+  - toilet seat sizes
+  - best toilet seat
+  - slow close toilet seat
 date: 2020-01-09 11:00:00 +0000
 update_date: 2020-01-09 11:00:00 +0000
 title: How to choose the right toilet seat cover?

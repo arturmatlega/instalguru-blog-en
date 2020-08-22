@@ -4,6 +4,16 @@ seo_title: What is drip irrigation system and where to install it?
 seo_description: "Wondering how to take care of your garden? \U0001F333 Drip irrigation
   is a modern plant watering system. \U0001F449 Check if you can use it and how to
   install it."
+main_keywords:
+  - drip irrigation
+  - drip irrigation system
+  - drip watering system 
+  - drip watering system for greenhouse
+  - micro irrigation system
+  - garden irrigation systems
+  - easy garden irrigation
+  - plant drip feeder
+  - pot watering system
 date: 2020-07-26T22:00:00.000+00:00
 update_date: 2020-07-26T22:00:00.000+00:00
 title: How does drip irrigation system work? Where can it be used?

@@ -3,6 +3,15 @@ layout: post
 seo_title: Perfect kitchen faucets for a beautiful contemporary kitchen
 seo_description: Planning a kitchen renovation? See the popular products and find
   the best faucet for contemporary kitchen.
+main_keywords:
+  - kitchen faucets
+  - kitchen faucet
+  - kitchen sink
+  - kitchen ideas
+  - sink faucet
+  - kitchen accessories
+  - kitchen sink faucet
+  - kitchen light fixtures
 date: 2020-01-07 11:00:00 +0000
 update_date: 2020-01-07 11:00:00 +0000
 title: Perfect kitchen faucets for a beautiful contemporary kitchen
