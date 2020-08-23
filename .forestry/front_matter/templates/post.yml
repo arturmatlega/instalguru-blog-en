@@ -22,6 +22,10 @@ fields:
 - type: textarea
   name: title
   label: Tytuł
+- name: main_keywords
+  type: tag_list
+  default: []
+  label: Słowa kluczowe
 - type: textarea
   name: small-intro
   label: Wstęp (listing)
