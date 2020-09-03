@@ -47,3 +47,59 @@ toc: true
 hreflangs: []
 
 ---
+## What are roof trusses?
+
+Wood trusses are nothing else than the upper part of a building. They build a **strong, wooden construction** which supports the roofing. It directly impacts the shape of the roof, as well as its general functioning. Timber framing consists of many elements. The most important ones are:
+
+{:.list.list-positive}
+
+* **Rafters** - sloping beams which support the roof coating. They should have distinct cross section and be placed approximately 1 meter apart.
+* **Purlins** - binding rafters. They support the main rafters and relocate the pressure onto the other load-bearing components.
+* **Wall plate** - a purlin placed directly on the building's wall. Thannks to this the weight of the roof is directed onto the wall.
+* **Ridge** - the uppermost part of the roof.
+* **Posts** - vertical beams holding purlins and transferring the load onto the wall.
+* **Straining beams** - lower horizontal beams connecting the rafters and stabilizing the construction.
+* **Collar beams** - similar to the straining beams, collar beams connect opposite rafters in the upper part of the roof.
+* **Struts** - sloping beams connecting posts and purlins.
+* **Braces** - diagonal ledges installed under the rafters. It helps to stiffen the construction and protect it against wind.
+
+Which elements appear in the timber framing depends mostly on its particular construction. There are many **types of roof trusses**, and the choice is determined by the building's project. It's important to decide whether the attic will be used as a separate room or not.
+
+## Types of roofs - what kinds of roof trusses are the most popular?
+
+There are many types of timber framing available on the market. **The decision on which roof truss to choose should be made at the stage of the building design.** Before picking a particular solution, one should consider factors like the size and shape of the house, one's budget and the aspect of aesthetics. Standard houses typically use simple truss, collar beam truss or queen post truss.
+
+![](/uploads/wiezba-dachowa-budowa-domu.jpg)
+
+### Simple roof truss
+
+Such a construction can be used when the walls of the building are no more than 7 meters apart. **The roof slope should be no more than 45 degrees.** Simple roof truss is one of the most commonly used types of timber framing. It uses normal rafters and purlins which together form a roof truss resting on the building's walls. The rafters are supported only in two spots - on the walls and at the ridge.
+
+There is also a similar scheme that uses only two elements. The rafters are supported only by a wall plate, without the transverse roof beams.
+
+### Collar beam roof truss
+
+A collar beam roof truss is typically used when the walls of the building are wider than 7 meters apart. **This solution is far more versatile than the simple roof truss.** For this reason, it is far more commonly used. Such a construction uses rafters joined at the ridge, wall plates and collar beams which buttresss the whole structure. The collar beams should be placed at the right height - the space should be divided into two - from the ridge to the collar beam no more than 2,5 m and from the beam to the wall plate - no more than 4,5 m.
+
+### Queen post roof truss
+
+Such construction is definitely the most popular, due to its versatility. It can be used in pent roofs, gable roofs, as well as very steep constructions. **The maximum space between the walls in such timber framing is 16 meters.** In this case, two types of trusses are contained within such construction. One consists of rafters supported by purlins, posts and straining beams. The secondary roof trusses are supported by wall plates.
+
+## Traditional roof trusses vs. prefabricated timber framing
+
+There are many types of roofs available on the market. The final decision, of course, depends on the span of the building and other individual factors. There is also another issue - whether roof trusses are to be constructed traditionally or whether to buy a **prefabricated structure**.
+
+{:.list.list-positive}
+
+* **Traditional roof trusses** preparation requires choosing the materials separately. The roof beams should be purchased in a lumbermill, and the roof itself is being constructed on site. Solid wood beams typically reach up to 7 meters. If the project needs longer beams, one should choose glued timber elements along with steel reinforcements.
+* **Prefabricated roof trusses** are definitely more versatile in terms of the size. Because the elements are perfectly matched, this solution requires far less timber than traditional projects. The installation process is definitely quicker - it's done by the manufacturer's team. In this case the space in the attic might be seriously restricted, which might be a serious disadvantage.
+
+![](/uploads/konstrukcje-dachu.jpg)
+
+## What timber is the best for roof trusses?
+
+When making a timber framing, one should use the right type of wood. It should be durable and have the right cross-section. Timber from sawmills and timber depots is specially marked. The material should be chosen in accordance with the project of the building - so pay attention to the **timber class**. Check ihe purchased timber complies with construction requirements and has the certificates in term of specific parameters.
+
+The timber class is marked with a letter and number, for instance **C20, D30**. The letter stands for the wood type and the number - for the flexibility.
+
+What type of timber is the best? Roof trusses typically use **coniferous wood, e.g. spruce or pine, sometimes larch or fir.** The moisture level of the timber is another important aspect. The material should be well dried - dry wood is 50% more durable than wet. Wet beams might get deformed in time. **The best moisture level is no more than 15%.** The best solution, therefore, is buying dry wood from a trusted place.
