@@ -40,10 +40,10 @@ faq:
     gable roof is the cheapest option - all you need is collar beam or a kingpost
     truss. Hip roofs are definitely more expensive, and the more complicated the construction,
     the higher price.
-author_name: ''
-author_desc: ''
-author_photo: ''
-toc: false
+author_name: Mateusz Knapik
+author_desc: Sales and Customer Support Specialist at Instalguru
+author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
+toc: true
 hreflangs: []
 
 ---
