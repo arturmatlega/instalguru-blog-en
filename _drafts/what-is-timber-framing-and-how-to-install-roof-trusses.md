@@ -26,6 +26,11 @@ intro: Building a house is a complicated process consisting of many stages. A ro
 photo: "/uploads/czym-jest-wiezba-dachowa-i-jak-ja-montowac.jpg"
 photo_desc: Timber framing - a wooden structure for roof coating
 faq:
+- question: How much wood do I need for roof trusses?
+  answer: To calculate how much wood one needs for timber framing, you need a roof
+    truss design plan. Determine the size of each element and multiply the length,
+    width and height of each of them. Sum the results - this is the volume of wood
+    you need.
 - question: What are roof trusses?
   answer: Wood trusses build a wooden structure which makes the upper part of the
     building. They are the basis for roof coating, determining the final shape of
