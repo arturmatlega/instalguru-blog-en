@@ -12,8 +12,8 @@ layout: post
 seo_title: What Is Timber Framing and How to Install Roof Trusses?
 seo_description: "Are you in need of roof renovation? \U0001F3E0 Timber framing should
   be solid and secure. ➡️ Learn what good roof trusses should look like."
-date: 2020-09-02 22:00:00 +0000
-update_date: 2020-09-02 22:00:00 +0000
+date: 2020-09-07 22:00:00 +0000
+update_date: 2020-09-07 22:00:00 +0000
 title: What Is Timber Framing and How to Install Roof Trusses?
 small-intro: Building a house is a complicated process consisting of many stages.
   A roof is one of the most important elements of every building.
@@ -44,7 +44,9 @@ author_name: Mateusz Knapik
 author_desc: Sales and Customer Support Specialist at Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: ''
+  link: ''
 
 ---
 ## What are roof trusses?
