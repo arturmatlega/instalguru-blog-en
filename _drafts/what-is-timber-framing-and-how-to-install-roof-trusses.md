@@ -34,7 +34,7 @@ faq:
 - question: What are roof trusses?
   answer: Wood trusses build a wooden structure which makes the upper part of the
     building. They are the basis for roof coating, determining the final shape of
-    the rooftop. They are sometimes referred  to as a "skeleton frame" of the roof.
+    the rooftop. They are sometimes referred to as a "skeleton frame" of the roof.
 - question: How much do roof trusses cost?
   answer: The price of roof trusses depends on the roof truss design itself. A simple
     gable roof is the cheapest option - all you need is collar beam or a kingpost
