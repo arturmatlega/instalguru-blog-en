@@ -19,7 +19,7 @@ small-intro: Building a house is a complicated process consisting of many stages
   A roof is one of the most important elements of every building.
 intro: Building a house is a complicated process consisting of many stages. A roof
   is one of the most important elements of every building. Timber framing works as
-  a base - it determines the shape, as well as safety of the roof. Choosig the right
+  a base - it determines the shape, as well as safety of the roof. Choosing the right
   roof trusses for a particular building is a highly important decision. What exactly
   are roof trusses and which one should you choose? Learn the most important facts
   on timber framing.
@@ -120,6 +120,6 @@ Roof trusses are elements whose cost might vary depending on several factors. Th
 
 The cheapest timber framing type is a gable roof. In this case, the simples roof trusses with rafters are used, as well as collar beam trusses. If the adjacent walls of the building are more than 11 meters apart, one should use a more expensive purlin truss.
 
-In case of hip and multi-pitched roofs, roof trusses are more complicated, and, threrefore, more difficult to construct. More elements are required and the costs of installation are higher.
+In case of hip and multi-pitched roofs, roof trusses are more complicated, and therefore, more difficult to construct. More elements are required, and the costs of installation are higher.
 
 **If your house is not large, consider buying a prefabricated roof truss.** In comparison with traditional roof trusses, it is often a far cheaper solution.
