@@ -46,7 +46,7 @@ author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: true
 hreflangs:
 - lang: en
-  link: ''
+  link: https://instalguru.co.uk/blog/what-is-timber-framing-and-how-to-install-roof-trusses.html
 - lang: pl
   link: https://instalguru.pl/blog/czym-jest-wiezba-dachowa-i-jak-ja-montowac.html
 
