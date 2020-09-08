@@ -45,8 +45,10 @@ author_desc: Sales and Customer Support Specialist at Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: true
 hreflangs:
-- lang: ''
+- lang: en
   link: ''
+- lang: pl
+  link: https://instalguru.pl/blog/czym-jest-wiezba-dachowa-i-jak-ja-montowac.html
 
 ---
 ## What are roof trusses?
@@ -54,7 +56,6 @@ hreflangs:
 Wood trusses are nothing else than the upper section of a building. They build a **strong, wooden construction** which supports the roofing. It directly impacts the shape of the roof, as well as its general functioning. Timber framing consists of many elements. The most important ones are:
 
 {:.list.list-positive}
-
 * **Rafters** - sloping beams supporting the roof coating. Their cross-section is distinct and they are placed approximately 1 meter apart.
 * **Purlins** - binding rafters. They support the main rafters and relocate the pressure onto the other load-bearing components.
 * **Wall plate** - a purlin placed directly on the building's wall. Thanks to this, the weight of the roof is carried onto the wall.
@@ -71,7 +72,7 @@ What elements appear in the timber framing depends mostly on its particular cons
 
 There are many types of timber framing available on the market. **The decision on which roof truss to choose should be made at the stage of the building design.** Before picking a particular solution, one should consider factors like the size and shape of the house, one's budget and the aspect of aesthetics. Standard houses typically use a simple truss, a collar beam truss or a queen post truss.
 
-![](/uploads/wiezba-dachowa-budowa-domu.jpg)
+![Types of roofs - what kinds of roof trusses are the most popular?](/uploads/wiezba-dachowa-budowa-domu.jpg "Types of roofs - what kinds of roof trusses are the most popular?")
 
 ### Simple roof truss
 
@@ -92,11 +93,10 @@ Such construction is definitely the most popular, due to its versatility. It can
 There are many types of roofs available on the market. The final decision, of course, depends on the span of the building and other individual factors. There is also another issue - whether roof trusses are to be constructed traditionally or whether to buy a **prefabricated structure**.
 
 {:.list.list-positive}
-
 * **Traditional roof trusses** preparation requires choosing the materials separately. The roof beams should be purchased in a lumbermill, and the roof itself is being constructed on site. Solid wood beams typically reach up to 7 meters. If the project needs longer beams, one should choose glued timber elements along with steel reinforcements.
 * **Prefabricated roof trusses** are definitely more versatile in terms of the size. Because the elements match perfectly, this solution requires far less timber than traditional projects. The installation process is definitely quicker - it's done by the manufacturer's team. In this case the space in the attic is seriously limited, which might be a disadvantage for some.
 
-![](/uploads/konstrukcje-dachu.jpg)
+![Traditional roof trusses vs. prefabricated timber framing](/uploads/konstrukcje-dachu.jpg "Traditional roof trusses vs. prefabricated timber framing")
 
 ## What timber is the best for roof trusses?
 
