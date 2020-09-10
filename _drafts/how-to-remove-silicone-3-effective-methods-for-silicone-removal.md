@@ -34,13 +34,26 @@ photo: "/uploads/silikon.jpg"
 photo_desc: Silicone removal tool
 faq:
 - question: How to remove silicone from bath?
-  answer: ''
-- answer: ''
+  answer: There are several methods for removing silicone sealant from a tiled bath.
+    Using a chemical silicone remover is the easiest one, but it might be too aggressive
+    because of the harsh solvents it contains. Instead, you might try to remove the
+    silicone mechanically, using a knife or a razor.
+- answer: Removing silicone sealant from tiles is not difficult - just pick one of
+    the methods. Use a chemical silicone remover, oil or hot air. Be careful when
+    using a store-bought sealant remover - a strong chemical might discolour the surface.
+    Under no circumstances use a knife or other sharp tool.
   question: How to remove sealant from tiles?
 - question: How to remove sealant from shower?
-  answer: ''
+  answer: Removing silicone sealant from shower is easy - all you need is a small
+    knife. Cut through the seal to loosen it. You can use either a special silicone
+    remover which will soften the sealant, or try to remove it mechanically. Do not
+    use chemicals not labeled as sealant remover - there's a risk of reaction with
+    the fresh silicone.
 - question: How to remove black mould from silicone sealant?
-  answer: ''
+  answer: A sealant covered with mould should be removed as soon as possible - it
+    poses a serious threat to health. Use a silicone remover or other method to get
+    rid of the caulk - remember to wear gloves! Before applying a fresh layer of silicone,
+    clean the surface with an anti-fungal agent.
 author_name: Mateusz Knapik
 author_desc: Sales and Customer Support Specialist at Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
@@ -50,7 +63,7 @@ hreflangs: []
 ---
 ## Choosing a silicone remover: the most important issues
 
-The method of silicone removal **depends on the type of the surface covered by the sealant.** How to remove silicone from tiles or from wood? Choosing the best way to remove silicone is an important issue - you don't want to accidentally destroy the surface.
+The method of silicone removal **depends on the type of the surface covered by the sealant.** How to remove silicone from tiles or wood? Choosing the best way to remove silicone is an important issue - you don't want to accidentally destroy the surface.
 
 You need to make sure that the surface is clean, especially if you're removing silicone sealant in a tiled bathroom. Take all the objects standing on the tub or the shower base and wash the **tiles and sealings carefully.** Use either a special cream cleaner or an ordinary detergent such as dish soap. Make sure to remove soap stains - this way removing silicone sealant will be easier and more effective.
 
@@ -58,31 +71,31 @@ You need to make sure that the surface is clean, especially if you're removing s
 
 ## A chemical silicone remover - is it an effective method?
 
-**A chemical silicone remover which can be bought in typical hardware shops**, is one of the most popular method. Such products contain strong solvents that quickly dissolve silicone sealants and allow for its easy removal.
+**A chemical silicone remover which can be bought in typical hardware shops**, is one of the most popular methods. Such products contain strong solvents that quickly dissolve silicone sealants and allow for its easy removal.
 
 ### How to use a chemical silicone remover?
 
 {:.list.list-positive}
 
 * Protect your hands with **rubber gloves**. It's very important, as a typical chemical sealant remover is caustic.
-* If the surface around the sealant is delicate, protect it - using, for instance, a **painter's tape**.
-* Start removing silicone sealant meachanically. You can use either a special silicone removal tool or a small knife. Be careful - do not scratch the surface.
-* **Spread the silicone cleaner onto the remains of the sealant.** Usually, a small brush is included in the silicone remover kit, to make the process easier. Wait the recommended amount of time.
-* Scoop the softened silicone using a small scraper, or the silicone removal tool. Afterwards, wash the surface with water and detergent.
+* If the surface around the sealant is delicate, secure it. You might use, for instance, a **painter's tape**.
+* Start removing silicone sealant mechanically. You can use either a special silicone removal tool or a small knife. Be careful - do not scratch the surface.
+* **Spread the silicone cleaner onto the remains of the sealant.** Usually, a small brush is included in the silicone remover kit, to make the process easier. Wait for the recommended amount of time.
+* Scoop the softened silicone using a small scraper or the silicone removal tool. Afterwards, wash the surface with water and detergent.
 
-A surface prepared like this is readu to put a freash layer of sealant on. There are many products available on the market, but be careful. **Some surfaces are easy to damage even when using very mild chemicals.**
+A surface prepared like this is ready to put a fresh layer of sealant on. There are many products available on the market, but be careful. **Some surfaces are easy to damage even when using very mild chemicals.**
 
 {:.distinction.distinction-question.distinction-negative}
 
-A too aggressive silicone remover might tarnish the surface. In case of such situation, there is nothing much you can do. For this reason, make sure to read the label of each product you are about to use, to make sure that it is suitable for your surface.
+A too aggressive silicone remover might tarnish the surface. In case of such situations, there is nothing much you can do. For this reason, make sure to read the label of each product you are about to use, to make sure that it is suitable for your surface.
 
-The **unpleasant smell** is definitely a large disadvantage of using a chemical sealant remover. Products like this typically contain acetone. After removing the silicone sealant with this method, make sure to ventillate the room. In case you or someone living with you are particularly sensitive to such acrid smells, consider removing the silicone sealant with a more eco-friendly method.
+The **unpleasant smell** is definitely a large disadvantage of using a chemical sealant remover. Products like this typically contain acetone. After removing the silicone sealant with this method, make sure to ventilate the room. In case you or someone living with you are particularly sensitive to such acrid smells, consider removing the silicone sealant with a more eco-friendly method.
 
 ![How to use a chemical silicone remover?](/uploads/jak-usunac-silikon-skuteczne-metody-usuwania-silikonu-chemia.jpg "How to use a chemical silicone remover?")
 
 ## An eco-friendly silicone remover. How to remove silicone sealant without chemicals?
 
-Are you anxious that a **strong chemical sealant remover** might be too strong? Or perhaps you jsut want to try less costly methods? We have a fantastic solution for you. It is possible to remove a silicone sealant in a gentle way - which does not mean it is less efffective.
+Are you anxious that a **strong chemical sealant remover** might be too strong? Or perhaps you just want to try a less expensive method? We have a fantastic solution for you. It is possible to remove a silicone sealant in a gentle way - which does not mean it is less effective.
 
 All you need is:
 
