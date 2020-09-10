@@ -38,10 +38,11 @@ faq:
     Using a chemical silicone remover is the easiest one, however it might be too
     aggressive because of the harsh solvents it contains. Instead, you might try to
     remove the silicone mechanically, using a knife or a razor.
-- answer: Removing silicone sealant from tiles is not difficult - just pick one of
-    the methods. Use a chemical silicone remover, oil or hot air. Be careful when
-    using a store-bought sealant remover - a strong chemical might discolour the surface.
-    Under no circumstances use a knife or other sharp tool.
+- answer: Das Entfernen von Silikondichtmasse von Fliesen ist nicht schwierig - wählen
+    Sie einfach eine der Methoden. Verwenden Sie einen chemischen Silikonentferner,
+    Öl oder Heißluft. Seien Sie vorsichtig, wenn Sie einen im Laden gekauften Dichtungsentferner
+    verwenden - eine starke Chemikalie könnte die Oberfläche verfärben. Verwenden
+    Sie unter keinen Umständen ein Messer oder ein anderes scharfes Werkzeug.
   question: How to remove sealant from tiles?
 - question: How to remove sealant from shower?
   answer: Removing silicone sealant from shower is easy - all you need is a small
@@ -58,7 +59,21 @@ author_name: Mateusz Knapik
 author_desc: Sales and Customer Support Specialist at Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: fr
+  link: ''
+- lang: it
+  link: ''
+- lang: de
+  link: ''
+- lang: cs
+  link: ''
+- lang: es
+  link: ''
+- lang: en
+  link: ''
+- lang: pl
+  link: https://instalguru.pl/blog/jak-usunac-silikon-3-skuteczne-sposoby-na-usuwanie-silikonu.html
 
 ---
 ## Choosing a silicone remover: the most important issues
