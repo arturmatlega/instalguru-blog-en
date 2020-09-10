@@ -45,6 +45,16 @@ author_desc: Sales and Customer Support Specialist at Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: true
 hreflangs:
+- lang: fr
+  link: https://instalguru.fr/blog/qu-est-ce-que-la-charpente-en-bois-et-comment-installer-les-fermes-de-toit.html
+- lang: de
+  link: https://instalguru.de/blog/was-ist-ein-holzrahmenwerk-und-wie-werden-dachstuhle-installiert.html
+- lang: it
+  link: https://instalguru.it/blog/che-cose-lintelaiatura-in-legno-come-installare-travi-del-tetto.html
+- lang: es
+  link: https://instalguru.es/blog/que-es-la-estructura-de-madera-y-como-instalar-vigas-del-techo.html
+- lang: cs
+  link: https://instalguru.cz/blog/co-je-stresni-vazniky-a-jak-jej-sestavit.html
 - lang: en
   link: https://instalguru.co.uk/blog/what-is-timber-framing-and-how-to-install-roof-trusses.html
 - lang: pl
