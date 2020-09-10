@@ -71,7 +71,7 @@ hreflangs:
 - lang: es
   link: ''
 - lang: en
-  link: ''
+  link: https://instalguru.co.uk/blog/how-to-remove-silicone-3-effective-methods-for-silicone-removal.html
 - lang: pl
   link: https://instalguru.pl/blog/jak-usunac-silikon-3-skuteczne-sposoby-na-usuwanie-silikonu.html
 
