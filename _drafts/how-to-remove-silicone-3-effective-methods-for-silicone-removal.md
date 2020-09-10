@@ -35,9 +35,9 @@ photo_desc: Silicone removal tool
 faq:
 - question: How to remove silicone from bath?
   answer: There are several methods for removing silicone sealant from a tiled bath.
-    Using a chemical silicone remover is the easiest one, but it might be too aggressive
-    because of the harsh solvents it contains. Instead, you might try to remove the
-    silicone mechanically, using a knife or a razor.
+    Using a chemical silicone remover is the easiest one, however it might be too
+    aggressive because of the harsh solvents it contains. Instead, you might try to
+    remove the silicone mechanically, using a knife or a razor.
 - answer: Removing silicone sealant from tiles is not difficult - just pick one of
     the methods. Use a chemical silicone remover, oil or hot air. Be careful when
     using a store-bought sealant remover - a strong chemical might discolour the surface.
