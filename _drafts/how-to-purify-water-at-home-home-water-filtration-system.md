@@ -16,14 +16,14 @@ title: How to Purify Water at Home? Home Water Filtration System
 small-intro: Water is an element without which a human being wouldn't be able to function
   on a daily basis.
 intro: Water is an element without which a human being wouldn't be able to function
-  on a daily basis. It is used in many aspects of life such as cleaning, cooking,
-  plants watering and direct consumption. While in certain cases its quality is not
-  that important, drinking water is the most substantial in that matter. Water potability
-  is typically determined by its taste quality and appearance. An increasing number
-  of people decides that tap water is a better option than store-bought bottled water
-  - provided that it has good quality. The problem is, however, that tap water is
-  not always quite pure - therefore many homeowners decide to invest in special equipment
-  like a water purifier or a home water filtration system.
+  on a daily basis. It is used in many aspects of life like cleaning, cooking, plants
+  watering and direct consumption. While in certain cases its quality is not that
+  important, the quality of drinking water is the most substantial matter. Water potability
+  is typically determined by its taste and appearance. An increasing number of people
+  decides that tap water is a better option than store-bought bottled water - provided
+  that it has good quality. The problem is, however, that tap water is not always
+  quite pure - therefore many homeowners decide to invest in special equipment like
+  a water purifier or a home water filtration system.
 photo: "/uploads/domowa-stacja-uzdatniania-wody-glowne.jpg"
 photo_desc: Water purification - home water filtration system
 faq:
