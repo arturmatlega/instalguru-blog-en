@@ -34,3 +34,6 @@ toc: true
 hreflangs: []
 
 ---
+## How is the taste and quality of water determined?
+
+In accordance with the research by experts, there are many places where tap water contains far more ingredients that are good for health than store-bought bottled water. Nevertheless, people often give up drinking tap water - mostly because of its poor taste or smell. Are those features a sign of poor quality? Quite the contrary! **Unusual smell or taste are usually indicators of various processes used in water purification.** It is important, however, to evalute what kind of smell it is. Sometimes it might signify a lower quality of water and e.g. too high iron or calcium concentration.
