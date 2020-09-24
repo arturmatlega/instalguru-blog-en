@@ -24,13 +24,13 @@ intro: Water is an element without which a human being wouldn't be able to funct
   - provided that it has good quality. The problem is, however, that tap water is
   not always quite pure - therefore many homeowners decide to invest in special equipment
   like a water purifier or a home water filtration system.
-photo: ''
-photo_desc: ''
+photo: "/uploads/domowa-stacja-uzdatniania-wody-glowne.jpg"
+photo_desc: Water purification - home water filtration system
 faq: []
-author_name: ''
-author_desc: ''
-author_photo: ''
-toc: false
+author_name: Maksymilian Ignacyk
+author_desc: Sales and Marketing Specialist at Instalguru
+author_photo: "/uploads/maks.jpg"
+toc: true
 hreflangs: []
 
 ---
