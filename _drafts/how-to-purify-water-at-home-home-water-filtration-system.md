@@ -26,7 +26,13 @@ intro: Water is an element without which a human being wouldn't be able to funct
   like a water purifier or a home water filtration system.
 photo: "/uploads/domowa-stacja-uzdatniania-wody-glowne.jpg"
 photo_desc: Water purification - home water filtration system
-faq: []
+faq:
+- question: What is the best water purifier for a single family house?
+  answer: Both simple solutions like a mechanical, carbon or iron under sink water
+    filter, as well as a whole home water filtration system are good for a single
+    family house. Water purifiers such as a multi-media water tank or a reverse osmosis
+    filter are also highly recommended. This way one can create a good water purification
+    system and enjoy clean and tasty water.
 author_name: Maksymilian Ignacyk
 author_desc: Sales and Marketing Specialist at Instalguru
 author_photo: "/uploads/maks.jpg"
