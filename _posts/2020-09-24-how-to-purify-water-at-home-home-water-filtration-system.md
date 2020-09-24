@@ -37,7 +37,11 @@ author_name: Maksymilian Ignacyk
 author_desc: Sales and Marketing Specialist at Instalguru
 author_photo: "/uploads/maks.jpg"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: en
+  link: ''
+- lang: pl
+  link: https://instalguru.pl/blog/jak-poprawic-smak-wody-domowa-stacja-uzdatniania-wody.html
 
 ---
 ## How is the taste and quality of water determined?
