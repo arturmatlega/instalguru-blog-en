@@ -112,4 +112,4 @@ This type of home water filtration system works across several levels, depending
 
 A home water filtration system with a reverse osmosis filter significantly improves smell, taste and composition of water. Thanks to this, beverages and meals taste significantly better.
 
-Do you care about the environment and your own savings? Choose tap instead of bottled water. All you need is a home water filtration system and proper water purification so that you will be able to enjoy a good quality water. If you do not have to overpay and you can benefit from it - it is a solution worth choosing.
+Do you care about the environment and your own savings? Choose tap instead of bottled water. All you need is a home water filtration system and proper water purification so that you will be able to enjoy a good quality water. If you do not have to overpay and you can benefit from it - it is definitely a solution worth choosing.
