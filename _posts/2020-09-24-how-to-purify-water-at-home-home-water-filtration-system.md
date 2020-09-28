@@ -39,7 +39,7 @@ author_photo: "/uploads/maks.jpg"
 toc: true
 hreflangs:
 - lang: en
-  link: ''
+  link: https://instalguru.co.uk/blog/how-to-purify-water-at-home-home-water-filtration-system.html
 - lang: pl
   link: https://instalguru.pl/blog/jak-poprawic-smak-wody-domowa-stacja-uzdatniania-wody.html
 
