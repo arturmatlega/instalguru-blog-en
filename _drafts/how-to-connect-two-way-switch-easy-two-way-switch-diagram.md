@@ -90,3 +90,15 @@ Connecting a two way switch circuit is a little bit more complicated, as it uses
 A two way switch diagram is more elaborate. In this case, the phase wire is connected with one of the two way switches, and the light source - to the other. Neautral wire and earth conductor are lead to the light source independently. The two switches should be connected with each other with additional wires.
 
 **See the two way switch diagram below:**
+
+![Two way switch - diagram](/uploads/jak_podlaczyc_wlacznik_schemat2_en.jpg "Two way switch - diagram")
+
+### How to connect a three way light switch?
+
+As already mentioned, **it is possible to wire more than only two light switches for the same light source.** To do this, one needs to use a three way light switch. The scheme of such connection is not much different from the two way switch diagram - there is a third switch between the two external ones. The number of intermediate switches is unlimited and it can be adjusted as needed. Thanks to this one will be able to turn off the staircase light while being in another room.
+
+**See the three way light switch diagram presented below:**
+
+![How to connect a three way light switch?](/uploads/jak_podlaczyc_wlacznik_schemat3.jpg "How to connect a three way light switch?")
+
+**Connecting a two way or a three way switch is not as difficult as it might seem.** If you have the right switch diagram, you can easily do it yourself.
