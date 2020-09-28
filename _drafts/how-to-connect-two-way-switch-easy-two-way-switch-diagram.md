@@ -52,4 +52,41 @@ Judging by aesthetics, one can also distinguish light switches according to the 
 
 ### Two way and three way light switch
 
-Two way light switches are a special type of devices. They allow to control one light source from two differect locations. It's a particularly useful solution on staircases, so that one does not have to come back up or down to turn the light off. 
+Two way light switches are a special type of devices. They allow to control one light source from two differect locations. It's a particularly useful solution on staircases, so that one does not have to come back up or down to turn the light off.
+
+{:.distinction.distinction-info.distinction-positive}
+
+For the same reason, the two way switch diagram is used in long corridors.
+
+If more than two switches are needed for light control, one should use a three way light switch. Such circuit involves two two way switches and one three way light switch between them.
+
+## How to connext a two way switch?
+
+Connecting any switch - a two way switch as well - is not a difficult task, although one needs to follow certain rules. Of course, the basic issue to remember when connecting a light switch is cutting the electricity off. Apart from this, one has to understand how a light switch works.
+
+### Light switch - general principle of operation
+
+Generally speaking, to connect a light switch, one needs several elements. They are:
+
+* Phase wire - it's usually the black or the brown wire, although it might also be marked with another color - except from blue and yellow-green. It is marked by letter L on the diagrams presented below.
+* Neutral wire (N) - it's blue.
+* Earth conductor (PE) - it's a grounded wire, marked with yellow-green insulation.
+* Wires connecting the switches (P1, P2...)
+* Light source.
+* One or several switches.
+
+Each switch - one or multiple way, operates based on similar principle. To turn on the light, one has to move the switch, that is - close the electric circuit. Analogically, moving the switch back off cuts the circuit and the electricity stops flowing - the light  goes off.
+
+To connect the simplest one way light switch, one needs to connect wires between the switch and the light bulb. **See the diagram for such a circuit below:**
+
+![A light switch - general principle of operation](/uploads/jak_podlaczyc_wlacznik_schemat1_en.jpg "A light switch - general principle of operation")
+
+Under no circumstance mix the wires - for instance phase with neutral line. It would pose a threat during chainging a light bulb - even when the light is turned off!
+
+### Two way switch - diagram
+
+Connecting a two way switch circuit is a little bit more complicated, as it uses two switches. So - **how to connect a two way switch?**
+
+A two way switch diagram is more elaborate. In this case, the phase wire is connected with one of the two way switches, and the light source - to the other. Neautral wire and earth conductor are lead to the light source independently. The two switches should be connected with each other with additional wires.
+
+**See the two way switch diagram below:**
