@@ -37,30 +37,30 @@ hreflangs: []
 ---
 ## Two way light switch - what are its features?
 
-There is probably not too many people who are not electricians and pay attention to devices such as light switches. It is enough that they serve their function - that is, turn the light on and off. These devices, however, concern exactly the matter of funtionality - there are many types of them, and choosing the right one might not be that obvious for a layman.
+There is probably not too many people who are not electricians and pay attention to devices such as light switches. It is enough that they serve their function - that is, turn the light on and off. These devices, however, concern exactly the matter of functionality - there are many types of them, and choosing the right one might not be that obvious for a layman.
 
 Specialists classify light switches in accordance to several criterions. The most common types are:
 
 * **Surface and flush-mounted light switches** - the differentiation concerns the installation method.
-* **Single and double-pole switches** - the first ones control a single light source,whereas the latter can control two light bulbs at the same time.
-* **Multi-pole switches** - they control more light sources and usually have two or more buttons.
+* **Single and double-pole switches** - the first ones control a single light source, whereas the latter can control two light bulbs at the same time.
+* **Multipole switches** - they control more light sources and usually have two or more buttons.
 * **Automatic switches** - they switch off the light automatically after a given time.
 
-Judging by aesthetics, one can also distinguish light switches according to the type of buttons. Manufacturers offer traditional switches with a mechanical button. Touch light switches are gaining popularity. They have smooth panel with a sensor which reacts to touch.
+Judging by aesthetics, one can also distinguish light switches according to the type of buttons. Manufacturers offer traditional switches with a mechanical button. Touch light switches are gaining popularity. They have a smooth panel with a sensor which reacts to touch.
 
 ![Two way light switch - what are its features?](/uploads/jak_podlaczyc_wlacznik_schodowy.jpg "Two way light switch - what are its features?")
 
 ### Two way and three way light switch
 
-Two way light switches are a special type of devices. They allow to control one light source from two differect locations. It's a particularly useful solution on staircases, so that one does not have to come back up or down to turn the light off.
+Two way light switches are a special type of devices. They allow to control one light source from two different locations. It's a particularly useful solution on staircases, so that one does not have to come back up or down to turn the light off.
 
 {:.distinction.distinction-info.distinction-positive}
 
 For the same reason, the two way switch diagram is used in long corridors.
 
-If more than two switches are needed for light control, one should use a three way light switch. Such circuit involves two two way switches and one three way light switch between them.
+If more than two switches are needed for light control, one should use a three way light switch. Such circuit involves two external switches and one three way light switch between them.
 
-## How to connext a two way switch?
+## How to connect a two way switch?
 
 Connecting any switch - a two way switch as well - is not a difficult task, although one needs to follow certain rules. Of course, the basic issue to remember when connecting a light switch is cutting the electricity off. Apart from this, one has to understand how a light switch works.
 
@@ -81,13 +81,13 @@ To connect the simplest one way light switch, one needs to connect wires between
 
 ![A light switch - general principle of operation](/uploads/jak_podlaczyc_wlacznik_schemat1_en.jpg "A light switch - general principle of operation")
 
-Under no circumstance mix the wires - for instance phase with neutral line. It would pose a threat during chainging a light bulb - even when the light is turned off!
+Under no circumstance mix the wires - for instance phase with the neutral line. It would pose a threat during changing a light bulb - even when the light is turned off!
 
 ### Two way switch - diagram
 
 Connecting a two way switch circuit is a little bit more complicated, as it uses two switches. So - **how to connect a two way switch?**
 
-A two way switch diagram is more elaborate. In this case, the phase wire is connected with one of the two way switches, and the light source - to the other. Neautral wire and earth conductor are lead to the light source independently. The two switches should be connected with each other with additional wires.
+A two way switch diagram is more elaborate. In this case, the phase wire is connected with one of the two way switches, and the light source - to the other. Neutral wire and earth conductor are lead to the light source independently. The two switches should be connected with each other with additional wires.
 
 **See the two way switch diagram below:**
 
@@ -95,7 +95,7 @@ A two way switch diagram is more elaborate. In this case, the phase wire is conn
 
 ### How to connect a three way light switch?
 
-As already mentioned, **it is possible to wire more than only two light switches for the same light source.** To do this, one needs to use a three way light switch. The scheme of such connection is not much different from the two way switch diagram - there is a third switch between the two external ones. The number of intermediate switches is unlimited and it can be adjusted as needed. Thanks to this one will be able to turn off the staircase light while being in another room.
+As already mentioned, **it is possible to wire more than only two light switches for the same light source.** To do this, one needs to use a three way light switch. The scheme of such connection is not much different from the two way switch diagram - there is a third switch between the two external ones. The number of intermediate switches is unlimited, and it can be adjusted as needed. Thanks to this one will be able to turn off the staircase light while being in another room.
 
 **See the three way light switch diagram presented below:**
 
