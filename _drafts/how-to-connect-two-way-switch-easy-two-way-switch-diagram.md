@@ -35,3 +35,17 @@ toc: true
 hreflangs: []
 
 ---
+## Two way light switch - what are its features?
+
+There is probably not too many people who are not electricians and pay attention to devices such as light switches. It is enough that they serve their function - that is, turn the light on and off. These devices, however, concern exactly the matter of funtionality - there are many types of them, and choosing the right one might not be that obvious for a layman.
+
+Specialists classify light switches in accordance to several criterions. The most common types are:
+
+* **Surface and flush-mounted light switches** - the differentiation concerns the installation method.
+* **Single and double-pole switches** - the first ones control a single light source,whereas the latter can control two light bulbs at the same time.
+* **Multi-pole switches** - they control more light sources and usually have two or more buttons.
+* **Automatic switches** - they switch off the light automatically after a given time.
+
+Judging by aesthetics, one can also distinguish light switches according to the type of buttons. Manufacturers offer traditional switches with a mechanical button. Touch light switches are gaining popularity. They have smooth panel with a sensor which reacts to touch.
+
+![Two way light switch - what are its features?](/uploads/jak_podlaczyc_wlacznik_schodowy.jpg "Two way light switch - what are its features?")
