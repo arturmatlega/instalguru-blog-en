@@ -49,3 +49,7 @@ Specialists classify light switches in accordance to several criterions. The mos
 Judging by aesthetics, one can also distinguish light switches according to the type of buttons. Manufacturers offer traditional switches with a mechanical button. Touch light switches are gaining popularity. They have smooth panel with a sensor which reacts to touch.
 
 ![Two way light switch - what are its features?](/uploads/jak_podlaczyc_wlacznik_schodowy.jpg "Two way light switch - what are its features?")
+
+### Two way and three way light switch
+
+Two way light switches are a special type of devices. They allow to control one light source from two differect locations. It's a particularly useful solution on staircases, so that one does not have to come back up or down to turn the light off. 
