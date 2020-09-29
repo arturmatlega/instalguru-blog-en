@@ -34,19 +34,19 @@ author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: true
 hreflangs:
 - lang: cz
-  link: ''
+  link: https://instalguru.cz/blog/jak-pripojit-schodistovy-spinac-jednoduche-schodiste.html
 - lang: it
-  link: ''
+  link: https://instalguru.it/blog/come-collegare-linterruttore-a-due-vie-schema-facile.html
 - lang: fr
-  link: ''
+  link: https://instalguru.fr/blog/comment-connecter-un-interrupteur-d-escalier-un-schema-clair.html
 - lang: es
-  link: ''
+  link: https://instalguru.es/blog/como-conectar-interruptor-diagrama-interruptor-facil-de-dos-vias.html
 - lang: de
-  link: ''
+  link: https://instalguru.de/blog/wie-installiert-man-treppenhausschaltung-klar-diagramm.html
 - lang: en
-  link: ''
+  link: https://instalguru.co.uk/blog/how-to-connect-two-way-switch-easy-two-way-switch-diagram.html
 - lang: pl
-  link: ''
+  link: https://instalguru.pl/blog/jak-podlaczyc-wlacznik-schodowy-proste-polaczenie-schodowe.html
 
 ---
 ## Two way light switch - what are its features?
