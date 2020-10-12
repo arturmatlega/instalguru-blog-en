@@ -1,32 +1,28 @@
 ---
 layout: post
-seo_title: 'Pipe fittings: do threaded and press fittings differ?'
-seo_description: "Are you planning a home renovation?\U0001F3E0 Perhaps you are wondering
-  what pipe fittings you should choose?\U0001F449 Learn the difference between threaded
-  and press fittings"
+seo_title: Central Heating - What Pipe Fittings Guarantee Best Heating?
+seo_description: "Are you constructing a house? \U0001F3E0 Are wondering how to choose
+  PEX pipe fittings? \U0001F449 Learn differences between threaded and press fittings."
 main_keywords:
-  - pex fittings
-  - pipe fittings
-  - pvc pipe fittings
-  - hydraulic fittings
-  - copper fittings
-  - pex pipe fittings
+- pex fittings
+- pipe fittings
+- pvc pipe fittings
+- hydraulic fittings
+- copper fittings
+- pex pipe fittings
 date: 2019-07-22T22:00:00.000+00:00
-update_date: 2019-07-22T22:00:00.000+00:00
-title: 'Pipe fittings: do threaded and press fittings differ?'
-small-intro: Water and central heating installation uses various types of pipe fittings
-intro: Water and central heating installation uses various types of pipe fittings.
-  Two of the most popular elements are threaded fittings and press elements. What
-  is the difference between them and what are their biggest advantages? Pipe fittings
-  are among the most important elements of any water installation. PVC fittings and
-  PEX fittings are becoming more popular, being chosen more often than copper fittings.
-  The can be used both in heating (95° C max) and water installation. One of the biggest
-  advantages of a solution of this type is the possibility to transfer drinking water
-  without the risk of polluting it. Regardless of the type, both products can be used
-  to connect a PEX pipe with other elements in water installation. Different types,
-  such as tees and elbows are useful to build larger and more complicated installations.
+update_date: 2019-07-22 22:00:00 +0000
+title: Central heating - what pipe fittings guarantee best heating?
+small-intro: Each central heating system is based on various connections of different
+  elements.
+intro: Each central heating system is based on various connections of different elements.
+  It mostly depends on their construction based on diversified materials. PEX fittings
+  - threaded and press types have been one of the most popular over the years. But,
+  depending on the needs - central heating of a building can utilize copper, nickel
+  or cast iron tubing. Learn the characteristic features of each type of heating system
+  and check how they are constructed.
 photo: "/uploads/f4dc065de7c0426d8ca399f2c22cf17d.png"
-photo_desc: 'Two of the most popular elements are threaded fittings and press elements. '
+photo_desc: 'Two of the most popular PEX elements are threaded and press fittings. '
 faq:
 - question: PEX fittings - how to install them?
   answer: The method of installation for PEX pipe fittings depends on their construction.
