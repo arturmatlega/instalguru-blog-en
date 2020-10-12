@@ -60,6 +60,10 @@ hreflangs:
   link: https://instalguru.cz/blog/potrubni-tvarovky-lisi-se-prislusenstvi-se-zavitem-a-stiskem.html
 
 ---
+## Heating system based on PEX systems
+
+The highly popular over the years central heating system is mostly based on PEX systems. Because of the material used for their production, as well as the features, pipes such as PEX-AL-PEX and PEX fittings can be used both for central heating and water systems.
+
 ## Pipe fittings - construction and installation
 
 Whether they are PVC fittings, PEX fittings, copper fittings or any other type, their construction is not very complicated. The elements differ only slightly. The main distinction is in **the method of installation**. See a comprehensive description of threaded and press fittings below.
