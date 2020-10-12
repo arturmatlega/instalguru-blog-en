@@ -77,7 +77,7 @@ Another method involves using press fittings. In this particulr case, a usual PE
 
 ## Steel pipes - gas installation more prone to harmful factors?
 
-Steel pipes used for gas line installation have bigger diameters than the copper counterparts. The walls of a steel tube is thicker, therefore it is more stiff and it does not need to be attached to a wall with additional elements. Unfortunately this type of installation is very heavy. **Unfortunately, a home gas line installation like this is also significantly heavier.** Similar to copper lines, steep pipes are thermally expandable. Thanks to this feature, they are perfect for high temperatures.
+Steel pipes used for gas line installation have bigger diameters than the copper counterparts. The walls of a steel tube is thicker, therefore it is more stiff and it does not need to be attached to a wall with additional elements. Unfortunately this type of installation is very heavy. **A home gas line installation like this is also significantly heavier.** Similar to copper lines, steep pipes are thermally expandable. Thanks to this feature, they are perfect for high temperatures.
 
 {:.distinction.distinction-info.distinction-negative}
 
