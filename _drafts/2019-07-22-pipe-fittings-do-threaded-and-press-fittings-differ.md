@@ -62,49 +62,69 @@ hreflangs:
 ---
 ## Heating system based on PEX systems
 
-The highly popular over the years central heating system is mostly based on PEX systems. Because of the material used for their production, as well as the features, pipes such as PEX-AL-PEX and PEX fittings can be used both for central heating and water systems.
+The highly popular over the years central heating system is mostly based on PEX systems. Because of the material used for their production, as well as the features, pipes such as PEX-AL-PEX and PEX fittings can be used both for central heating and water systems. **The limitation in this case is temperature, which might reach maximally 95°C (203 F).**
 
-## Pipe fittings - construction and installation
+As an additional advantage of this solution, it is possible to transmit potable water without the risk of its contamination - regardless whether you choose press fittings or mouldings. When connecting PEX pipes with other water installation elements, you can use various types of fittings. They are typically PEX elbows and PEX tees. By using them, one can create larger and more complicated systems, fit to a building's structure. Thanks to this, the heating system's plan is easy to make, and it can be quickly realized.
 
-Whether they are PVC fittings, PEX fittings, copper fittings or any other type, their construction is not very complicated. The elements differ only slightly. The main distinction is in **the method of installation**. See a comprehensive description of threaded and press fittings below.
+The difference in heating systems with PEX fittings lies in using various types of mouldings. **What are the characteristic features of those elements?**
 
-### Threaded fittings
+### Heating systems with threaded fittings
 
 ![](/uploads/6ff11734a9a849f79c5bf79cdea6dea0.png)
 
-A threaded fitting consists of the following elements:
+Each heating system uses **PEX/AL/PEX pipes** as the basis. They are, however, connected with each other with various fittings. A threaded fitting consists of the following elements:
 
-{:.list.list-positive}
+1. A threaded nut.
+2. Tightening ring.
+3. Tube (with sealing o-rings).
+4. Dielectric spacer.
+5. Fitting body.
 
-* A threaded nut.
-* Tightening ring.
-* Tube (with sealing o-rings).
-* Dielectric spacer.
-* Fitting body.
+Threaded pipe fittings have a threaded nut which needs to be twisted off the dielectric spacer. Then the nut and tightening ring is put on the pipe. The tube should be placed inside the pipe and press it tightly to eliminate any spaces between the two elements (the pipe should be cut in 90 degree angle). If **the tube is inside the pipe**, the nut should be screwed with hands as tightly as possible and then fastened with a wrench (a 3/4 turn). Be careful not to fasten the nut too much, as it could damage both the fitting and the pipe.
 
-Threaded pipe fittings have a threaded nut which needs to be twisted off the dielectric spacer. Then the nut and tightening ring is put on the pipe. The tube should be placed inside the pipe and press it tightly to eliminate any spaces between the two elements (the pipe should be cut in 90 degree angle). If **the tube is inside the pipe**, the nut should be screwed with hands as tightly as possible and then fastened with a wrench. Be careful not to fasten the nut too much, as it could damage both the fitting and the pipe.
+{:.distinction.distinction-info.distinction-positive}
 
-### Press pipe fittings
+Be careful not to screw the nut to tight, as you might damage both the fitting and the pipe.
+
+### A heating system with press pipe fittings
 
 ![](/uploads/7e1cd077fb3640e6b0a524d398d1f7d9.png)
 
-There are several elements in press pipe fittings:
+Press pipe fittings are also commonly used in heating systems. There are several elements in press pipe fittings:
 
-{:.list.list-positive}
+1. Tightening sleeve.
+2. Tube (with sealing o-rings).
+3. Dielectric spacer.
+4. Fitting body.
 
-* Tightening sleeve.
-* Tube (with sealing o-rings).
-* Dielectric spacer.
-* Fitting body.
+Installation of pipe fittings of this type involves putting the tightening sleeve directly on pipe (without dismantling it). Special gaps located in the tube are used to make sure that the pipe has been placed deep enough. To fix the fitting, **a special mechanical press tool** is used, which is the main difference between the two types. The tool is put on the pipe and turned on. After a few seconds you can hear a characteristic noise - that means that the fitting has been properly connected with the pipe.
 
-Installation of pipe fittings of this type involves putting the tightening sleeve directly on pipe (without dismantling it). **Special gaps** located in the tube are used to make sure that the pipe has been placed deep enough. To fix the fitting, a special mechanical press tool is used, which is the main difference between the two types. The tool is put on the pipe and turned on. After a few seconds you can hear a characteristic noise - that means that the fitting has been properly connected with the pipe.
+## Pipe fittings - main differences in PEX systems
 
-## Pipe fittings - main differences
+Every heating system should be highly durable. It is important to create leaktight, resistant to various factors connections. For this reason, brass fittings are being frequently used: elbows, nipples and various connectors.
 
-As stated in the descriptions above, the main difference between the two systems lies in the method of installation. **Threaded fittings are easier to install** and they do not require any special tools. Threaded pipe fittings are also cheaper than the other ones (although the difference in pricing is relatively small). An additional advantage is the fact that the fitting can be easily disassembled after the installation.
+### Fittings for radiators
 
-There are, however, certain limitations. It might happen that after dismantling the fitting, the tightening ring needs to be replaced. Another disadvantage is that after installation the fitting cannot be moved, as it could cause leaking. It is particularly problematic with elbows, as they have to be positioned at a certain angle.
+Brass fittings, due to their durability, as well as resistance to high temperatures, are used for radiators. In this particular case, pipe unions are typically used. Apart from being durable, thay also are easy to maintain and highly functional.
 
-Press pipe fittings are a bit more expensive. Using a mechanical press tool is a safer method of installation (it is easy to fasten a threaded fitting too tight). Pressed pipe fittings (especially elbows and tees) can be moved around after installation. This means that they can be easily adjusted to the next element without the risk of damage. Furthermore, they can be placed in concrete, as they are more durable and stable.
+{:.distinction.distinction-quotation.distinction-negative}
 
-Both of the systems have their strengths and weaknesses. The decision between them depends on one’s individual needs.
+_Thanks to those elements, you can quickly remove the radiator if the heating systems malfunctions._
+
+### Heating - water and gas systems
+
+Brass fittings also build gas and water systems. They use various types of fittings as well. Using brass reducers a and nipple reducers is highly advantageous. Thanks to those elements, different diameters of fittings are no longer problematic. The construction of a building might also force certain changes which have to be applied to the heating system's layout. Changing the direction of the piping is not a problem. One just needs to use a brass tee or the aforementioned elbow.
+
+## Nickel-plated fittings in central heating
+
+Nickel-plated elements, covered with a protective layer, are used for systems in which aesthetics is as important as durability. It concerns all the exposed spots - mostly in restrooms and bathrooms, but not only.
+
+Thanks to the elements, one can be sure that the central heating system or pipeworks are going to be durable and resistant to various factors. Which type of fittings are the most popular? They are nickel-plated couplers, nickel reducers and nickel-covered elbows.
+
+## Central heating based on iron cast systems
+
+Apart from all the aforementioned possibilities, a central heating system can also be made up of galvanized cast iron elements. Although many people give up this solution - mostly due to aesthetics - one cannot, however, forget about the most important features. Cast iron fittings are one of the most durable elements available on the market. A stated by experts, they can be used at spots with high risk of changes in pressure. For this reason, cast iron fittings are used not only for central heating, but also water, gas, fire-fighting and ventilation systems.
+
+Similar to all the previous cases - caste iron tees, galvanized reducer nipples and pipe unions made of cast iron are popular products, among many other elements, which can be individually fit to the system.
+
+Regardless of the pieces of equipment used for heating systems, the proper construction is the most important. One can do it by themselves or ask a professional. A lot depends on the specific characteristics of the system, as well as on the medium used for heating.
