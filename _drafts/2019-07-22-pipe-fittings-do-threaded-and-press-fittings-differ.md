@@ -22,7 +22,7 @@ intro: Each central heating system is based on various connections of different 
   or cast iron tubing. Learn the characteristic features of each type of heating system
   and check how they are constructed.
 photo: "/uploads/f4dc065de7c0426d8ca399f2c22cf17d.png"
-photo_desc: 'Two of the most popular PEX elements are threaded and press fittings. '
+photo_desc: Two of the most popular PEX elements are threaded and press fittings.
 faq:
 - question: PEX fittings - how to install them?
   answer: The method of installation for PEX pipe fittings depends on their construction.
