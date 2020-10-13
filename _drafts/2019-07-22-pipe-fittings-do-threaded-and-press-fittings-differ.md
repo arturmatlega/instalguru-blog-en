@@ -101,7 +101,7 @@ Installation of pipe fittings of this type involves putting the tightening sleev
 
 ## Pipe fittings - main differences in PEX systems
 
-Every heating system should be highly durable. It is important to create leaktight, resistant to various factors connections. For this reason, brass fittings are being frequently used: elbows, nipples and various connectors.
+Every heating system should be highly durable. It is important to create leak tight, resistant to various factors connections. For this reason, brass fittings are being frequently used: elbows, nipples and various connectors.
 
 ### Fittings for radiators
 
