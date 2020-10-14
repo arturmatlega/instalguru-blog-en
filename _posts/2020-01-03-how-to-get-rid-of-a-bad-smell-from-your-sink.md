@@ -12,7 +12,7 @@ main_keywords:
 - the smell
 - washbasin
 date: 2020-01-03T11:00:00.000+00:00
-update_date: 2020-01-03T11:00:00.000+00:00
+update_date: 2020-10-14 10:00:00 +0000
 title: How to get rid of a bad smell from your sink?
 small-intro: Learn how to remove the unpleasant smell from your sink and how to prevent
   it in the future.
