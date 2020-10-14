@@ -11,7 +11,7 @@ main_keywords:
 - copper fittings
 - pex pipe fittings
 date: 2019-07-22T22:00:00.000+00:00
-update_date: 2019-07-22 22:00:00 +0000
+update_date: 2020-10-12 22:00:00 +0000
 title: Central heating - what pipe fittings guarantee best heating?
 small-intro: Each central heating system is based on various connections of different
   elements.
