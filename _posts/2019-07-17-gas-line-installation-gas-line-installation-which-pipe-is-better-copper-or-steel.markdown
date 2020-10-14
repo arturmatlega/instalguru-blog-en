@@ -8,7 +8,7 @@ main_keywords:
 - gas line installation
 - pipework materials
 date: 2019-07-17T15:02:04.000+00:00
-update_date: 2019-07-17T15:02:04.000+00:00
+update_date: 2020-10-12 12:15:04 +0000
 title: Which pipes are better - copper or steel tubes? Gas installation essentials
 small-intro: Gas line installation has been an essential element for almost every
   new building over the recent years.
