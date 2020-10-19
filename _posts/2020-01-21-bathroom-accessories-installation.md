@@ -19,7 +19,7 @@ intro: Sanitary wares and bathroom accessories installation is one of the most i
   basin, shower or bath tub. While fitting a modern shower stall or bath tub might
   be quite problematic, a sink installation is something one can do by themselves.
   All you need to do is get the right sanitary fittings and follow the manufacturer's
-  instructions
+  instructions.
 photo: "/uploads/96ef8ac978b9458887607b6d09e23b84.png"
 photo_desc: All you need to do is get the right sanitary fittings and follow the manufacturer's
   instructions
