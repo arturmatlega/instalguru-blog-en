@@ -1,21 +1,22 @@
 ---
 layout: post
-seo_title: Pipe cover, pipe boxing? How to conceal exposed pipes?
-seo_description: If your pipes have been left exposed, you might want to conceal them.
-  Are you wondering what is the best pipe cover? Check, how to hide pipes effectively.
+seo_title: Pipe Cover - How to Conceal Exposed Pipes? | 5 Simple Tricks
+seo_description: "Do you want to improve the looks of your interior? \U0001F3E1 Are
+  you wondering what is the best pipe cover? \U0001F6E0️ Learn 5 effective ways to
+  hide exposed pipes."
 main_keywords:
-  - pipe cover
-  - pipe boxing
-date: 2020-02-10 11:00:00 +0000
-update_date: 2020-02-10 11:00:00 +0000
-title: Pipe cover - how to hide exposed pipes?
-small-intro: 'A perfect interior design is one that matches your individual taste
-  and sense of style. '
-intro: A perfect interior design is one that matches your individual taste and sense
-  of style. Regardless of the arrangement, there is a common problem that might disrupt
-  your whole concept - pipes and cables. Fitting tubes and lines to the style of a
-  room might be a serious challenge. Read the article below to learn how to conceal
-  the pipework in your room and what type of pipe cover you should use.
+- pipe cover
+- pipe boxing
+date: 2020-02-10T11:00:00.000+00:00
+update_date: 2020-10-19 10:00:00 +0000
+title: Pipe cover - how to hide exposed pipes at home? 2020 interior design trends
+small-intro: Check 5 proven pipe cover methods.
+intro: Cables sticking out of the ceiling? Pipes that do not fit the interior at all?
+  A dream of your own place to live might turn into a real nightmare. Is it not what
+  you wanted? Don't worry - you can get everything under control - just take some
+  neccesary measures. One of them involves concealing the pipes and other elements
+  which disturb the interior design. Learn 5 proven methods for concealing pipes -
+  quick, easy and possible to do it yourself.
 photo: "/uploads/61e19b6b343a4ba0880faea4a0184e68.jpg"
 photo_desc: How to conceal exposed pipes to make your interior perfect? There are
   two good solutions for it.
@@ -41,54 +42,55 @@ hreflangs:
   link: https://instalguru.cz/blog/potrubi-jak-skryt-odhalene-trubky.html
 
 ---
-## How to design an interior with pipes?
+## Plasterboard over pipes - quick and easy pipe cover
 
-**Plumbing pipes are integral parts of every properly functioning building.** Despite their importance, those elements are not very aesthetic. How to conceal exposed pipes to make your interior perfect? There are two good solutions for it.
+A plasterboard is just a construction which allows one to hide any elements that are unaesthetic and disrupt the consistency of the interior. **This type of hiding pipes and other elements is the most popular method.** What's more, you can do it yourself. Drywall doesn't take much space and it can be done in any type of interior. The biggest plus of this solution is the quick access to important elements, e.g. in case of a malfunction.
 
-One of them is **hiding the pipes in walls**, in the floor or under skirting. It might, however, happen that those methods are impossible. In such case one can use plaster boards or furniture to conceal pipework. Concealing pipes is the most common solutions. There is also a good alternative to it, which becomes an increasingly popular among many homeowners. **Leaving pipes exposed has become a rising trend.** This type of design is most commonly used in industrial styles.
+Pipe cover with drywall can take many forms. It mostly depends on the type of system one wants to conceal.
 
-Industrial interior design is simple and minimalistic. The interiors should be crude, spacious and sparing. The most characteristic feature for this style are walls: unplastered, brick or concrete. They are perfect for exposed pipes.
+{:.list.list-positive}
 
-## Pipe decor - ideas for exposed pipes
-
-If you have decided to leave the pipes exposed, you should remember that the installation should look bold and distinctive. This way everybody will know that the pipes are exposed intentionally. Thin, **copper pipes** can make an interesting structure for a wall. They can also be a hanger for clothes, kitchen utensils or towels. Large pipes can be painted in an interesting colour, matching other accessories.
+* Hiding central heating pipes involves covering the pipework completely using a plasterboard. This method is good for hiding both vertical and horizontal pipes. 
+* Concealing gas pipes requires leaving openings in the board. You might also create a sort of a hinged shelf, which allows for a quick access to the system in case of an emergency.
 
 {:.distinction.distinction-quotation.distinction-positive}
 
-You can also buy furniture made of pipes that will fit perfectly to the water or heating system pipes. Loft style interiors are ideal for “crude” radiators and electrical wires plugged into ceiling lamps.
+Plastering leaves a wide array of possibilities, which can improve the visual aspect of the room. You might install a decorative lamp in it to **draw attention to the details** of the surroundings. This method for concealing pipes also allows to lay tiles or other ornamental elements on the created surface.
+
+Remember that the created drywall is going too look well only if you take care of a proper finish. Any new cracks and roughnesses can be removed with products like acrylic sealant for plasterboard. Both plasterboard installation, as well as smoothing the drywall down are simple and easy tasks anyone can do. Therefore, you don't have to worry about anything if you choose this method.
+
+If you are wondering, how to conceal pipes in a small bathroom - drywall is suitable in this case too. **You have to keep in mind, however, that interiors of higher humidity levels require special waterproof plasterboards.** They are significantly more durable and less vulnerable to harmful factors.
 
 ![](/uploads/948196e9ad254b4f8fd0feeca9d3db0b.jpg)
 
-## Plastering over pipes
+## Concealing pipes with colour
 
-This method is the simplest and quickest is you want to **conceal exposed pipe system**. It is very easy to make and doesn’t take too much space. It can be put over walls and it allows for a quick access to an installation in case of an emergency.
+Are you looking for a quick way to hide pipes? There is a much cheaper and less invasive method than covering pipes with plasterboard - painting them in the wall colour. It is best to do it along with finishing or renovating the interior. The only thing you should remember in this case is choosing the exact same colour as the other parts of the interior have been painted in. This way, the pipes will perfectly blend in the wall and they will be practically invisible.
 
-**Hiding central heating pipes involves covering the pipework completely using a plasterboard.** This method is good for hiding both vertical and horizontal pipes. Concealing gas pipes requires leaving openings in the board. You might also create a sort of hinged shelf, which would allow for a quick access to installation in case of a breakdown.
+## How to hide pipes with decorative elements?
 
-{:.distinction.distinction-quotation.distinction-positive}
+You have no means to create a pipe cover using plasterboard, and concealing pipes with paint doesn't really resonate with you. **A good idea in this case is simply covering the pipes.** It's the best solution for piping located close to the windows. All you have to do is place the curtain rail at the right spot and choose a good curtain. It's a completely non-invasive pipe cover, which works perfectly.
 
-Plastering leaves a wide array of possibilities, which can make the room look really good. You might install a decorative lamp over it to expose details of the surroundings.
+## Covering ceiling pipes and hiding pipes by the floor - easier thank you think
+
+If you wan to conceal pipes located under the ceiling or by the floor - the easiest way involves using the furniture. For the ceiling, all types of tall, custom-ordered wardrobes and closets or bookcases are perfect.
+
+{:.distinction.distinction-info.distinction-negative}
+
+To cover unwanted elements located right by the floor, use a wide sofa and place it by the wall, across its length. It's a very affordable method - you don't have to make any renovations.
 
 ![](/uploads/17523f9df91141dbb5e50ea171230750.jpg)
 
-## Painting pipes
+## Special pipe boxing
 
-**Painting pipes** is a much cheaper and less involving method for hiding pipework. To make the pipe look less distinctive, just paint it in the same colour as walls. It is best to do it along with painting the walls, as matching the colour later might become a problem. **Painting will make the pipes blend in.**
+Smaller pipes, as well as any electrical cords can be concealed with a special pipe cover. The market offers a wide array of this types of elements, made of various materials. **Pipe boxing** is one of the most popular and commonly chosen product. They allow to hide both vertical and horizontal pipes - depending on the character of the piping in your house. If you decide to use a pipe cover, remember to use a strong binding agent. A special hybrid sealan for various surface might be a perfect solution in this case.
 
-## Pipe cover for wallpaper
+## Is it necessary to cover pipes?
 
-If the walls are covered with **patterned and colourful wallpapers**, you might decide to paint the pipes in colour that matches the wallpaper the most. Another good idea is covering the piping with the same wallpaper as the walls.
-
-## How to cover ceiling pipes?
-
-If the pipes are located right under the ceiling, the best solution involves painting them in the colour that is dominating at this spot. If you decided to cover the installation, remember to attach the pipe cover thoroughly, so it doesn’t fall down. **A ceiling pipe boxing should be made of lightweight and strong materials, such as plasterboard.**
-
-## Pipe boxing by the floor
-
-In case exposed pipes run along the floor, one can use special covers made of polypropylene. They match any interior design and they can be covered or painted over.
+Although concealing pipes is something absolutely essential for many homeowners, there are also people who consiter it unnecessary. They are mostly fans of modern and industrial interior design. **One could have noticed that some latest 2020 trends point to the popularity of some raw-looking, yet intriguing interiors.** Exposing pipes instead of concealing them might be a perfect solution for the mentioned industrial-style-lovers.
 
 {:.distinction.distinction-quotation.distinction-negative}
 
-It is important that the cover is sturdy and durable, as this area is particularly prone to mechanical damage.
+Copper pipes are the ones being left uncovered the most, thanks to their unique colour. What's interesting, they are perfect for loft interiors, as well as for rustic and vintage styles. Combined with other interesting elements, they might look really impressive.
 
-Concealing pipes certainly affects the aesthetics of the interior. Regardless of the method, it can make the room look elegant and stylish.
+Designing an interior in fact requires a good idea and its proper realization. **If you do not like raw interiors - concealing the pipes is for you.** All you have to do is choose the right pipe cover, matching the room and your expectations. Are you looking for a solution which doesn't overwhelm the interior and at the same covers unaesthetic elements? Perhaps an openwork pipe cover is something you will like. You can use a very simple grid or some metal elements wrapped around the piping. Be creative and design an interior matching your style and expectations.
