@@ -44,20 +44,20 @@ hreflangs:
 ---
 ## Plasterboard over pipes - quick and easy pipe cover
 
-A plasterboard is just a construction which allows one to hide any elements that are unaesthetic and disrupt the consistency of the interior. **This type of hiding pipes and other elements is the most popular method.** What's more, you can do it yourself. Drywall doesn't take much space and it can be done in any type of interior. The biggest plus of this solution is the quick access to important elements, e.g. in case of a malfunction.
+Plasterboard is just a construction which allows one to hide any elements that are unaesthetic and disrupt the consistency of the interior. **This type of hiding pipes and other elements is the most popular method.** What's more, you can do it yourself. Drywall doesn't take much space, and it can be done in any type of interior. The biggest plus of this solution is the quick access to important elements, e.g. in case of a malfunction.
 
 Pipe cover with drywall can take many forms. It mostly depends on the type of system one wants to conceal.
 
 {:.list.list-positive}
 
-* Hiding central heating pipes involves covering the pipework completely using a plasterboard. This method is good for hiding both vertical and horizontal pipes. 
+* Hiding central heating pipes involves covering the pipework completely using plasterboard. This method is good for hiding both vertical and horizontal pipes. 
 * Concealing gas pipes requires leaving openings in the board. You might also create a sort of a hinged shelf, which allows for a quick access to the system in case of an emergency.
 
 {:.distinction.distinction-quotation.distinction-positive}
 
 Plastering leaves a wide array of possibilities, which can improve the visual aspect of the room. You might install a decorative lamp in it to **draw attention to the details** of the surroundings. This method for concealing pipes also allows to lay tiles or other ornamental elements on the created surface.
 
-Remember that the created drywall is going too look well only if you take care of a proper finish. Any new cracks and roughnesses can be removed with products like acrylic sealant for plasterboard. Both plasterboard installation, as well as smoothing the drywall down are simple and easy tasks anyone can do. Therefore, you don't have to worry about anything if you choose this method.
+Remember that the created drywall is going to look well only if you take care of a proper finish. Any new cracks and roughnesses can be removed with products like acrylic sealant for plasterboard. Both plasterboard installation, as well as smoothing the drywall down are simple and easy tasks anyone can do. Therefore, you don't have to worry about anything if you choose this method.
 
 If you are wondering, how to conceal pipes in a small bathroom - drywall is suitable in this case too. **You have to keep in mind, however, that interiors of higher humidity levels require special waterproof plasterboards.** They are significantly more durable and less vulnerable to harmful factors.
 
@@ -65,11 +65,11 @@ If you are wondering, how to conceal pipes in a small bathroom - drywall is suit
 
 ## Concealing pipes with colour
 
-Are you looking for a quick way to hide pipes? There is a much cheaper and less invasive method than covering pipes with plasterboard - painting them in the wall colour. It is best to do it along with finishing or renovating the interior. The only thing you should remember in this case is choosing the exact same colour as the other parts of the interior have been painted in. This way, the pipes will perfectly blend in the wall and they will be practically invisible.
+Are you looking for a quick way to hide pipes? There is a much cheaper and less invasive method than covering pipes with plasterboard - painting them in the wall colour. It is best to do it along with finishing or renovating the interior. The only thing you should remember in this case is choosing the exact same colour as the other parts of the interior have been painted in. This way, the pipes will perfectly blend in the wall, and they will be practically invisible.
 
 ## How to hide pipes with decorative elements?
 
-You have no means to create a pipe cover using plasterboard, and concealing pipes with paint doesn't really resonate with you. **A good idea in this case is simply covering the pipes.** It's the best solution for piping located close to the windows. All you have to do is place the curtain rail at the right spot and choose a good curtain. It's a completely non-invasive pipe cover, which works perfectly.
+You have no means to create a pipe cover using plasterboard, and concealing pipes with paint doesn't really resonate with you. **A good idea, in this case, is simply covering the pipes.** It's the best solution for piping located close to the windows. All you have to do is place the curtain rail at the right spot and choose a good curtain. It's a completely non-invasive pipe cover, which works perfectly.
 
 ## Covering ceiling pipes and hiding pipes by the floor - easier thank you think
 
@@ -83,11 +83,11 @@ To cover unwanted elements located right by the floor, use a wide sofa and place
 
 ## Special pipe boxing
 
-Smaller pipes, as well as any electrical cords can be concealed with a special pipe cover. The market offers a wide array of this types of elements, made of various materials. **Pipe boxing** is one of the most popular and commonly chosen product. They allow to hide both vertical and horizontal pipes - depending on the character of the piping in your house. If you decide to use a pipe cover, remember to use a strong binding agent. A special hybrid sealan for various surface might be a perfect solution in this case.
+Smaller pipes, as well as any electrical cords can be concealed with a special pipe cover. The market offers a wide array of these types of elements, made of various materials. **Pipe boxing** is one of the most popular and commonly chosen products. They allow to hide both vertical and horizontal pipes - depending on the character of the piping in your house. If you decide to use a pipe cover, remember to use a strong binding agent. A special hybrid sealant for various surfaces might be a perfect solution in this case.
 
 ## Is it necessary to cover pipes?
 
-Although concealing pipes is something absolutely essential for many homeowners, there are also people who consiter it unnecessary. They are mostly fans of modern and industrial interior design. **One could have noticed that some latest 2020 trends point to the popularity of some raw-looking, yet intriguing interiors.** Exposing pipes instead of concealing them might be a perfect solution for the mentioned industrial-style-lovers.
+Although concealing pipes is something absolutely essential for many homeowners, there are also people who consider it unnecessary. They are mostly fans of modern and industrial interior design. **One could have noticed that some latest 2020 trends point to the popularity of some raw-looking, yet intriguing interiors.** Exposing pipes instead of concealing them might be a perfect solution for the mentioned industrial-style-lovers.
 
 {:.distinction.distinction-quotation.distinction-negative}
 
