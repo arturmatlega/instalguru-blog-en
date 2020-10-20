@@ -20,7 +20,11 @@ intro: Cables sticking out of the ceiling? Pipes that do not fit the interior at
 photo: "/uploads/61e19b6b343a4ba0880faea4a0184e68.jpg"
 photo_desc: How to conceal exposed pipes to make your interior perfect? There are
   two good solutions for it.
-faq: []
+faq:
+- question: Is a pipe cover alway necessary?
+  answer: Covering pipes in a room affects the aesthetics of the interior. If you
+    decided to use the loft style, you don't have to do it. Pipe covers are not necessary
+    in this case, as the exposed pipes add a character to the design.
 author_name: Magdalena Data-Urban
 author_desc: Content Manager at Instalguru
 author_photo: "/uploads/ccd0bafcbc864b52afb6e7826ae63e4b.png"
