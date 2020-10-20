@@ -27,7 +27,7 @@ intro: Home ventilation system might be hidden from sight, but it plays one of t
 photo: "/uploads/wall-768765_960_720.webp"
 photo_desc: Home ventilation system can perfectly match the needs of the building.
 faq:
-- question: What is the best home vetilation system?
+- question: What is the best home ventilation system?
   answer: Natural ventilation is the best solution for every building. Sometimes it
     is obligatory - as it is regulated by the law. Keep in mind that in every case
     one should fit the ventilation system to the individual aspects of a building.
