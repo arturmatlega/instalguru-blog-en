@@ -24,7 +24,7 @@ faq: []
 author_name: Magdalena Data-Urban
 author_desc: Content Manager at Instalguru
 author_photo: "/uploads/ccd0bafcbc864b52afb6e7826ae63e4b.png"
-toc: false
+toc: true
 hreflangs: []
 
 ---
