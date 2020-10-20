@@ -24,7 +24,12 @@ intro: Are you planning to finish your house? You don't have any idea on how to 
   to use in each kitchen? First and foremost - kitchen faucets.
 photo: "/uploads/tap-791172_960_720.webp"
 photo_desc: The market offers a wide variety of different kitchen faucets.
-faq: []
+faq:
+- question: What kitchen faucet to choose?
+  answer: When choosing a kitchen faucet, you can decide between a wall- or deck-mount
+    models. The first one is perfect if the piping is located above the sink. A deck-mount
+    kitchen faucet is a perfect option for modern kitchens - great for a sink on an
+    island or by the window.
 author_name: Magdalena Data-Urban
 author_desc: Content Manager at Instalguru
 author_photo: "/uploads/ccd0bafcbc864b52afb6e7826ae63e4b.png"
