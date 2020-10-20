@@ -21,7 +21,7 @@ photo: "/uploads/61e19b6b343a4ba0880faea4a0184e68.jpg"
 photo_desc: How to conceal exposed pipes to make your interior perfect? There are
   two good solutions for it.
 faq:
-- question: Is a pipe cover alway necessary?
+- question: Is a pipe cover always necessary?
   answer: Covering pipes in a room affects the aesthetics of the interior. If you
     decided to use the loft style, you don't have to do it. Pipe covers are not necessary
     in this case, as the exposed pipes add a character to the design.
