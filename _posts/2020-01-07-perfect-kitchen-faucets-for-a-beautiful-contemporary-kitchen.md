@@ -14,7 +14,7 @@ main_keywords:
 - kitchen light fixtures
 date: 2020-01-07T11:00:00.000+00:00
 update_date: 2020-10-20 10:00:00 +0000
-title: Modern kitchen design - which equipment is the best?
+title: Modern kitchen design - which kitchen faucet is the best for you?
 small-intro: Are you planning to finish your house? You don't have any idea on how
   to design your kitchen?
 intro: Are you planning to finish your house? You don't have any idea on how to design
