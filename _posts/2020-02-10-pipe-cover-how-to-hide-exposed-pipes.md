@@ -50,14 +50,14 @@ Pipe cover with drywall can take many forms. It mostly depends on the type of sy
 
 {:.list.list-positive}
 
-* Hiding central heating pipes involves covering the pipework completely using plasterboard. This method is good for hiding both vertical and horizontal pipes. 
+* Hiding central heating pipes involves covering the pipework completely using plasterboard. This method is good for hiding both vertical and horizontal pipes.
 * Concealing gas pipes requires leaving openings in the board. You might also create a sort of a hinged shelf, which allows for a quick access to the system in case of an emergency.
 
 {:.distinction.distinction-quotation.distinction-positive}
 
 Plastering leaves a wide array of possibilities, which can improve the visual aspect of the room. You might install a decorative lamp in it to **draw attention to the details** of the surroundings. This method for concealing pipes also allows to lay tiles or other ornamental elements on the created surface.
 
-Remember that the created drywall is going to look well only if you take care of a proper finish. Any new cracks and roughnesses can be removed with products like acrylic sealant for plasterboard. Both plasterboard installation, as well as smoothing the drywall down are simple and easy tasks anyone can do. Therefore, you don't have to worry about anything if you choose this method.
+Remember that the created drywall pipe cover is going to look well only if you take care of a proper finish. Any new cracks and roughnesses can be removed with products like acrylic sealant for plasterboard. Both plasterboard installation, as well as smoothing the drywall down are simple and easy tasks anyone can do. Therefore, you don't have to worry about anything if you choose this method.
 
 If you are wondering how to conceal pipes in a small bathroom - drywall is suitable in this case too. **You have to keep in mind, however, that interiors of higher humidity levels require special waterproof plasterboards.** They are significantly more durable and less vulnerable to harmful factors.
 
@@ -73,7 +73,7 @@ You have no means to create a pipe cover using plasterboard, and concealing pipe
 
 ## Covering ceiling pipes and hiding pipes by the floor - easier thank you think
 
-If you want to conceal pipes located under the ceiling or by the floor - the easiest way involves using the furniture. For the ceiling, all types of tall, custom-ordered wardrobes and closets or bookcases are perfect.
+If you're wondering how to conceal pipes located under the ceiling or by the floor - the easiest way involves using the furniture. For the ceiling, all types of tall, custom-ordered wardrobes and closets or bookcases are perfect.
 
 {:.distinction.distinction-info.distinction-negative}
 
