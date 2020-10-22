@@ -101,7 +101,7 @@ A bidet toilet seat is another, quite interesting solution. It's a perfect model
 
 Do you want to sit comfortably on your toilet seat? Think about this aspect when choosing the product and make sure to pick the right size. It might not seem so but matching this element is not that easy - especially looking at the already mentioned possibilities offered by manufacturers. Each toilet seat has certain dimensions which one should know, as they can be a great help when picking the right model.
 
-### A toilet seat - dimensions you should learn
+### A toilet seat - dimensions to learn
 
 Length is the most important feature of a toilet seat. It is determined from the spot it is attached to the opposite point on the other side. The width should be measured in the widest spot ot the toilet seat - more or less in the middle of its length. There is also one more parameter - the range between the screws, often referred to as the distance between the hinges. How to measure this parameter for a toilet seat? There are characteristic points on the product - just determine the distance between them.
 
