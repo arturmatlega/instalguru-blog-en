@@ -142,7 +142,7 @@ The most commonly picked models are made of polypropylene, sometimes called soft
 
 Unfortunately, this feature contributes to a lower durability and vulnerability to various kinds of damage - scratches and cracks. Polypropylene elements might also lose their shape after intense usage..
 
-Another often used material for toilet seats is hard plastic. Products of this type are less prone to damage and deformation**. One of their biggest advantage is high resistance to discolouration**. It is very easy to clean them, which reduces the amount of time spent on cleaning the bathroom.
+Another often used material for toilet seats is hard plastic. Products of this type are less prone to damage and deformation. One of their biggest advantage is high resistance to discolouration. It is very easy to clean them, which reduces the amount of time spent on cleaning the bathroom.
 
 For those who love functionality, but also value aesthetics and a good interior design, **a toilet seat made of resin or wood** might be a better choice. The former allows to get a transparent product with decorative elements. Resin toilet seats are highly resistant to damage and they are becoming increasingly popular.
 
