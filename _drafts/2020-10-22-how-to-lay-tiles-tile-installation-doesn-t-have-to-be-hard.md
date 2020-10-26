@@ -22,7 +22,8 @@ intro: Tiling floor and walls is one of the most popular methods for finishing t
   and you can do it yourself. You only need to learn the basic info on how to lay
   tile.
 photo: "/uploads/plytki1.jpg"
-photo_desc: ''
+photo_desc: Although tile laying is not very complicated, it is necessary to prepare
+  for it before starting work.
 faq:
 - question: Laying floor tile - how to begin?
   answer: When tiling floor, one should start from preparing all the necessary materials
