@@ -36,11 +36,12 @@ author_desc: Sales and Customer Support Specialist at Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: false
 hreflangs: []
+noindex: false
 
 ---
 ## Tile installation - how to prepare yourself for the task?
 
-Although laying tile is not a very complicated procedure, one should make certain preparations beforehand. It is recommended to learn the basic tile installation rules, which can help your calculate the needed material and determine the method for laying tiles.
+Although laying tile is not a very complicated procedure, one should make certain preparations beforehand. It is recommended to learn the basic tile installation rules, which can help you calculate the needed material and determine the method for laying tiles.
 
 **Tile installation should begin at preparing the surface where the tiles are going to be placed.** Both wall and floor tile needs using a consistent and firm substrate.
 
@@ -48,11 +49,11 @@ Although laying tile is not a very complicated procedure, one should make certai
 
 If the base surface is too weak, it won't hold the tiles, which are going to fall off after a while. It is, therefore, highly important to remove the outer, loose layer of the floor until it cannot be scratched anymore. Then the surface needs to be primed. Thank to this, the floor or the wall will be resistant to moisture which could get under the tile.
 
-It is crucial to choose the right mortar mix, fit to the surface and the tile. **To make laying the tiles easier and more effective - plan your work sensibly.**  It is recommended to lay whole tiles at the most visible spots,. If you need to cut tile, make sure to do it in the less visible areas. If it is possible - reduce cutting to minimum.
+It is crucial to choose the right mortar mix, fit to the surface and the tile. **To make laying the tiles easier and more effective - plan your work sensibly.** It is recommended to lay whole tiles at the most visible spots,. If you need to cut tile, make sure to do it in the less visible areas. If it is possible - reduce the cutting to minimum.
 
 ## Tools which will help you with tile installation
 
-Standard tile installation on a wall or on the floor requires using professional, specialist equipment. When laying tile, you are going to need the following tools:
+Standard tile installation on a wall or floor requires using professional, specialist equipment. When laying tile, you are going to need the following tools:
 
 {:.list.list-positive}
 
@@ -70,26 +71,94 @@ Both wall, as well as floor tile is a very important ornamental element in an in
 
 ### How to lay square tile?
 
-Square tile is one of the most common type available on the market. No wonder then that it is chosen by many homeowners.
+Square tile is one of the most common types available on the market. No wonder then that it is chosen by many homeowners.
 
 {:.list.list-positive}
 
 * **Simple tile layout** - it is one of the most commonly chosen patterns for square tile installation. **The characteristic features are the grouting lines, parallel to the surface, which intersect and form crosses.** It is one of the easiest methods for laying tiles, and despite the simplicity, it results in an amazing visual effect.
 * **Diamond** - it's also one of the most popular designs. Tile installed in a diamond pattern create a sense of dynamics, hence it is typically used in irregularly shaped interiors. **It's a perfect style for strong, pronounced, contrasting colours.** It is a great decorative element in Scandinavian style interiors. Diamond pattern tiles form a net of grouting lines set 45 degrees in relation to the walls.
 * **Offset** - this tile layout is used mostly in modern style interiors. It's a combination of harmony with a hint of disorder. The method involves moving the next row of tile in relation to the previous one.
-* **Alternating** - a tile layout like this is recomended for bold homeowners who are not afraid of pronounced and highly dynamic patterns. Laying tile with this layout involves alternating small and large tiles, which results in an effect of a shift in two direction.
+* **Alternating** - a tile layout like this is recommended for bold homeowners who are not afraid of pronounced and highly dynamic patterns. Laying tile with this layout involves alternating small and large tiles, which results in an effect of a shift in two directions.
 
 ### Rectangular tile installation
 
-Rectangular tile is the second most popular type of tiles - it is a common choice among everyone who values classic elements in their interior design. **Classic, in this case, doesn't mean that wall or floor tile cannot look interesting.** Find several most attractive tile layouts for rectangular tile.
+Rectangular tile is the second most popular type of tiles - it is a common choice among everyone who values classic elements in their interior design. **A** **classic style, in this case, doesn't mean that wall or floor tile cannot look interesting.** Find several most attractive tile layouts for rectangular tile.
 
 {:.list.list-positive}
 
-* **Classic tile layout** - it's a style characterized by precision, simplicity and order. This type of tile installation is perfect for **classic and elegant interiors**. Furthermore, it is quite simple to do.
-* **Vertical tile layout** - this pattern is becoming more and more popular. Despite its simplicity, laying tiles like this **makes the room look interesting and extraordinary.** It fits most interior types, and is quick and easy to design.
-* **"Brick" tile layout** - one of the most common patterns used in tile installation. It looks very interesting and is uncomplicated to create. It is typically used in kitchens.
+* **Classic** - it's a style characterized by precision, simplicity and order. This type of tile installation is perfect for **classic and elegant interiors**. Furthermore, it is quite simple to do.
+* **Vertical** - this pattern is becoming more and more popular. Despite its simplicity, laying tiles like this **makes the room look interesting and extraordinary.** It fits most interior types, and is quick and easy to design.
+* **"Brick"** - one of the most common patterns used in tile installation. It looks very interesting and is uncomplicated to create. It is typically used in kitchens.
 * **Herringbone pattern** - a typical tile layout used for small wood-like elements. **It's a universal pattern**. It can be used both for floor and wall tile.
 * **Diagonal** - a dynamic, yet very organized pattern. It creates an impression of space. It's a perfect tile layout for tile installation in small interiors.
 * **Basketweave** - a perfect choice if you are looking for a very precise tile installation method. How to lay tiles in this case? One side of the tile should be exactly twice as long as the other. It's a highly recommended tile layout for large interiors.
 
-((->remove "tile layout" from the names)
+### Fish scale tiles - how to lay mosaic tile?
+
+Fish scale is a new trend, often chosen for modern interiors. **The tiles have original shapes and give you a lot of design possibilities.** They are usually blue or green, therefore, they are perfect for bathrooms.
+
+{:.distinction.distinction-question.distinction-positive}
+
+**Are you wondering how to lay such tile?** One can lay them freely. They effect is unique in any form. Using a grouting in a contrasting colour is an interesting idea - it will bring out the shape of the tiles.
+
+### Laying diamond shape tiles
+
+Diamonds on the wall might result in an interesting design, which will catch the eye of anybody who is in the room. **They are typically used in modern interiors, where symmetry and bold colours are dominant elements.** How to lay tile of this type? It is advised to create geometrical shapes such as cubes, stars or chevron.
+
+## Laying tile - help everybody will appreciate
+
+Are you looking for something which will make laying tile an easier task? **Do you think it is impossible?** Of course, you might use traditional tools such as a level. However, if you don't have much experience with laying tiles, it might take you a long time, and you might not get a perfectly even surface.
+
+Laying tiles with a modern tile leveling system is a much easier method. Thanks to the special clips and wedges, one can do this quickly and effectively.
+
+A tile leveling system is also a perfect help for specialists. What are its advantages for a professional? **Laying tile might become twice as quick as usual. Thanks to this, one might be able to get twice as much work done, and as a result - earn twice as much money.**
+
+![](/uploads/plytki3.jpg)
+
+## How to lay tile? A quick step-by-step guide
+
+Preparation before **laying tile** should involve gathering all necessary tools and checking the packagings with tiles. If everything is all right, you might lay all the elements on the floor.
+
+The next step is **the surface preparation and leveling.** To do this, use a trowel. Then, prime the substrate. Another important issue is drawing help lines. If you want to lay the tiles currently, plan the layout on the floor or wall. It is generally advised to lay tile starting form the second row.
+
+**Preparing tile mortar mix -** it's another crucial point. Follow the instructions on the packaging. Then, put the mortar on the wall. Use a small trowel to transfer the substance onto a floating trowel and spread it upwards with the toothed side, so that there are visible lines in the mortar.
+
+Only now you can start the proper tile laying. Stick the first tile in the row. **If you are using a tile leveling system - separate the next tiles with leveling clips.** Then, wedges need to be inserted into the clips - any irregularities can be easily corrected with a rubber mallet.
+
+Grouting. After the mortar dries, one needs to get rid of the tile leveling system and put the grout, which protects the surface. **Grout prevents moisture and dirt from getting under the tile,** therefore it is a very important stage of laying tile.
+
+## How to lay tile without grout?
+
+Many homeowners dream of a perfectly even floor without any unaesthetic gaps. **A flawless, smooth floor makes the room look elegant and minimalistic and creates an impression of a larger space.** But is it possible to lay tiles so that the gaps between them are invisible? Apparently, nothing is impossible nowadays. Laying tiles this way, however, might pose a certain risk. Check it before you decide on a particular solution.
+
+![](/uploads/plytki4.jpg)
+
+### What is the purpose of grout?
+
+Grout is a type of a flexible joint placed between the tiles. Its function is both protective and decorative. **The main, most important purpose of grout is concealing the differences between the sizes of the tiles.** Without it, gaps between the elements become very apparent, which disrupts the whole effect.
+
+{:.distinction.distinction-info.distinction-negative}
+
+Apart from the ornamental function, the product also protects the tile from various types of damage and harmful external factors. It secures the floor and wall from moisture, prevents the dust and dirt from accumulating in the creases, and eliminates fungi and mould. Filling the gaps thoroughly with grouting also increases the grip of the tile to the spot it has been laid.
+
+What's more, grout is useful for laying tiles, but also **when** **a single damaged tile needs replacement.** Thanks to the filler, one can do that without damaging other element surrounding the tile.
+
+### Is it possible to lay tile with invisible grout?
+
+How to lay tile without grout - it is one of the most common questions from aesthetes and lovers of minimalist interiors. Is it possible at all? **The answer is: yes!** Keep in mind, however, that to do it, one has to use special rectified tile. Elements of this type have been cut to a perfectly even shape right after burning.
+
+{:.distinction.distinction-quotation.distinction-positive}
+
+Rectified tile is perfect both for bathrooms and kitchens. This type of flooring looks best in larger rooms, where the size of the room highlights the smoothness of the surface. The tiles fit to minimalist interiors with a limited amount of furniture and decorations.
+
+### What is the risk of laying floor tile without grout?
+
+Although laying tile without grout is possible, one should consider whether it is a good idea. The lack of grout makes the flooring or wall surface more vulnerable and prone to damage. Without any joint, the elements lose its grip, which makes laying tile more complicated. In addition, there is also a risk that a poorly embedded element cracks, crumbles or even completely fall off the surface. Floor tiles without grout are also more prone to letting moisture, bacteria and mold underneath.
+
+{:.distinction.distinction-quotation.distinction-positive}
+
+The fact that it is impossible to disasemble this type of tile is one of their biggest disadvantages. When one of the elements gets damaged, it cannot be replaced without breaking the rest of the tiles located next to it.
+
+As stressed by specialists, minimizing the grout to a safe thickness and choosing its aesthetics is a much better solution. This effect is easy to get with the aforementioned modern tile leveling system.
+
+You gathered a huge portion of knowledge - now you are ready to lay tile by yourself. Just choose the right type of tile and gather all necessary tools - and you can start working.
