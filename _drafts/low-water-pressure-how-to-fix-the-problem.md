@@ -18,10 +18,16 @@ intro: 'A water system in an essential part of every building. You probaby use i
   pressure and how do you know whether it is correct?'
 photo: "/uploads/waterpressure1.jpg"
 photo_desc: Water pressure is a highly important aspect of every water system.
-faq: []
-author_name: ''
-author_desc: ''
-author_photo: ''
+faq:
+- question: Low water pressure - how to fix it?
+  answer: If you have noticed that the water pressure is low in your system, check
+    the condition of the fittings - they might be broken. After eliminating this factor
+    - check the pipes for any leaks. Another possible reason might be a clog inside
+    the pipework. If you have checked all those issues and everything is in order
+    - you are probably going to need some additional equipment.
+author_name: Maksymilian Ignacyk
+author_desc: Sales and Marketing Specialist at Instalguru
+author_photo: "/uploads/maks.jpg"
 toc: false
 hreflangs: []
 noindex: false
