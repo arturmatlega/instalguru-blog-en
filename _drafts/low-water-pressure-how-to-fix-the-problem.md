@@ -23,7 +23,7 @@ faq:
   answer: If you have noticed that the water pressure is low in your system, check
     the condition of the fittings - they might be broken. After eliminating this factor
     - check the pipes for any leaks. Another possible reason might be a clog inside
-    the pipework. If you have checked all those issues and everything is in order
+    the pipework. If you have checked out all those issues and everything is in order
     - you are probably going to need some additional equipment.
 author_name: Maksymilian Ignacyk
 author_desc: Sales and Marketing Specialist at Instalguru
