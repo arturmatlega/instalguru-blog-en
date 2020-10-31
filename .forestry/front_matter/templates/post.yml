@@ -26,6 +26,13 @@ fields:
   type: tag_list
   default: []
   label: Słowa kluczowe
+- name: segmenting_tags
+  type: tag_list
+  default: []
+  label: Tagi segmentujące
+  description: Maksymalnie 6. Powinny składać się z jednego słowa (ew. kilku rozdzielonych
+    "-"). Po dodaniu trzeba przechwycić je w Facebooku Pixela lub innym narzędziu
+    do tworzenia grup odbiorców.
 - type: textarea
   name: small-intro
   label: Wstęp (listing)
