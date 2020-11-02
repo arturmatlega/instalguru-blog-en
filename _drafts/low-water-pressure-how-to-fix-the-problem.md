@@ -9,7 +9,7 @@ date: 2020-10-28 23:00:00 +0000
 update_date: 2020-10-28 23:00:00 +0000
 title: Low water pressure - how to fix the problem?
 small-intro: A water system is an essential part of every building.
-intro: 'A water system in an essential part of every building. You probaby use it
+intro: 'A water system is an essential part of every building. You probaby use it
   every day - just like millions of other people across the world. Running water can
   be delivered to a building thanks to a properly constructed system. It is needed
   in houses, apartments, public and industrial buildings. The mere existence of the
@@ -31,5 +31,43 @@ author_photo: "/uploads/maks.jpg"
 toc: false
 hreflangs: []
 noindex: false
+segmenting_tags: []
 
 ---
+## How does low water pressure affect the whole system?
+
+Too low water pressure in the system causes the faucets to work not as they should. It hinders or even prevents everyday activities requiring water use. **The time needed for filling a bath tub gets longer, showering becomes impossible and everyday dishwashing turns into a tedious, never-ending work.** These are just few consequences of low water pressure.
+
+## What is the perfect water pressure in the system?
+
+**An ideal water pressure in a water system is from 5 to 6 bars.** For everyday activities, water pressure of 4 bars is just enough. Most houses have the valves set to this value - because, similar to low water pressure, too much force might cause a discomfort when using faucets.
+
+In this case it is recommended to install a special compensator which adjusts the parameters in the water system. As a result, less water is being used, and the costs are lower. Water pressure regulator is a basic device which can be used for this purpose.
+
+{:.distinction.distinction-quotation.distinction-negative}
+
+Too high water pressure not only is inconvenient for the users, but also might be harmful for the systems' functioning. Pipes and fittings through which the medium flows, might get overloaded. It means that their durability decreases, and proper functioning of the system lasts much shorter than it should. For this reason, one should make sure to decrease the water flow intensity and take care of a correct pressure.
+
+## Correct water pressure in a faucet - how to measure
+
+Checking the pressure in the pipe works is quite easy. To do this, however, one needs a special apparatus. Manometer is the basic device used for this purpose. It's a small instrument which shows the exact water pressure in the faucet after attaching it onto the spout. To measure the pressure, turn the water on and read the value indicated by the device.
+
+{:.distinction.distinction-info.distinction-positive}
+
+If the device shows approximately 4 bars - it means that the system works correctly and you don't have to do anything. If the pressure is too low or too high - you need to take the appropriate action.
+
+ **You can also measure the water pressure using a makeshift method.** To do this, you need a bucket or another container of a particular volume and a timer. The method involves measuring the precise amount of time in which the bucket gets filled with water. Note the result in liters per minute, e.g.: if if took 30 seconds to fill a 10-liters bowl, the water flow rate in the system equals 20 l/min.
+
+## Too low water pressure in the system - what is the reason?
+
+Low water pressure is not always a result of the same cause. A set of various factors might lead to a similar situation. There are, however, a few mostl commonly occuring issues.
+
+### Broken fittings - how to increase water pressure in a faucet?
+
+**Too low water pressure might be a sign of the fittings malfuntion.** How to know that you have this sort of a problem? In such a case, low water pressure appears only in one faucet in the house. The reason might be very trivial, resulting from a dirty spout. You might also need to check the faucet for any leaks. It is recommended to clean the spout, filters and aerator regularly. Those elements accumulate lime scale from water, which might also be the cause of low water pressure.
+
+### Check the system for a leakage - have the water pressure under control
+
+Another reason for low water pressure, as common as lime scale buildup, is a leakage in the system. **Unsealed pipes and fittings used for trasmitting water might cause it to leak outside the system, and only a part of it gets to the end point.** How to increase the water pressure in such a case? Make sure to reseal or replace the broken elements.
+
+![](/uploads/water_pressure.jpg)
