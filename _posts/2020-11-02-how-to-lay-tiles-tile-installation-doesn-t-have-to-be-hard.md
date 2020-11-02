@@ -10,8 +10,8 @@ layout: post
 seo_title: How To Lay Tiles? Use The Most Effective Methods
 seo_description: "Planning to lay tiles? \U0001F6E0️ Don't waste time! Check the simplest
   tricks to lay tiles effectively. Change your home \U0001F3E0 save time and money."
-date: 2020-10-21 22:00:00 +0000
-update_date: 2020-10-21 22:00:00 +0000
+date: 2020-11-01 23:00:00 +0000
+update_date: 2020-11-01 23:00:00 +0000
 title: How to lay tiles? Tile installation doesn't have to be hard!
 small-intro: Tiling floor and walls is one of the most popular method for finishing
   the bathroom or kitchen.
@@ -36,8 +36,11 @@ author_name: Mateusz Knapik
 author_desc: Sales and Customer Support Specialist at Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: false
-hreflangs: []
+hreflangs:
+- lang: ''
+  link: ''
 noindex: false
+segmenting_tags: []
 
 ---
 ## Tile installation - how to prepare yourself for the task?
