@@ -71,7 +71,7 @@ Standard tile installation on a wall or floor requires using professional, speci
 
 Both wall, as well as floor tile is a very important ornamental element in an interior. Thanks to proper tile installation, the room might look elegant and aesthetic, therefore, one should **pay special attention to aspects such as the tile shape and pattern**. Regardless of those parameters - laying tile might look quite different. Learn the most popular methods for tile installation. Thanks to them, your interior will amaze everyone.
 
-![](/uploads/plytki2.jpg)
+![ABC of tiles - perfect tile regardless of the shape or size](/uploads/plytki2.jpg "ABC of tiles - perfect tile regardless of the shape or size")
 
 ### How to lay square tile?
 
@@ -117,7 +117,7 @@ Laying tiles with a modern tile leveling system is a much easier method. Thanks 
 
 A tile leveling system is also a perfect help for specialists. What are its advantages for a professional? **Laying tile might become twice as quick as usual. Thanks to this, one might be able to get twice as much work done, and as a result - earn twice as much money.**
 
-![](/uploads/plytki3.jpg)
+![Laying tile - a help everybody will appreciate](/uploads/plytki3.jpg "Laying tile - a help everybody will appreciate")
 
 ## How to lay tile? A quick step-by-step guide
 
@@ -135,7 +135,7 @@ Grouting. After the mortar dries, one needs to get rid of the tile leveling syst
 
 Many homeowners dream of a perfectly even floor without any unaesthetic gaps. **A flawless, smooth floor makes the room look elegant and minimalistic, and creates an impression of a larger space.** But is it possible to lay tiles so that the gaps between them are invisible? Apparently, nothing is impossible nowadays. Laying tiles this way, however, might pose a certain risk. Check it before you decide on a particular solution.
 
-![](/uploads/plytki4.jpg)
+![How to lay tile without grout?](/uploads/plytki4.jpg "How to lay tile without grout?")
 
 ### What is the purpose of grout?
 
