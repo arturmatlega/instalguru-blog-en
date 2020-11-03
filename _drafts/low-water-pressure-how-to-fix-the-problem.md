@@ -36,31 +36,31 @@ segmenting_tags: []
 ---
 ## How does low water pressure affect the whole system?
 
-Too low water pressure in the system causes the faucets to work not as they should. It hinders or even prevents everyday activities requiring water use. **The time needed for filling a bath tub gets longer, showering becomes impossible and everyday dishwashing turns into a tedious, never-ending work.** These are just few consequences of low water pressure.
+Too low water pressure in the system causes the faucets to work not as they should. It hinders or even prevents everyday activities requiring water use. **The time needed for filling a bath tub gets longer, showering becomes impossible and everyday dishwashing turns into a tedious, never-ending work.** These are just a few consequences of low water pressure.
 
 ## What is the perfect water pressure in the system?
 
-**An ideal water pressure in a water system is from 5 to 6 bars.** For everyday activities, water pressure of 4 bars is just enough. Most houses have the valves set to this value - because, similar to low water pressure, too much force might cause a discomfort when using faucets.
+**An ideal water pressure in a water system is from 5 to 6 bars.** In fact, water pressure of 4 bars is just enough for everyday activities. Most houses have the valves set to this value - because, similar to low water pressure, too much force might cause a discomfort when using faucets.
 
 In this case it is recommended to install a special compensator which adjusts the parameters in the water system. As a result, less water is being used, and the costs are lower. Water pressure regulator is a basic device which can be used for this purpose.
 
 {:.distinction.distinction-quotation.distinction-negative}
 
-Too high water pressure not only is inconvenient for the users, but also might be harmful for the systems' functioning. Pipes and fittings through which the medium flows, might get overloaded. It means that their durability decreases, and proper functioning of the system lasts much shorter than it should. For this reason, one should make sure to decrease the water flow intensity and take care of a correct pressure.
+Too high water pressure is not only inconvenient for the users, but also might be harmful for the system's functioning. Pipes and fittings transmitting the medium might get overloaded. It means that their durability decreases, and proper functioning of the system lasts much shorter than it should. For this reason, one should make sure to decrease the water flow intensity and take care of a correct pressure.
 
-## Correct water pressure in a faucet - how to measure
+## Correct water pressure in a faucet - how to measure it
 
-Checking the pressure in the pipe works is quite easy. To do this, however, one needs a special apparatus. Manometer is the basic device used for this purpose. It's a small instrument which shows the exact water pressure in the faucet after attaching it onto the spout. To measure the pressure, turn the water on and read the value indicated by the device.
+Checking the pressure in the piping is quite easy. To do this, however, one needs a special apparatus. Manometer is the basic device used for this purpose. It's a small instrument, which, after attaching it onto the spout, shows the exact water pressure in the faucet. To measure the pressure, one needs to turn the water on and read the value indicated by the device.
 
 {:.distinction.distinction-info.distinction-positive}
 
 If the device shows approximately 4 bars - it means that the system works correctly and you don't have to do anything. If the pressure is too low or too high - you need to take the appropriate action.
 
-**You can also measure the water pressure using a makeshift method.** To do this, you need a bucket or another container of a particular volume and a timer. The method involves measuring the precise amount of time in which the bucket gets filled with water. Note the result in liters per minute, e.g.: if if took 30 seconds to fill a 10-liters bowl, the water flow rate in the system equals 20 l/min.
+**You can also measure the water pressure using a makeshift method.** To do this, you need a bucket or another container of a particular volume and a timer. The method involves measuring the precise amount of time when the bucket gets filled with water. Take a note of the result in liters per minute, e.g.: if if took 30 seconds to fill a 10-liters bowl, the water flow rate in the system equals 20 l/min.
 
 ## Too low water pressure in the system - what is the reason?
 
-Low water pressure is not always a result of the same cause. A set of various factors might lead to a similar situation. There are, however, a few mostl commonly occuring issues.
+Low water pressure is not always a result of the same cause. A set of various factors might lead to a similar situation. There are, however, a few commonly occuring issues.
 
 ### Broken fittings - how to increase water pressure in a faucet?
 
@@ -68,7 +68,7 @@ Low water pressure is not always a result of the same cause. A set of various fa
 
 ### Check the system for leakage - have the water pressure under control
 
-Another reason for low water pressure, as common as lime scale buildup, is a leakage in the system. **Unsealed pipes and fittings used for trasmitting water might cause it to leak outside the system, and only a part of it gets to the end point.** How to increase the water pressure in such a case? Make sure to reseal or replace the broken elements.
+Another reason for low water pressure, as common as lime scale buildup, is a leakage in the system. **Unsealed pipes and fittings used for trasmitting water might cause it to leak outside of the system, and only a part of it gets to the end point.** How to increase the water pressure in such a case? Make sure to reseal or replace the broken elements.
 
 ![](/uploads/water_pressure.jpg)
 
@@ -78,14 +78,14 @@ Low water pressure in the shower is probably a result of improperly matched equi
 
 {:.distinction.distinction-info.distinction-positive}
 
-Perhaps the equipment has been improperly installed. This issue concerns mainly valves. It the water pressure is too high or too low, make sure that the control valve is set properly.
+Perhaps the equipment has been improperly installed. This issue concerns mainly valves. If the water pressure is too high or too low, make sure that the control valve is set properly.
 
 ### Too low water pressure might be a result of clogged pipes
 
-The piping system often accumulates various sediments which lead to clogging, disabling the water flow and its distribution. **Clogged pipes typically occur in old systems.** To remove the problem, one might call a plumber. If you take care of the pipes - the correct pressure will return.
+The piping system often accumulates various sediments which leads to clogging, disabling the water flow and its distribution. **Clogged pipes typically occur in old systems.** To remove the problem, one might call a plumber. If you take care of the pipes - the correct pressure will return.
 
-## How to increase a too low water pressure?
+## How to increase low water pressure?
 
-If you have checked all of the possible causes of a low water pressure in the system, everything seems to work properly and the ideal pressure still belongs only to your dreams - you need to find another solution.
+If you have checked all of the possible causes of a low water pressure in the system, everything seems to work properly and the ideal pressure still dwells within the sphere of your dreams - you need to find another solution.
 
-**How to increase a too low water pressure?** You can use a hydrophore pump. **The pump increases the water pressure**, and the hydrophore functions as a storage for the water. Thanks to this, the water pressure in the faucet remains at the same, correct level.
+**How to increase low water pressure?** You can use a hydrophore pump. **The pump increases the water pressure**, and the hydrophore functions as a storage for the water. Thanks to this, the water pressure in the faucet remains at the same, correct level.
