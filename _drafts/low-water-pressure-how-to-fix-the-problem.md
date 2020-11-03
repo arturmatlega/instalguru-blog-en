@@ -9,7 +9,7 @@ date: 2020-10-28 23:00:00 +0000
 update_date: 2020-10-28 23:00:00 +0000
 title: Low water pressure - how to fix the problem?
 small-intro: A water system is an essential part of every building.
-intro: 'A water system is an essential part of every building. You probaby use it
+intro: 'A water system is an essential part of every building. You probably use it
   every day - just like millions of other people across the world. Running water can
   be delivered to a building thanks to a properly constructed system. It is needed
   in houses, apartments, public and industrial buildings. The mere existence of the
@@ -60,15 +60,15 @@ If the device shows approximately 4 bars - it means that the system works correc
 
 ## Too low water pressure in the system - what is the reason?
 
-Low water pressure is not always a result of the same cause. A set of various factors might lead to a similar situation. There are, however, a few commonly occuring issues.
+Low water pressure is not always a result of the same cause. A set of various factors might lead to a similar situation. There are, however, a few commonly occurring issues.
 
 ### Broken fittings - how to increase water pressure in a faucet?
 
-**Too low water pressure might be a sign of the fittings malfuntion.** How to know that you have this sort of a problem? In such a case, low water pressure appears only in one faucet in the house. The reason might be very trivial, resulting from a dirty spout. You might also need to check the faucet for any leaks. It is recommended to clean the spout, filters and aerator regularly. Those elements accumulate lime scale from water, which might also be the cause of low water pressure.
+**Too low water pressure might be a sign of the fittings malfunction.** How to know that you have this sort of a problem? In such a case, low water pressure appears only in one faucet in the house. The reason might be very trivial, resulting from a dirty spout. You might also need to check the faucet for any leaks. It is recommended to clean the spout, filters and aerator regularly. Those elements accumulate lime scale from water, which might also be the cause of low water pressure.
 
 ### Check the system for leakage - have the water pressure under control
 
-Another reason for low water pressure, as common as lime scale buildup, is a leakage in the system. **Unsealed pipes and fittings used for trasmitting water might cause it to leak outside of the system, and only a part of it gets to the end point.** How to increase the water pressure in such a case? Make sure to reseal or replace the broken elements.
+Another reason for low water pressure, as common as lime scale buildup, is a leakage in the system. **Unsealed pipes and fittings used for transmitting water might cause it to leak outside of the system, and only a part of it gets to the end point.** How to increase the water pressure in such a case? Make sure to reseal or replace the broken elements.
 
 ![](/uploads/water_pressure.jpg)
 
