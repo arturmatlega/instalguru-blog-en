@@ -56,7 +56,7 @@ Checking the pressure in the pipe works is quite easy. To do this, however, one 
 
 If the device shows approximately 4 bars - it means that the system works correctly and you don't have to do anything. If the pressure is too low or too high - you need to take the appropriate action.
 
- **You can also measure the water pressure using a makeshift method.** To do this, you need a bucket or another container of a particular volume and a timer. The method involves measuring the precise amount of time in which the bucket gets filled with water. Note the result in liters per minute, e.g.: if if took 30 seconds to fill a 10-liters bowl, the water flow rate in the system equals 20 l/min.
+**You can also measure the water pressure using a makeshift method.** To do this, you need a bucket or another container of a particular volume and a timer. The method involves measuring the precise amount of time in which the bucket gets filled with water. Note the result in liters per minute, e.g.: if if took 30 seconds to fill a 10-liters bowl, the water flow rate in the system equals 20 l/min.
 
 ## Too low water pressure in the system - what is the reason?
 
@@ -66,8 +66,26 @@ Low water pressure is not always a result of the same cause. A set of various fa
 
 **Too low water pressure might be a sign of the fittings malfuntion.** How to know that you have this sort of a problem? In such a case, low water pressure appears only in one faucet in the house. The reason might be very trivial, resulting from a dirty spout. You might also need to check the faucet for any leaks. It is recommended to clean the spout, filters and aerator regularly. Those elements accumulate lime scale from water, which might also be the cause of low water pressure.
 
-### Check the system for a leakage - have the water pressure under control
+### Check the system for leakage - have the water pressure under control
 
 Another reason for low water pressure, as common as lime scale buildup, is a leakage in the system. **Unsealed pipes and fittings used for trasmitting water might cause it to leak outside the system, and only a part of it gets to the end point.** How to increase the water pressure in such a case? Make sure to reseal or replace the broken elements.
 
 ![](/uploads/water_pressure.jpg)
+
+## Perfect water pressure? Take care of the right equipment
+
+Low water pressure in the shower is probably a result of improperly matched equipment - such as a shower head or a rainshower. **Shower accessories should match the pressure in the system.** The equipment of high technical requirements won't function properly.
+
+{:.distinction.distinction-info.distinction-positive}
+
+Perhaps the equipment has been improperly installed. This issue concerns mainly valves. It the water pressure is too high or too low, make sure that the control valve is set properly.
+
+### Too low water pressure might be a result of clogged pipes
+
+The piping system often accumulates various sediments which lead to clogging, disabling the water flow and its distribution. **Clogged pipes typically occur in old systems.** To remove the problem, one might call a plumber. If you take care of the pipes - the correct pressure will return.
+
+## How to increase a too low water pressure?
+
+If you have checked all of the possible causes of a low water pressure in the system, everything seems to work properly and the ideal pressure still belongs only to your dreams - you need to find another solution.
+
+**How to increase a too low water pressure?** You can use a hydrophore pump. **The pump increases the water pressure**, and the hydrophore functions as a storage for the water. Thanks to this, the water pressure in the faucet remains at the same, correct level.
