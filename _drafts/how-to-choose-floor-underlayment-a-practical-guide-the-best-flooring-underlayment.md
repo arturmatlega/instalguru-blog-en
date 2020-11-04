@@ -83,3 +83,7 @@ This type of material is a perfect choice if the subfloor needs leveling. XPS fo
 ![](/uploads/underlay2.jpg)
 
 ## The best floor underlayment - radiant heated floors
+
+Materials designated for use with underfloor heating needs to fulfill certain special requirements. What flooring underlayment is the best in this case? As experts suggest, mats made of a high-density polyethylen are worth considering. Such products are commonly called HDPE.
+
+{:.distinction.distinction-info.distinction-positive}
