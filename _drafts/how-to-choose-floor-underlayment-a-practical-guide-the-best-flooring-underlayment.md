@@ -52,7 +52,7 @@ hreflangs: []
 noindex: false
 
 ---
-## What is the best floor underlayment? Why using an uderlay for laminate flooring?
+## What is the best floor underlayment? Why using an underlay for laminate flooring?
 
 Before you start laying the plank flooring, make sure to properly secure it. Underlayment, or underlay, is a layer or material placed under the planks. **It generally works as a protection.**
 
@@ -66,9 +66,9 @@ The best underlay for laminate flooring and other types of planks is the one whi
 
 ## Polyurethane and mineral floor underlayment
 
-Floor underlayment made of a mixture of polyuretane and minerals are the most commonly chosen products. Such mats are typically of the  highest quality, thanks to their high resistance to pressure. Because of this, it is a good flooring underlayment for high traffic interiors such as the hall or the kitchen. Additionally, this type of material has low thermal conductivity, so it can be used for radiant heating floors.
+Floor underlayment made of a mixture of polyurethane and minerals are the most commonly chosen products. Such mats are typically of the highest quality, thanks to their high resistance to pressure. Because of this, it is a good flooring underlayment for high traffic interiors such as the hall or the kitchen. Additionally, this type of material has low thermal conductivity, so it can be used for radiant heating floors.
 
-Mineral-polyurethane floor underlayment have definitely more advantages than the ones mentioned above. They **provide a very good soundproofing insulation** by reducing defelcted and transmitted sounds. For this reason, they are commonly chosen for multi-store buildings.
+Mineral-polyurethane floor underlayment have definitely more advantages than the ones mentioned above. They **provide a very good soundproofing insulation** by reducing deflected and transmitted sounds. For this reason, they are commonly chosen for multi-store buildings.
 
 {:.distinction.distinction-info.distinction-positive}
 
@@ -76,14 +76,62 @@ A synthetic floor underlayment might be more expensive than standard sheets, but
 
 ## Underlay for laminate flooring - a perfect insulation
 
-If you are interested in a **good floor underlayment which would provide you the right level of insulation**, consider an extruded polystyrene flooring underlayment.
+If you are interested in a **good floor underlayment that would provide you the right level of insulation**, consider an extruded polystyrene flooring underlayment.
 
-This type of material is a perfect choice if the subfloor needs leveling. XPS foam underlay is available in various thicknesses - sometimes even 6 mm. It is, therefore, a perfect insulation and works ideally in non-heated interiors. It is also a good solution is you need a floor underlayment for radiant heating. Extruded polystyrene flooring underlayment is moisture-resistant, reduce trasmitted sounds and provide durability of the flooring.
+This type of material is a perfect choice if the subfloor needs leveling. XPS foam underlay is available in various thicknesses - sometimes even 6 mm. It is, therefore, a perfect insulation and works ideally in non-heated interiors. It is also a good solution is you need a floor underlayment for radiant heating. Extruded polystyrene flooring underlayment is moisture-resistant, reduce transmitted sounds and provide durability of the flooring.
 
 ![](/uploads/underlay2.jpg)
 
 ## The best floor underlayment - radiant heated floors
 
-Materials designated for use with underfloor heating needs to fulfill certain special requirements. What flooring underlayment is the best in this case? As experts suggest, mats made of a high-density polyethylen are worth considering. Such products are commonly called HDPE.
+Materials designated for use with underfloor heating need to fulfill certain special requirements. What flooring underlayment is the best in this case? As experts suggest, mats made of a high-density polyethylene are worth considering. Such products are commonly called HDPE.
 
 {:.distinction.distinction-info.distinction-positive}
+
+The most important factor is the low heat conductivity. Soundproofing qualities are also worth noting. One might say, therefore, it is a multi-task product.
+
+It is a good floor underlayment because of its durability properties. It is resistant to moisture and mechanical damage resulting from using the surface for many years.
+
+One might also ask about an underlayment for flooring with water radiant heating. Regardless whether the system is electrical or water-based with PEX/AL/PEX or PE-RT/AL/PE-RT piping - the floor underlayment might be the same in each case.
+
+## A good natural floor underlayment - what is the best?
+
+Natural flooring underlayment is one of the most commonly chosen solutions. Their popularity is mostly a result of a relatively low price. A good floor underlayment of this type is cork or a corrugated cardboard.
+
+Cork underlayment is resistant to moisture, fungi, mold and mechanical damage. **It can endure a heavy load and has very good acoustic properties.** Keep in mind that it is a delicate material, therefore it is not recommended for use in high traffic areas or with radiant heating.
+
+Another ecological material which might be used an underlay for laminate flooring is corrugated cardboard. It conducts heat well and can be used for radiant heating floors.
+
+{:.distinction.distinction-info.distinction-negative}
+
+Although it is a good floor underlayment in most cases, this solution also has certain disadvantages. It doesn't reduce noise and is not resistant to moisture. Those two features are the reasons cardboard cannot be considered the best floor underlayment on the market.
+
+## What floor underlayment for uneven subfloor?
+
+If the surface is uneven, a good underlayment is a crucial issue. Laying floor planks on an uneven subfloor might cause them to move, bend and get damages. To avoid that, make sure to make the surface even before laying laminate or vinyl flooring.
+
+![](/uploads/underlay3.jpg)
+
+What is the best floor underlayment in this case? If the subfloor has only minor differences, extruded polystyrene (XPS) is recommended. It smoothens the irregularities, thanks to which the floor is perfectly even. If the subfloor has more dents and differences in heights are quite visible, one should pour a new concrete floor. An ordinary floor underlayment unfortunately is not enough.
+
+## Is insulation an important aspect when choosing floor underlayment?
+
+Surface insulation is one of the most crucial issues which affects the floor underlayment selection. Are you wondering how to choose the right product and what should you pay a special attention to? This parameter is the answer. If the subfloor has been poorly insulated or is in a non-heated interior, a floor underlayment compensating for the heat loss is the best solution. The already mentioned polystyrene (XPS), 6 mm thick, underlay is a perfect choice.
+
+## A good floor underlayment and room acoustics
+
+Soundproofing insulation is another, but equally important aspect one should consider when choosing a floor underlayment. There are special soundproof underlays on the market, typically made of mineral polyurethane or XPS. Thanks to them, the comfort of using the floor increases. This type of foam underlayment mutes footsteps sounds.
+
+{:.distinction.distinction-quotation.distinction-positive}
+
+Flooring underlayment provide hit sounds reduction, which are noticeable especially for the neighbours living in the lower levels of the building. The mentioned materials are the best types of floor underlayment for block apartments.
+
+## What is the best underlayment over a wood block floor
+
+If you want to cover an old wooden floor with vinyl or laminate planks, you should first lay plywood or waferboard over it. Those elements have to be tightly screwed to the surface with long screws or nailed. Remember to keep about 2 mm of space between the boards. After preparing the surface like this, one can use a floor underlayment.
+
+{:.distinction.distinction-question.distinction-positive}
+
+**What floor underlayment is the best in this case?** Any of the aforementioned materials will work perfectly, as the initial insulation layer has been already established.
+
+The floor underlayment available on the market in most cases can be installed on one's own. If you have a problem, however, and you don't know how to choose floor underlayment - consult the issue with a specialist before making a purchase. It is crucial for the durability of the floor, so a good underlay is worth the investment.
