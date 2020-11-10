@@ -11,9 +11,9 @@ date: 2020-11-09 23:00:00 +0000
 update_date: 2020-11-09 23:00:00 +0000
 title: How to waterproof bathroom flooring and walls?
 small-intro: Bathroom is particularly prone to moisture and damage from water.
-intro: Bathroom is particularly prone to moisture and damage from water. Because of
-  this, make sure to protect the room against those dangers. Walls and floor waterproofing
-  is the main aspect in this regards. Thanks to it, one can create a protective layer
+intro: The bathroom is particularly prone to moisture and damage from water. Because
+  of this, make sure to protect the room against those dangers. Walls and floor waterproofing
+  is the main aspect in this regard. Thanks to it, one can create a protective layer
   on the walls and flooring. When you decide to waterproof the bathroom, the harmful
   effects of humidity are significantly decreased. When does one need to take care
   of it? What are the most important issues?
