@@ -37,8 +37,20 @@ author_desc: Sales and Customer Support Specialist at Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: false
 hreflangs:
-- lang: ''
-  link: ''
+- lang: pl
+  link: https://instalguru.pl/blog/jak-klasc-plytki-samodzielne-ukladanie-plytek-nie-musi-byc-trudne.html
+- lang: en
+  link: https://instalguru.co.uk/blog/how-to-lay-tiles-tile-installation-doesn-t-have-to-be-hard.html
+- lang: de
+  link: https://instalguru.de/blog/wie-werden-fliesen-verlegt-das-verlegen-von-fliesen-muss-nicht-schwer-sein.html
+- lang: it
+  link: https://instalguru.it/blog/come-posare-le-piastrelle-la-posa-delle-piastrelle-non-deve-essere-necessariamente-difficile.html
+- lang: fr
+  link: https://instalguru.fr/blog/comment-poser-des-carreaux-la-pose-de-carreaux-ne-doit-pas-etre-difficile.html
+- lang: es
+  link: https://instalguru.es/blog/como-se-colocan-las-baldosas-la-instalacion-de-azulejos-no-tiene-que-ser-dificil.html
+- lang: cz
+  link: https://instalguru.cz/blog/jak-polozit-dlazdice-instalace-dlazdic-sama-o-sobe-nemusi-byt-narocna.html
 noindex: false
 segmenting_tags: []
 
