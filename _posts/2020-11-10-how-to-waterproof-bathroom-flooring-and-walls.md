@@ -30,7 +30,21 @@ author_name: Emilia Konieczny
 author_desc: Product Specialist at Instalguru
 author_photo: "/uploads/f0defcc2aa5447b4a5398b8f6eff9596.jpg"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: pl
+  link: https://instalguru.pl/blog/kiedy-potrzebna-jest-hydroizolacja-lazienki-i-jak-ja-wykonac.html
+- lang: en
+  link: https://instalguru.co.uk/blog/how-to-waterproof-bathroom-flooring-and-walls.html
+- lang: de
+  link: https://instalguru.de/blog/wie-werden-bodenbelage-und-wande-im-badezimmer-wasserdicht-gemacht.html
+- lang: it
+  link: https://instalguru.it/blog/come-impermeabilizzare-i-pavimenti-e-le-pareti-del-bagno.html
+- link: https://instalguru.fr/blog/comment-impermeabiliser-les-sols-et-les-murs-des-salles-de-bains.html
+  lang: fr
+- lang: es
+  link: https://instalguru.es/blog/como-impermeabilizar-el-suelo-y-las-paredes-del-bano.html
+- lang: cz
+  link: https://instalguru.cz/blog/kdy-je-potreba-hydroizolace-koupelny-a-jak-ji-vyrobit.html
 noindex: false
 
 ---
