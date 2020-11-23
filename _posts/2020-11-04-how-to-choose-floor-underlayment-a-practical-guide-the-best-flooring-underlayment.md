@@ -48,7 +48,21 @@ author_name: Mateusz Knapik
 author_desc: Sales and Customer Support Specialist at Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: pl
+  link: https://instalguru.pl/blog/jaki-podklad-pod-panele-wybrac-praktyczny-poradnik-najlepsze-podklady-na-rynku.html
+- lang: en
+  link: https://instalguru.co.uk/blog/how-to-choose-floor-underlayment-a-practical-guide-the-best-flooring-underlayment.html
+- lang: de
+  link: https://instalguru.de/blog/wie-wahlt-man-eine-bodenunterlage-aus-ein-praktischer-leitfaden-die-beste-bodenunterlage.html
+- lang: it
+  link: https://instalguru.it/blog/come-scegliere-il-sottofondo-del-pavimento-una-guida-pratica-il-miglior-sottofondo-per-pavimenti.html
+- lang: fr
+  link: https://instalguru.fr/blog/comment-choisir-une-sous-couche-de-sol-un-guide-pratique-la-meilleure-sous-couche-de-sol.html
+- lang: es
+  link: https://instalguru.es/blog/como-elegir-el-subsuelo-una-guia-practica-el-mejor-subsuelo-para-pisos.html
+- lang: cz
+  link: https://instalguru.cz/blog/jaky-substrat-pro-panely-si-vybrat-prakticky-pruvodce-nejlepsi-primery-na-trhu.html
 noindex: false
 
 ---
