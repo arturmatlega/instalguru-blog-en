@@ -38,7 +38,19 @@ author_name: Mateusz Knapik
 author_desc: Sales and Customer Support Specialist at Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: pl
+  link: https://instalguru.pl/blog/dlaczego-warto-postawic-na-bidet-w-lazience-i-jak-go-zamontowac.html
+- lang: ''
+  link: ''
+- lang: ''
+  link: ''
+- lang: ''
+  link: ''
+- lang: ''
+  link: ''
+- lang: ''
+  link: ''
 noindex: false
 
 ---
@@ -114,4 +126,4 @@ Have you analysed all the information and decided that you don't have enough spa
 
 Keep in mind that such a toilet seat with a bidet functionality might be quite expensive.
 
-A decision to purchase a bidet might make your everyday life much more convenient and increase hygiene, which in the long run contributes to one's health. That's why such a bathroom facility is a definitely worth considering investment.
+A decision to purchase a bidet might make your everyday life much more convenient and increase hygiene, which in the long run contributes to one's health. That's why such a bathroom facility is an investemnt which is definitely worth considering.
