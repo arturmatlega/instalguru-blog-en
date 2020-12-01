@@ -17,10 +17,10 @@ title: Saving water at home. 10 tips on how to save water in daily life.
 small-intro: Can you imagine living without having access to water? It is practically
   impossible.
 intro: 'Can you imagine living without having access to water? It is practically impossible.
-  And, although it seems having no access to this precious liquid is not possible,
+  And although it seems having no access to this precious liquid is not possible,
   its sources are getting drained. Renewing them is a slow process. There are already
   many places in the world facing water shortage. For this reason, an increasing number
-  of people ask the fundamental - crucial question: how to save water in daily life?
+  of people ask the fundamental, crucial question: how to save water in daily life?
   We present a few practical tips you can use at home.'
 photo: "/uploads/watersaving.jpg"
 photo_desc: Even the smallest change in daily habits can contribute to lowering the
@@ -42,21 +42,21 @@ noindex: false
 ---
 ## Saving water - why is it a worthwhile issue?
 
-Water is in fact the most valuable resource on Earth. It is used in every aspect of life, starting from drinking it, to washing cleaning, farming and industry. Unfortunately, it is often overlooked that wasting it has catastrophic results for entire environment, as well as private savings.
+Water is in fact the most valuable resource on Earth. It is used in every aspect of life, starting from drinking it, to washing, cleaning, farming and industrial uses. Unfortunately, it is often overlooked that wasting it has catastrophic results for the entire environment, as well as private savings.
 
 Water bills are one of the primary items on the home budget list. For this reason it is recommended to think how to save water in daily life and make sure to lower the expenses.
 
-**Saving water pays off!** Water rates increase every year. According to calculations, price of water might even double in certain regions. Even the smallest change in daily habits can contribute to lowering the costs of using home appliances and help you save water. Regular changes will repair your home budget. Considering the yearly growing prices, the savings will be greater as well.
+**Saving water pays off!** Water rates increase every year. According to calculations, price of water might even double in certain regions. Even the smallest change in daily habits can contribute to lowering the costs of using home appliances and help you save water. Systematic changes will repair your home budget. Considering the yearly growing prices, the savings will be greater as well.
 
-Keep in mind that it is not only an eco-trend or a way to lower your bills. **Remember that water resources are scarce in many regions.** Water shortage is a rising problem in a number of countries located in moderate climate. For this reason make sure to use water wisely.
+Keep in mind that it is not just an eco-trend or a way to lower your bills. **Remember that water resources are scarce in many regions.** Water shortage is a rising problem in a number of countries located in moderate climate. For this reason make sure to use water wisely.
 
 ## How to save water in daily life?
 
-**If you're thinking on how to save water in daily life - it is possible in many various aspects of life.** One person might use even 150 liters of water per day. **Only during a 3-minute teeth brushing session you use up to 15 liters of water - if you don't turn off the tap.** Around 30% of water in an average household is used for flushing the toilet. Other things you can do to reduce water use is being conscious about taking the bath, washing clothes, cleaning and garden care.
+**If you're thinking on how to save water in daily life - it is possible in many various aspects.** One person might use even 150 liters of water per day. **Only during a 3-minute teeth brushing session, you use up to 15 liters of water - if you don't turn off the tap.** Around 30% of water in an average household is used for flushing the toilet. Other things you can do to reduce water use is being conscious of taking the bath, washing clothes, cleaning and garden care.
 
 ## 10 ways to conserve water every day
 
-Are wondering how to safe water in daily life and looking for good solutions? Learn **10 best ways** to conserve water, so that saving water will not be a problem anymore.
+Are you wondering how to safe water in daily life and looking for good solutions? Learn **10 best ways** to conserve water, so that saving water will not be a problem anymore.
 
 ### Saving water when washing the dishes
 
@@ -74,7 +74,7 @@ Water conservation is possible during the mentioned teeth-brushing or for men - 
 
 ### Change your bathroom equipment and save water
 
-The market offers accessories which can make saving water easier. Think about installing a flush mechanism with a start-stop button. Flushes with such function might reduce water use even up to 50%. When you see that the waste has been removed form the toilet bowl, you simply press the "stop" button. Manufacturers offer equipment of various sizes - 9 liter and smaller 7 liter flushes are the most popular models.
+The market offers accessories which can make saving water easier. Think about installing a flushing mechanism with a start-stop button. Flushes with such a function might reduce water use even up to 50%. When you see that the waste has been removed from the toilet bowl, simply press the "stop" button. Manufacturers offer equipment of various sizes - 9 liter and smaller 7 liter flushes are the most popular models.
 
 ### How to save water in daily life? Use water saving aerator
 
@@ -90,11 +90,11 @@ Water saving is a process in which every drop counts, so one cannot allow for an
 
 {:.distinction.distinction-info.distinction-negative}
 
-**Remember!** If you notice that your tap is leaking, don't wait until a stream of water pours out of it. A few drops leaking during one day will not make any difference. The situation gets worse of the malfunction is not repaired for a week, or a month. **In such a case, the amount of used water increases.**
+**Remember!** If you notice that your tap is leaking, don't wait until a stream of water pours out of it. A few drops leaking for one day will not make any difference. The situation gets worse if the malfunction is not repaired for a week or a month. **In such a case, the amount of used water increases.**
 
 ### Pay attention to everyday activities - learn how to save water in daily life
 
-A lot of water is used for flushing the toilet - especially if there's no need to do it. Instead of throwing a used napking into the toilet and flushing it, choose a bin. Remember that you have to pay for trash you produce anyway - why then would you generate additional costs like water and sewer bills.
+A lot of water is used for flushing the toilet - especially if there's no need to do it. Instead of throwing a used napkin into the toilet and flushing it, choose a bin. Remember that you have to pay for trash you produce anyway - why then would you generate additional costs like water and sewer bills?
 
 ### How to save water when doing laundry?
 
@@ -108,13 +108,13 @@ If you're wondering how to save water in daily life when washing clothes - it is
 
 ### How to save water in the shower? Use modern gadgets
 
-Do you have problems with controlling the time you spend in the shower, so that water saving does not work for you? We have an idea how solve this issue. There are special adapter available on the market, which use **color to indicate water savings**. How is it possible? The adapter turns red after a while - this should be a signal for you that you have spent too much time in the shower and used more water than needed.
+Do you have problems with controlling the time you spend in the shower, so that water saving does not work for you? We have an idea how solve this issue. Special adapters available on the market use **color to indicate water savings**. How is it possible? The adapter turns red after a while - this should be a signal for you that you have spent too much time in the shower and used more water than needed.
 
 ### Conserving water - an eco-friendly garden
 
-You can use recycled water for work in the garden. It's possible thanks to a special system which accumulates water from bath, shower and sink and processes it so that it can be reused. Grey water is collected from the house and let through natural, eco-friendly filters. The liquid created in the process can be used e.g. for gardening, flushing the toilet, washing the car, the pavement and the patio.
+You can use recycled water in the garden. It's possible thanks to a special system which accumulates water from the bath, shower and sink and processes it so that it can be reused. Grey water is collected from the house and let through natural, eco-friendly filters. The liquid created in the process can be used e.g. for gardening, flushing the toilet, washing the car, the pavement and the patio.
 
-You can also save a lot of water thanks to well-thought and **economic plants and shrubs watering method.** The best time to do it is morning or late evening, when the air temperature is low. This will prevent water from quick evaporation and make plant watering more effective. It is recommended to spread mulch on the ground, to decrease the evaporation process.
+You can also save a lot of water thanks to well-thought and **economic method for watering plants and shrubs.** The best time to do it is morning or late evening, when the air temperature is low. This will prevent water from quick evaporation and make plant watering more effective. It is recommended to spread mulch on the ground, to decrease the evaporation process.
 
 {:.distinction.distinction-quotation.distinction-positive}
 
