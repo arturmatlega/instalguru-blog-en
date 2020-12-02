@@ -30,7 +30,21 @@ author_name: Maksymilian Ignacyk
 author_desc: Sales and Marketing Specialist at Instalguru
 author_photo: "/uploads/maks.jpg"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: pl
+  link: https://instalguru.pl/blog/gruntowanie-scian-przed-malowaniem-kiedy-nalezy-je-wykonac.html
+- lang: en
+  link: https://instalguru.co.uk/blog/how-to-prep-walls-for-painting-a-guide-to-walls-priming.html
+- lang: de
+  link: https://instalguru.de/blog/wie-kann-man-wande-grundieren-und-ist-dies-notwendig.html
+- lang: it
+  link: https://instalguru.it/blog/come-preparare-i-muri-per-la-pittura-una-guida-all-adescamento-dei-muri.html
+- lang: fr
+  link: https://instalguru.fr/blog/comment-preparer-les-murs-pour-la-peinture-un-guide-pour-preparer-les-murs.html
+- lang: es
+  link: https://instalguru.es/blog/como-preparar-las-paredes-para-pintar-una-guia-para-preparar-las-paredes.html
+- lang: cz
+  link: https://instalguru.cz/blog/zakladni-nater-sten-pred-lakovanim.kdy-by-mely-byt-splneny.html
 noindex: false
 
 ---
