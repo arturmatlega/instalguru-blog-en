@@ -10,7 +10,7 @@ main_keywords:
 - how to prep walls to paint
 segmenting_tags: []
 layout: post
-seo_title: How To Prep Walls For Painting? A Guide To Priming Walls
+seo_title: How To Prep Walls For Painting? A Guide To Walls Priming
 seo_description: "Are you planning a renovation and want to change color of the walls
   at home? \U0001F3E0 Are you finishing your apartment? ➡️ Learn all about priming
   walls."
