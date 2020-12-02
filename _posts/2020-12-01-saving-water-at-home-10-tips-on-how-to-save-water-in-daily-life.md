@@ -36,7 +36,21 @@ author_name: Maksymilian Ignacyk
 author_desc: Sales and Marketing Specialist at Instalguru
 author_photo: "/uploads/maks.jpg"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: pl
+  link: https://instalguru.pl/blog/oszczedzanie-wody-w-domu-10-wskazowek-jak-oszczedzac-wode.html
+- lang: en
+  link: https://instalguru.co.uk/blog/saving-water-at-home-10-tips-on-how-to-save-water-in-daily-life.html
+- lang: de
+  link: https://instalguru.de/blog/wassersparen-zu-hause-10-tipps-wie-man-im-taglichen-leben-wasser-sparen-kann.html
+- lang: it
+  link: https://instalguru.it/blog/risparmiare-acqua-a-casa-10-consigli-su-come-risparmiare-acqua-nella-vita-quotidiana.html
+- lang: fr
+  link: https://instalguru.fr/blog/economiser-l-eau-a-la-maison-10-conseils-pour-economiser-l-eau-dans-la-vie-quotidienne.html
+- lang: es
+  link: https://instalguru.es/blog/ahorrando-agua-en-casa-10-consejos-para-ahorrar-agua-en-la-vida-diaria.html
+- lang: cz
+  link: https://instalguru.cz/blog/uspora-vody-doma-10-tipu-pro-usporu-vody.html
 noindex: false
 
 ---
