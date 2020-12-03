@@ -22,11 +22,10 @@ photo: "/uploads/curbless1.jpg"
 photo_desc: A curbless shower is also referred to as a walk in shower.
 faq:
 - question: A curbless shower - what is the recommended size?
-  answer: A curbless shower can have various dimensions - matching your bathroom design.
-    It's a perfect solution for anyone who loves unusual solutions or need a shower
-    of a non-standard size e.g. due to a small space in the room. It's also a good
-    option for those who have a lot of space and dream of taking their shower conveniently
-    and without any limitations.
+  answer: A curbless shower can have various dimensions - to match your bathroom design.
+    It's a perfect solution for anyone who loves unusual solutions or needs a shower
+    of a non-standard size e.g. due to little space in the room. It's also a good
+    option for those who have a lot of space and dream of comfort and no limitations.
 author_name: Maksymilian Ignacyk
 author_desc: Sales and Marketing Specialist at Instalguru
 author_photo: "/uploads/maks.jpg"
@@ -37,11 +36,11 @@ noindex: false
 ---
 ## Curbless shower - a perfect solution for small bathrooms
 
-Many homeowners claim that a curbless shower creates an impression of space, which is very important for small bathrooms. It is particularly noticable if a walk-in type shower is installed instead of a standard stall.
+Many homeowners claim that a curbless shower creates an impression of more space, which is very important for small bathrooms. It is particularly noticeable if a walk-in type shower is installed instead of a standard stall.
 
 {:.distinction.distinction-quotation.distinction-positive}
 
-Interior design experts stress that it is not only an impression, but a confirmed fact. A curbless shower simply takes less space and is not as limiting as standard solutions.
+Interior design experts stress that it is not just an impression, but a confirmed fact. A curbless shower simply takes less space and is not as limiting as standard solutions.
 
 A curbless shower is sometimes referred to as linear shower. The name is derived from the linear drain used in this type of showers.
 
@@ -49,7 +48,7 @@ A curbless shower is sometimes referred to as linear shower. The name is derived
 
 Linear drain is a type of drainage in the form of a long slit in the floor. It's simply an extension of a standard central drain. It can be installed in the middle of the shower pan, by the wall and at any spot - there are no limitations in this case.
 
-A curbless shower with this type of drain creates a lot of interior design possibilities, as it takes little space and can be located anywhere the user wants. Furthermore, one might choose between a classical linear drain with a simple design and a linear drain decorated with unusual carvings.
+A curbless shower with this type of drain creates a lot of possibilities for interior design, as it takes little space and can be located anywhere the user wants. Furthermore, one might choose between a classic linear drain with a simple design and a linear drain decorated with unusual carvings.
 
 ![](/uploads/curbless2.jpg)
 
@@ -63,15 +62,15 @@ Today, the market offers sealants and grouting of higher waterproofing parameter
 
 ## How much does a curbless shower cost?
 
-The cost of a curbless shower installation depends on its characteristics, constructions and many other factors. The price of linear drainage, shower stall or door, shower panel and the installation also contribute to the full cost.
+The cost of a curbless shower installation depends on its characteristics, construction and many other factors. The price of linear drainage, shower stall or door, shower panel and the installation also contribute to the full cost.
 
 {:.distinction.distinction-info.distinction-negative}
 
-The price of the equipment also depends on the manufacturer and the material it has been made of. The installation costs are adjusted individually by the specialist and it might depend on the region you live in.
+The price of the equipment also depends on the manufacturer and the material it has been made of. The installation costs are adjusted individually by the specialist you hire and it might depend on the region you live in.
 
 ### A curbless shower - cheaper than standard bathroom equipment?
 
-Curbless shower stalls are offered by many manufacturers. But the lack of the base doesn't neccessarily mean that the cost of the shower zone at home is lower in this case. There is an option one can choose when buying a shower - full shower stalls with tempered glass walls. They aretypically covered with an "easy clean" layer, which makes cleaning quicker and prevents lime scale accumulation.
+Curbless shower stalls are offered by many manufacturers. But the lack of the base doesn't necessarily mean that the cost of the shower zone at home is lower. There is an option one can choose when buying a shower - full shower stalls with tempered glass walls. They are typically covered with an "easy clean" layer, which makes cleaning quicker and prevents lime scale accumulation.
 
 {:.distinction.distinction-quotation.distinction-positive}
 
@@ -89,16 +88,16 @@ Why is a curbless shower stall worth considering? First of all:
 
 {:.list.list-positive}
 
-* it takes much less space, so the design possibilities for the interior increase, by using every corner and niche in the bathroom - it's impossible with classic shower stalls,
+* it takes much less space, so there are more design possibilities for the interior, as every corner and niche in the bathroom is used; it's impossible with classic shower stalls,
 * it looks great - so it's a perfect choice for those who value modern solutions and unusual aesthetics; it limits the risk of a dangerous situation, as there is no curb which might cause an accident,
 * it is relatively easy to install - if you have certain basic skills, you could try to install a curbless shower without a specialist.
 
 ## A functional curbless shower - choose the right accessories
 
-A good-looking curbless shower is not only a matter of getting rid of the base or choosing a stall made of the right material. Additional accessories, which catch more attention than in a standard shower, are also highly important.
+A good-looking curbless shower is not just a matter of getting rid of the base or choosing a stall made of the right material. Additional accessories, which catch more attention than in a standard shower, are also highly important.
 
-A high-quality shower panel is the absolute essential in this case. You might choose a classic shower set - it is universal and should work in every case. There is also another, quite interesting option - a modern panel with a thermostat, of a solid construction and unusual appearance. The frist option is obviously much cheaper. You have to pay more for better, technologically advanced panels.
+A high-quality shower panel is the absolute essential in this case. You might choose a classic shower set - it is universal and always works well. There is also another, quite an interesting option - a modern panel with a thermostat, of a solid construction and unusual appearance. The first option is obviously much cheaper. You have to pay more for better, technologically advanced panels.
 
 You don't want to pay too much for the shower accessories? Choose an ordinary rainshower shower head. It looks very elegant and is quite cheap.
 
-A curbless shower looks fashionable, matches almost every bathroom design and most importantly - it is highly practical. The last feature is the main reason why a curbless shower appears in an increasing number of houses and apartments.
+A curbless shower looks fashionable, matches almost every bathroom design and most importantly - it is highly practical. It is the main reason why a curbless shower appears in many houses and apartments.
