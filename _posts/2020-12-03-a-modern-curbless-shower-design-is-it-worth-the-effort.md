@@ -30,7 +30,21 @@ author_name: Maksymilian Ignacyk
 author_desc: Sales and Marketing Specialist at Instalguru
 author_photo: "/uploads/maks.jpg"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: pl
+  link: https://instalguru.pl/blog/czy-warto-inwestowac-w-nowoczesny-prysznic-bez-brodzika.html
+- lang: en
+  link: https://instalguru.co.uk/blog/a-modern-curbless-shower-design-is-it-worth-the-effort.html
+- lang: de
+  link: https://instalguru.de/blog/ein-modernes-design-fur-barrierefreie-duschen-ist-es-die-muhe-wert.html
+- lang: it
+  link: https://instalguru.it/blog/un-design-moderno-e-senza-curvature-per-la-doccia-ne-vale-la-pena.html
+- lang: fr
+  link: https://instalguru.fr/blog/une-douche-sans-bac-a-douche-moderne-cela-en-vaut-il-la-peine.html
+- lang: es
+  link: https://instalguru.es/blog/un-moderno-diseno-de-ducha-sin-rizo-merece-la-pena-el-esfuerzo.html
+- lang: cz
+  link: https://instalguru.cz/blog/stoji-za-to-investovat-do-moderni-sprchy-bez-palety.html
 noindex: false
 
 ---
