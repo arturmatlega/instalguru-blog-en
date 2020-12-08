@@ -41,29 +41,29 @@ noindex: false
 ---
 ## Bathroom renovation - the power of heating is key
 
-Are paying attention mostly to aesthetics when finishing your bathroom? Have you calculated the cost of the bathroom refering to the cost of the equipment only? **Keep in mind that if you decided on a particular type of heating, the power is equally important - perhaps the most important.** It's a key point, regardless whether you have chosen underfloor heating or a bathroom radiator.
+Are you paying attention mostly to aesthetics when renovating your bathroom? Have you calculated the cost of the bathroom referring to the cost of the equipment only? **Keep in mind that if you decided on a particular type of heating, the power is equally - or the maybe the most - important.** It's a key point, regardless whether you have chosen underfloor heating or a bathroom radiator.
 
 {:.distinction.distinction-quotation.distinction-positive}
 
-The power of heating around 100W/1 m2 provides the best thermal comfort. As you can easily calculate, for a 12 m2 you need 1200W. Specialist recommend, however, to add 10-20% of so called energy margin to this. It's particularly important if you are planning to dry towels on the radiator. In such a case, it loses a part of the power.
+The power of heating around 100W/1 m2 provides the best thermal comfort. As you can easily calculate, you need 1200W for a 12 m2. Specialists recommend, however, to add 10-20% of so-called energy margin to this. It's particularly important if you are planning to dry towels on the radiator. In such a case, it loses some power.
 
 ## Bathroom renovation - where to put the bathroom radiator?
 
-If you are planning a bathroom makeover, the location of the towel radiator is another important issue. Keep in mind that any major changes in this regard might require reconstruction of the system. The cost of the bathroom might increase in this case. However, if the radiator has been placed at a wrong spot, changing its location is worth consideration.
+The location of the towel radiator is another important issue when planning a bathroom makeover. Keep in mind that any major changes in this regard might require reconstruction of the system. The cost of the bathroom might increase in this case. However, if the radiator is placed at a wrong spot, changing its location is worth consideration.
 
 {:.distinction.distinction-question.distinction-negative}
 
-**But how do you know where the bathroom radiator should be placed?** It's recommeded to stick to the simple rule, often repeated by experts. A bathroom radiator should be located at least 15 cm apart from the floor and the ceiling.
+**But how do you know the proper location of the bathroom radiator?** It's recommended to stick to the simple rule, often repeated by experts. A bathroom radiator should be located at least 15 cm apart from the floor and the ceiling.
 
 ## A bathroom radiator - are the looks important?
 
-The design of a bathroom radiator is often the key issue for homeowners planning to renovate their bathroom. For this reason, traditional radiators are replaced by bathroom - towel radiators. Apart from their most basic function - emitting the heat to the room, they also serve as a decoration. What's more, they are very functional due to the fact that you can dry minor laundry and bath towels on them.
+The design of a bathroom radiator is often key for homeowners planning to renovate their bathroom. For this reason, traditional radiators are replaced by bathroom (towel) radiators. Apart from their most basic function - emitting the heat to the room, they also serve as a decoration. What's more, they are very functional due to the fact that you can dry minor clothes and bath towels on them.
 
 ![](/uploads/grzejnik2.jpg)
 
 ## A towel bathroom radiator is a good option!
 
-Towel radiators are one of the most popular choice among people who want to renovate their bathroom. It is mostly because of the fact that there are various models of towel radiators available on the market. What's worth noting - they all have a similar construction.
+Towel radiators are one of the most popular choices among people who want to renovate their bathroom. It is mostly because of the fact that there are various models of towel radiators available on the market. What's worth noting - they all have a similar construction.
 
 Two vertical tubes are the base of every towel radiator. They are called collectors. Those elements supply the device with water. Horizontal pipes connected with the collectors are another, very important part of a bathroom radiator. **Modern radiators might differ from the standard construction.**
 
@@ -76,8 +76,8 @@ Towel radiators fall into three basic categories. One can distinguish:
 {:.list.list-positive}
 
 * **Water bathroom radiator** - the most popular type, typically used in bathrooms. It's one of the elements of central heating. It operates on the same principle as standard radiators. It has an air vent, which allows for removal of the gases in the system. Thermostatic valve helps to control the temperature in the room. It's not a flawless solution, however. The fact that the bathroom radiator operates only when the central heating system operates - during the heating season, is the major disadvantage. It means that during summer the radiator does not function.
-* **A water filled electric radiator** - it's a modified version of a water bathroom radiator. Those devices looks exactly the same. They can also be connected to the central heating system. The only difference is the fact that bathroom radiators of this type can be powered by electricity. This way, the heater provides warmth all year round, not just during the heating season. When the central heating does not operate, you can simply plug the radiator in.
-* **Electric bathroom radiator** - sometimes it is refered to as a dryer. Devices of this type do not need to be connected with the heating system. You can place them anywhere with the access to electricity. They are perfect for heating bathrooms, but not only. More advanced models have a special lock which protects them from overheating. It is the least popular bathroom radiator.
+* **A water-filled electric radiator** - it's a modified version of a water bathroom radiator. Those devices look exactly the same. They can also be connected to the central heating system. The only difference is the fact that bathroom radiators of this type can be powered by electricity. This way, the heater provides warmth all year round, not just during the heating season. When the central heating does not operate, you can simply plug the radiator in.
+* **Electric bathroom radiator** - sometimes it is referred to as a dryer. Devices of this type do not need to be connected with the heating system. You can place them anywhere with the access to electricity. They are perfect for heating bathrooms, but not only. More advanced models have a special lock which protects them from overheating. It is the least popular bathroom radiator.
 
 Note that radiators can be classified by the material they were made of or the color. Steel and aluminium bathroom radiators are the most popular.
 
@@ -105,7 +105,7 @@ As a water bathroom radiator is the most popular model, we are presenting the in
 
 ![](/uploads/grzejnik3.jpg)
 
-**Turning off the water is the most important aspect.** Then, you can follow the staps below to install the bathroom radiator:
+**Turning off the water is the most important aspect.** Then, you can follow the steps below to install the bathroom radiator:
 
 1. Take the plugs off the holes in the radiator and fasten the installation elements.
 2. Install the steam valve in the upper part of the radiator.
@@ -113,14 +113,14 @@ As a water bathroom radiator is the most popular model, we are presenting the in
 4. Put the radiator against the wall and determine the spots for the holders.
 5. Drill the holes and insert wall plugs.
 6. Attach the radiator holders.
-7. Install the radiator using screws (connect it with the heating system).
+7. Install the radiator, using screws (connect it with the heating system).
 8. Turn on the water and bleed the radiator.
 
 How to install an electric bathroom radiator? First of all - attach it to the wall. It's even easier than with the classic radiator. Remember to keep the right distance between the equipment of the bathroom. The minimum is 0,6 m.
 
 ## Is underfloor heating a good alternative to a radiator?
 
-Are you wondering whether underfloor heating in the bathroom might be a good alternative for radiators? It's a complicated issue, depending on several factors. If you decide on this heating method, you will be able to reach the right thermal comfort. If you choose high quality components: a manifold or pipes distributing the water, you will get the right temperature in the room.
+Are you wondering whether underfloor heating in the bathroom might be a good alternative for radiators? It's a complicated issue, depending on several factors. If you decide on this heating method, you will be able to reach the right thermal comfort. If you choose high-quality components: a manifold or pipes distributing the water, you will get the right temperature in the room.
 
 {:.distinction.distinction-info.distinction-negative}
 
