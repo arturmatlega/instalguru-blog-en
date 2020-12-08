@@ -19,9 +19,9 @@ intro: Are you planning a home makeover? Or perhaps you have to renovate the bat
   It's a good opportunity to make certain changes in the interior. Are you paying
   attention to fittings or ceramic elements? Perfect! Do not forget about an equally
   important issue - heating. There are several options in this regard - you could
-  choose a standard bathroom radiator which is typically used in other types of rooms
-  as well. You can also invest in a towel radiator or underfloor heating. What is
-  the best solution?
+  choose a standard bathroom radiator, typically used in other types of rooms as well.
+  You can also invest in a towel radiator or underfloor heating. What is the best
+  solution?
 photo: "/uploads/grzejnik.jpg"
 photo_desc: The appearance of a bathroom radiator is often the most important issue
   taken into consideration when renovating the bathroom.
