@@ -35,7 +35,21 @@ author_name: Magdalena Data-Urban
 author_desc: Content Manager at Instalguru
 author_photo: "/uploads/ccd0bafcbc864b52afb6e7826ae63e4b.png"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: pl
+  link: https://instalguru.pl/blog/planujesz-remont-lazienki-wybierz-odpowiedni-grzejnik-lazienkowy-i-postaw-na-swoj-komfort.html
+- lang: en
+  link: https://instalguru.co.uk/blog/planning-a-bathroom-renovation-choose-the-best-bathroom-radiator-for-your-comfort.html
+- lang: de
+  link: https://instalguru.de/blog/planen-sie-eine-badrenovierung-wahlen-sie-den-besten-badheizkorper-fur-ihren-komfort.html
+- lang: it
+  link: https://instalguru.it/blog/stai-progettando-una-ristrutturazione-del-bagno-scegliete-il-miglior-radiatore-da-bagno-per-il-vostro-comfort.html
+- lang: fr
+  link: https://instalguru.fr/blog/vous-prevoyez-de-renover-une-salle-de-bains-choisissez-le-meilleur-radiateur-de-salle-de-bains-pour-votre-confort.html
+- lang: es
+  link: https://instalguru.es/blog/planeando-una-renovacion-del-bano-elija-el-mejor-radiador-de-bano-para-su-comodidad.html
+- lang: cz
+  link: https://instalguru.cz/blog/planujete-rekonstrukci-koupelny-vyberte-spravny-koupelnovy-ohrivac-a-vsadte-na-svuj-komfort.html
 noindex: false
 
 ---
