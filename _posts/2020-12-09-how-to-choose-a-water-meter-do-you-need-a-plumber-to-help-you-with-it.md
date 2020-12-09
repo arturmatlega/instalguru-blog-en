@@ -35,7 +35,21 @@ author_name: Mateusz Knapik
 author_desc: Sales and Customer Support Specialist at Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: pl
+  link: https://instalguru.pl/blog/jak-wybrac-wodomierz-czy-hydraulik-moze-ci-w-tym-pomoc.html
+- lang: en
+  link: https://instalguru.co.uk/blog/how-to-choose-a-water-meter-do-you-need-a-plumber-to-help-you-with-it.html
+- lang: de
+  link: https://instalguru.de/blog/wie-wahlt-man-einen-wasserzahler-aus-brauchen-sie-einen-installateur-der-ihnen-dabei-hilft.html
+- lang: it
+  link: https://instalguru.it/blog/come-scegliere-un-contatore-dell-acqua-avete-bisogno-di-un-idraulico-che-vi-aiuti.html
+- lang: fr
+  link: https://instalguru.fr/blog/comment-choisir-un-compteur-d-eau-avez-vous-besoin-de-l-aide-d-un-plombier.html
+- lang: es
+  link: https://instalguru.es/blog/como-elegir-un-medidor-de-agua-necesitas-un-plomero-para-que-te-ayude.html
+- lang: cz
+  link: https://instalguru.cz/blog/jak-vybrat-vodomer-muze-vam-v-tom-pomoci-instalater.html
 noindex: false
 
 ---
