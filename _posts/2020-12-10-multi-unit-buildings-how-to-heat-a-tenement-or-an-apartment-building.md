@@ -32,7 +32,21 @@ author_name: Maksymilian Ignacyk
 author_desc: Sales and Marketing Specialist at Instalguru
 author_photo: "/uploads/maks.jpg"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: pl
+  link: https://instalguru.pl/blog/wielorodzinne-budownictwo-mieszkaniowe-jak-ogrzewana-jest-kamienica-lub-bloki.html
+- lang: en
+  link: https://instalguru.co.uk/blog/multi-unit-buildings-how-to-heat-a-tenement-or-an-apartment-building.html
+- lang: de
+  link: https://instalguru.de/blog/gebaude-mit-mehreren-wohneinheiten-wie-heizt-man-ein-mietshaus-oder-ein-mehrfamilienhaus.html
+- lang: it
+  link: https://instalguru.it/blog/edifici-a-piu-unita-come-riscaldare-un-appartamento-o-un-condominio.html
+- lang: fr
+  link: https://instalguru.fr/blog/batiments-a-plusieurs-unites-comment-chauffer-un-appartement-ou-un-immeuble.html
+- lang: es
+  link: https://instalguru.es/blog/edificios-de-unidades-multiples-como-calentar-una-vivienda-o-un-edificio-de-apartamentos.html
+- lang: cz
+  link: https://instalguru.cz/blog/bytova-vystavba-jak-se-vytapi-mestsky-dum-nebo-bloky.html
 noindex: false
 
 ---
