@@ -31,7 +31,21 @@ author_name: Mateusz Knapik
 author_desc: Sales and Customer Support Specialist at Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: pl
+  link: https://instalguru.pl/blog/jak-obudowac-wanne-modna-zabudowa-wanny-trendy-na-2020-rok.html
+- lang: en
+  link: https://instalguru.co.uk/blog/how-to-make-a-bathtub-frame-skirted-bathtub-2020-trends.html
+- lang: de
+  link: https://instalguru.de/blog/wie-macht-man-einen-wannenrand-wannenschurze-badewanne-trends-2020.html
+- lang: it
+  link: https://instalguru.it/blog/come-fare-un-telaio-per-vasca-da-bagno-vasca-da-bagno-a-battiscopa-tendenze-2020.html
+- lang: fr
+  link: https://instalguru.fr/blog/comment-fabriquer-un-cadre-de-baignoire-baignoire-a-jupe-tendances-2020.html
+- lang: es
+  link: https://instalguru.es/blog/como-se-hace-un-marco-para-la-banera-banera-con-faldon-tendencias-2020
+- lang: cz
+  link: https://instalguru.cz/blog/modni-vystavba-lazni-trendy-pro-rok-2020.html
 noindex: false
 
 ---
