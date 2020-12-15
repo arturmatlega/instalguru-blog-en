@@ -21,7 +21,7 @@ intro: Floor screed is referred to as one the most important aspects of every co
   investment. Because of the wide variety of products available on the market, choosing
   a perfect material is not easy. Every type of screed has different properties and
   can be used in different situations. What's more, the way one can use it also differs.
-  Although not many people know about it - durability of screed affects the systems
+  Although not many people know about it - durability of the screed affects the systems
   installed in the house or apartment. How to choose screed and what should you know
   about it?
 photo: "/uploads/screed.jpg"
