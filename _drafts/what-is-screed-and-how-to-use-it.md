@@ -39,9 +39,9 @@ hreflangs: []
 noindex: false
 
 ---
-Concrete floor is a typical basis for any type of flooring. The name is more common, although it has the same meaning as screed. It's an underflooring used before laying the floor. It can be used in basically every room in the house, but also in basements or garages.
+A concrete floor is a typical basis for any type of flooring. The less common name of it is screed. It's a type of underflooring used before laying the floor. It can be used in basically every room in the house, but also in basements or garages.
 
-Screed improves the quality of the substrate where further finishing is going to be made. It can level the surface if the room requires it. Many people wonder what types of underflooring are suitable for screed floors? In fact, screed is a good underflooring for any type of surface.
+A screed layer improves the quality of the substrate before the further finishing works. It can level the surface if the room requires it. Many people wonder what types of underflooring are suitable for screed floors? In fact, a screed is a good underflooring for any type of surface.
 
 {:.list.list-positive}
 
@@ -50,11 +50,11 @@ Screed improves the quality of the substrate where further finishing is going to
 * carpet,
 * terracotta.
 
-Choosing the right type of screed is the most impotant issue. Not every type of screeed has the same qualities, which is worth paying attention to.
+Choosing the right type of screed is the most important issue. Not every type of screed has the same qualities, which is worth paying attention to.
 
 ## Different types of screed. Which screed to choose?
 
-The main purpose of screed is leveling the surface where you are planning to lay the flooring. There are many types of screed, each of them should be used differently. The matieral used in production is the basic criterion for screed classification. Within this range, you can find:
+The main purpose of the screed is leveling the surface before laying the flooring. There are many types of screed, and each of them should be used differently. The material used in production is the basic criterion for screed classification. Within this range, you can find:
 
 {:.list.list-positive}
 
@@ -67,30 +67,30 @@ There are also other types of screed. Their classification looks as follows:
 
 {:.list.list-positive}
 
-* **Self-leveling screed** - the best for creating a perfectly even surface. It is appears on the market as a dry mix. This type of screed is very easy to use. One needs to add water and mix the material thoroughly.
+* **Self-leveling screed** - the best for creating a perfectly even surface. It appears on the market as a dry mix. This type of screed is very easy to use. One needs to add water and mix the material thoroughly.
 * **Floating screed** - typically used with previously prepared insulation layer. Thanks to this, the screed is not connected with the construction of the building at all. The screed should be around 35 mm thick in this case.
 * **Screed used directly on the ceiling.** After drying, the material becomes an integral part of the building. The recommended thickness is around 20 mm.
 
-**Additionally, one can use screed with a separating layer.** In this case, screed goes directly onto the roof with underlayment already there - tar paper or special insulation membrane (also used for underfloor heating).  It's a highly recommended method if you want to preapre the roof surface. Why is it important to use a waterproofing membrane? It protects styrofoam boards from absorbng the moisture from the concrete flooring.
+**Additionally, one can use the screed with a separating layer.** In this case, the screed goes directly onto the roof with underlayment underneath - tar paper or special insulation membrane (also used for underfloor heating). This method is highly recommended if you want to prepare the roof surface. Why is it important to use a waterproofing membrane? It prevents styrofoam boards from absorbing the moisture from the concrete flooring.
 
-Dry screed has become quite popular in the recent years. Screed board is a term used frequently in this case. It look significantly different from other types. It consists of layers of various materials combined into one. Because of its specific nature, dry screed is usually used for wooden surfaces. There are two types of screed boards available on the market:
+Dry screeds have become quite popular in the recent years. Screed board is the term in this case. It looks significantly different from other types. It consists of layers of various materials combined into one. Because of its specific nature, dry screeds are usually used for wooden surfaces. There are two types of screed boards available on the market:
 
 * plasterboards,
 * fibre boards.
 
 ## What does screed do?
 
-Thanks to screed, one can level the surface. Apart from this, it serves many other, equally important functions. First of all, it provides thermal insulation. **A layer of screed is typically used on the floor or on the ceiling.** Many people who are in the process of a house construction, decide to use it on the walls as well. In this case one can use screed board.
+Thanks to the screed, one can level the surface. Apart from this, it serves many other, equally important, functions. First of all, it provides thermal insulation. **A screed layer is typically used on the floor or the ceiling.** Many people who are in the process of a house construction, decide to use it on the walls as well. In this case one can use screed boards.
 
-Another important feature of screed is acousting insulation. Thanks to special materials, one can limit the noise transferred between the rooms.
+Another important feature of screeds is acoustic insulation. Thanks to special materials, one can limit the noise transferred between the rooms.
 
-## How to prepare the ground for screed?
+## How to prepare the ground for a screed?
 
 Cleaning the surface is one of the most important aspects of preparing the surface for screeding. Dirt, especially major one, might affect aesthetics, and more importantly - durability.
 
 {:.distinction.distinction-quotation.distinction-negative}
 
-Dirt removal is particularly imporant if a separation layer is planned for the screed. It might damage the insulating membrane mentioned before, and as a result - screed might have direct contact with the ground. Also, the underflooring layer mustn't be folded or creased.
+Dirt removal is particularly important if a separation layer is planned for the screed. It might damage the insulating membrane mentioned before, and as a result - screed might have direct contact with the ground. Also, the underflooring layer mustn't be folded or creased.
 
 Screed can also be used for underfloor heating system. If that's the case, one must remember to:
 
@@ -106,6 +106,6 @@ Proper care is an important aspect - especially in case of concrete screed, whic
 
 {:.distinction.distinction-info.distinction-positive}
 
-As claimed by construction specialists, to keep certain properties of the screed, one should pay attention to drying time. It should not be less than 10 days. It means that from the moment of laying the screed, it needs to be dampened with water. Thanks to this, one can avoid cracks and crumbling of the surface.
+As claimed by construction specialists, to keep certain properties of the screed, one should pay attention to drying time. It should not be less than 10 days. It means that after you lay the screed, it needs to be dampened with water. Thanks to this, you can avoid cracks and crumbling of the surface.
 
-Are you planning to finish your house? Or perhaps you want to renovate your apartment? Check if you have to lay screed. Sometimes it's not possible to start other works if there is no screed, which might delay your work.
+Are you planning to finish your house? Or perhaps you want to renovate your apartment? Check if you have to lay the screed. It might not be possible to begin other works if the floor is not screeded. It might delay your work.
