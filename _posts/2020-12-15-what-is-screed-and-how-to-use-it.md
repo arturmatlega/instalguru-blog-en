@@ -25,7 +25,7 @@ intro: Floor screed is referred to as one the most important aspects of every co
   installed in the house or apartment. How to choose screed and what should you know
   about it?
 photo: "/uploads/screed.jpg"
-photo_desc: Screed is mostly used for leveling the surface.
+photo_desc: Screed is used mostly for leveling the surface.
 faq:
 - question: What is screed?
   answer: 'Screed is nothing else than concrete floor. It can be used in basically
@@ -35,7 +35,21 @@ author_name: Magdalena Data-Urban
 author_desc: Content Manager at Instalguru
 author_photo: "/uploads/ccd0bafcbc864b52afb6e7826ae63e4b.png"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: pl
+  link: https://instalguru.pl/blog/czym-jest-jastrych-i-gdzie-mozna-go-wykorzystac.html
+- lang: en
+  link: https://instalguru.co.uk/blog/what-is-screed-and-how-to-use-it.html
+- lang: de
+  link: https://instalguru.de/blog/was-ist-estrich-und-wie-verwendet-man-ihn.html
+- lang: it
+  link: https://instalguru.it/blog/cos-e-il-massetto-e-come-si-usa.html
+- lang: fr
+  link: https://instalguru.fr/blog/qu-est-ce-que-la-chape-et-comment-l-utiliser.html
+- lang: es
+  link: https://instalguru.es/blog/que-es-el-contrapiso-y-como-se-usa.html
+- link: https://instalguru.cz/blog/co-je-poter-a-kde-ho-lze-pouzit.html
+  lang: cz
 noindex: false
 
 ---
