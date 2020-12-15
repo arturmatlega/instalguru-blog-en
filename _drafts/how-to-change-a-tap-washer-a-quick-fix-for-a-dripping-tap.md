@@ -18,7 +18,7 @@ small-intro: A dripping tap won't let you sleep? Time to do something about it!
 intro: Does a water drop fall from your tap every 3 seconds, getting on your nerves?
   A dripping tap won't let you sleep? Time to do something about it! A dripping tap
   does not just generate annoying noises. A malfunction like this might cause issues
-  with using the fittings. In worst case scenario, it might cause a more serious breakdown
+  with using the fittings. In worst-case scenario, it might cause a more serious breakdown
   or generate higher water bills.
 photo: "/uploads/washer.jpg"
 photo_desc: A properly working tap allows to use the kitchen and bathroom easily.
@@ -27,7 +27,7 @@ faq:
   answer: To fix a dripping tap, one has to determine the reason of the malfunction
     - which might have various sources. A broken washer is the most common issue,
     and you can replace it immediately - using guides available on the Internet. Sometimes
-    the malfunction is more serious and one has to hire a specialist.
+    the malfunction is more serious, and one has to hire a specialist.
 author_name: Maksymilian Ignacyk
 author_desc: Sales and Marketing Specialist at Instalguru
 author_photo: "/uploads/maks.jpg"
@@ -38,25 +38,25 @@ noindex: false
 ---
 ## A dripping tap - reasons
 
-Incorrect cartridge operation and leaking from the spout are among the most common problems associated with a dripping tap. They are not very serious situations, so you can fix the tap yourself.
+Incorrect cartridge operation and leaking from the spout are the most common problems associated with a dripping tap. They are not very serious issues, so you can easily fix the tap yourself.
 
-A properly working tap allows to use the kitchen and bathroom easily. Without it, everyday activities requiring water might become practically impossible. What if the spout is leaking, making you unable to use water? **A tap malfunction does not necessarily mean it has to be replaced.** Thanks to spare parts, you can fix the problem quickly and easily, and the device will work for many more years.
+A properly working tap lets you use the kitchen and bathroom easily. Without it, everyday activities requiring water would become practically impossible. What to do when the spout is leaking, making you unable to use water? **A tap malfunction does not necessarily mean the whole fitting has to be replaced.** Thanks to spare parts, you can fix the problem quickly and easily, prolonging the device's life for a long time.
 
 ## How to change a tap cartridge? You can do it yourself!
 
-If a tap is leaking, one might have to replace the cartridge in the tap. It's not very difficult but you need some specialist tools such as an Allen wrench. 
+If a tap is leaking, the cartridge in the tap might need a replacement. It's not very difficult, but you need some specialist tools such as an Allen wrench. 
 
-**First, cut off the water.** Then, you have to detach the handle. There is a cover underneath - you can detach it using your hand. Then, unscrew the bolt keeping the cartridge in place. At this stage, you can replace the cartridge.
+**First, cut off the water.** Then, you have to detach the handle. There is a cover underneath - you can detach it using your hand. Then, unscrew the bolt keeping the cartridge in place. At this stage, you can easily replace the cartridge.
 
 {:.distinction.distinction-info.distinction-negative}
 
-It might turn out that the cartridge does not have to be replaced. If you notice that the bolt was not tight enough, you can eliminate the problem by simply tightening it.
+Perhaps the cartridge doesn't have to be replaced. If you notice the bolt is not tight enough, you can eliminate the problem by simply tightening it.
 
 ## Why replacing an old tap washer?
 
 There are many reasons for a leaking tap. The most common issue, especially in older devices, is a **worn washer**. You can, therefore, eliminate the problem of a dripping tap by simply replacing the element. It has lost its qualities over a long time of using it.
 
-Rubber elements protect the device against leaks but they get damaged after a while and lose their leaktightness abilities. They are products of a limited longevity, especially if they are used intensely. You can solve the problem of a leaky tap yourself. **Washer replacement is a matter of just a few minutes of work and a very low cost.** Make sure to get the basic knowledge about it, so that you don't encounter any problems.
+Rubber elements protect the device against leaks, but they get worn off after a while. As a result - they lose their leak-tightness abilities. They are products of a limited longevity, especially if they are used intensely. You can solve the problem of a leaky tap yourself. **Washer replacement is just a matter of several minutes of work and a very low cost.** Make sure to get the basic knowledge about it, so that you don't encounter any problems.
 
 ![](/uploads/washer2.jpg)
 
@@ -66,7 +66,7 @@ Regardless whether it's a kitchen sink or a bathtub, tap washer replacement alwa
 
 ### What washers are typically used in faucets?
 
-Silicone and rubber washers are the most popular and also the best solution. **Keep in mind that those elements are going to be in a constant contact with water, so they can be highly resistant.**
+Silicone and rubber washers are the most popular and at the same time they are the best solution. **Keep in mind that those elements are going to be in a constant contact with water, so they should be highly resistant.**
 
 Plastic materials like silicone and rubber do not react to moisture, do not corrode or get incrusted. They are not prone to deformation, cracks and breaking. They can endure both high and low temperatures.
 
@@ -94,7 +94,7 @@ If you are wondering how to replace a tap washer - we have a universal guide for
 
 * First, remove the cap from the tap handle. Caps are typically red or blue. You can use a screwdriver to pry it off.
 * **Unscrew and dismantle the whole handle.** It can be easily done without using any additional tools.
-* Then, remove the stem from the sleeve - to do this, you can use a fork spanner or a monkey wrench. Thanks to this, you have a full access to the cartridge, so that you can examine the tap washer. **If the element is worn off or damaged, replace it:** remove the screw, take out the old ring and replace it with a new one. What model is the best? You can choose a silicone washer - white or black.
+* Then, remove the stem from the sleeve - to do this, you can use a fork spanner or a monkey wrench. Thanks to this, you have a full access to the cartridge, so that you can examine the tap washer. **If the element is worn off or damaged, replace it:** remove the screw, take out the old ring and replace it with a new one. Which type is the best one? You can choose a silicone washer - white or black.
 
 ![](/uploads/washer3.jpg)
 
@@ -104,13 +104,13 @@ Fixing a mixer tap looks quite similar to a standard tap repair. The main differ
 
 {:.distinction.distinction-quotation.distinction-positive}
 
-Before beginning the tap washer replacement process, **make sure that the water is not under pressure in the piping system**. To do this, cut off the main valve of hot and cold water. In the next step wash off all the liquid in the tap. The easiest way to do that is leaving the tap open until all the water flows out.
+Before beginning the tap washer replacement process, **make sure that the water is not under pressure in the piping system**. To do this, cut off the main valve of hot and cold water. In the next step, wash off all the liquid in the tap. The easiest way to do that is leaving the tap open until all the water flows out.
 
 How to begin a tap washer replacement? **First, remove the cap from the handle.** In double-valve taps, the caps mark cold and hot water. Keep in mind that in mixer taps there is only one cap.
 
-Remove the screw in the middle of the tap, using a 19 fork spanner or a monkey wrench - counter-clockwise. Sometimes it is not necesarry to replace the tap washer. If the fitting is improperly attached, all you need to do is correct it. If the tap still leaks after that, replace the washer.
+Remove the screw in the middle of the tap, using a 19 fork spanner or a monkey wrench - counter-clockwise. Sometimes it is not necessary to replace the tap washer. If the fitting is attached improperly, all you need to do is correct it. If the tap still leaks after that, replace the washer.
 
-Remove the washer from the base of the fitting, put a new one and carefully assemble back the whole element. Remember that the new seal has to be exactly as large and thick as the old one. Otherwise the tap won't work properly.
+Remove the washer from the base of the fitting, put a new one and carefully assemble back the whole element. Remember that the new seal has to be exactly as large and thick as the old one. Otherwise, the tap won't work properly.
 
 {:.distinction.distinction-info.distinction-positive}
 
@@ -118,7 +118,7 @@ When replacing a tap washer, you can also clean elements like the strainer, the 
 
 ## A dripping tap by the spout - how to fix it?
 
-A dripping tap might be a sign of a malfunctioning spout. The repair is quite simple and easy in this case as well - you can do it yourself. Just remove the installation screws and carefully remove the spout, making sure you don't damage the sink. Then, **remove the old washer**. Insert new elements in place. If you managed to do it properly - attach spout back and tighten the screw so that the tap doesn't move from side to side.
+A dripping tap might be a sign of a malfunctioning spout. The repair is quite simple and easy in this case as well - you can do it yourself. Just remove the installation screws and carefully remove the spout, making sure you don't damage the sink. Then, **remove the old washer**. Insert new elements in place. If you managed to do it properly - attach the spout back and tighten the screw so that the tap doesn't move from side to side.
 
 Are you wondering which product is the best in this case? A spout rubber o-ring is perfect. It's available in two standard sizes: 1/2'', 16 mm, 12 mm or 3/4'', 18 mm, 14 mm.
 
@@ -126,6 +126,6 @@ Are you wondering which product is the best in this case? A spout rubber o-ring 
 
 ## What is the cost of a tap washer replacement?
 
-Apart from the typical question: how to replace a tap washer, there is also another aspect - the price. Fortunately, a tap washer replacement is a very cheap action.
+Apart from the standard question: how to replace a tap washer, there is also another aspect - the price. Fortunately, a tap washer replacement is a very cheap operation.
 
 **Silicone, rubber and fibre washers are extremely cheap.** Because of the low price, one might buy more o-rings and have products of various diameters and thicknesses. This way it's easy to fit the right seal to your tap.
