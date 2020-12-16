@@ -32,7 +32,21 @@ author_name: Maksymilian Ignacyk
 author_desc: Sales and Marketing Specialist at Instalguru
 author_photo: "/uploads/maks.jpg"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: pl
+  link: https://instalguru.pl/blog/jak-wymienic-uszczelke-w-kranie-szybki-sposob-na-cieknacy-kran.html
+- lang: en
+  link: https://instalguru.co.uk/blog/how-to-change-a-tap-washer-a-quick-fix-for-a-dripping-tap.html
+- lang: de
+  link: https://instalguru.de/blog/wie-wechselt-man-eine-wasserhahn-unterlegscheibe-eine-schnelle-losung-fur-einen-tropfenden-wasserhahn.html
+- lang: it
+  link: https://instalguru.it/blog/come-si-cambia-una-rondella-di-rubinetto-una-soluzione-rapida-per-un-rubinetto-che-gocciola.html
+- lang: fr
+  link: https://instalguru.fr/blog/comment-changer-une-rondelle-de-robinet-une-solution-rapide-pour-un-robinet-qui-goutte.html
+- lang: es
+  link: https://instalguru.es/blog/como-se-cambia-un-sello-del-grifo-una-solucion-rapida-para-un-grifo-que-gotea.html
+- lang: cz
+  link: https://instalguru.cz/blog/jak-vymenit-tesneni-v-kohoutku-rychly-zpusob-jak-dostat-kapajici-kohoutek.html
 noindex: false
 
 ---
