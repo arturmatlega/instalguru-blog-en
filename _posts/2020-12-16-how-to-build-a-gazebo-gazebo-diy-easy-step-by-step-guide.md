@@ -37,7 +37,21 @@ author_name: Magdalena Data-Urban
 author_desc: Content Manager at Instalguru
 author_photo: "/uploads/ccd0bafcbc864b52afb6e7826ae63e4b.png"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: pl
+  link: https://instalguru.pl/blog/jak-zbudowac-altane-budowa-altany-do-ogrodu-krok-po-kroku.html
+- lang: en
+  link: https://instalguru.co.uk/blog/how-to-build-a-gazebo-gazebo-diy-easy-step-by-step-guide.html
+- lang: de
+  link: https://instalguru.de/blog/wie-baut-man-eine-gartenlaube-gazebo-diy-einfache-anleitung.html
+- lang: it
+  link: https://instalguru.it/blog/come-costruire-un-gazebo-gazebo-fai-da-te-guida-facile.html
+- lang: fr
+  link: https://instalguru.fr/blog/comment-construire-un-gazebo-gazebo-guide-facile.html
+- lang: es
+  link: https://instalguru.es/blog/como-construir-un-gazebo-gazebo-diy-guia-facil.html
+- lang: cz
+  link: https://instalguru.cz/blog/jak-postavit-altan-vystavba-altanu-pro-zahradu-krok-za-krokem.html
 noindex: false
 
 ---
