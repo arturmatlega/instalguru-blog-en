@@ -29,7 +29,21 @@ author_name: Maksymilian Ignacyk
 author_desc: Sales and Marketing Specialist at Instalguru
 author_photo: "/uploads/maks.jpg"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: pl
+  link: https://instalguru.pl/blog/metody-laczenia-rur-gwintowanie-rur-zgrzewanie-czy-skrecanie-co-najlepiej-wybrac.html
+- lang: en
+  link: https://instalguru.co.uk/blog/pipe-connecting-methods-threading-welding-or-compression-which-one-is-the-best.html
+- lang: de
+  link: https://instalguru.de/blog/rohrverbindungsmethoden-gewindeschneiden-schweissen-oder-pressen-welches-ist-das-beste.html
+- lang: it
+  link: https://instalguru.it/blog/metodi-di-collegamento-dei-tubi-filettatura-saldatura-o-compressione-qual-e-il-migliore.html
+- lang: fr
+  link: https://instalguru.fr/blog/methodes-de-raccordement-des-tuyaux-filetage-soudage-ou-compression-lequel-est-le-meilleur.html
+- lang: es
+  link: https://instalguru.es/blog/metodos-de-conexion-de-tuberias-roscar-soldar-o-comprimir-cual-es-el-mejor.html
+- lang: cz
+  link: https://instalguru.cz/blog/metody-pripojeni-potrubi-rezani-trubek-svarovani-nebo-zkrouceni-co-je-nejlepsi-vybrat.html
 noindex: false
 
 ---
