@@ -26,6 +26,13 @@ fields:
   type: tag_list
   default: []
   label: Słowa kluczowe
+- name: segmenting_tags
+  type: tag_list
+  default: []
+  label: Tagi segmentujące
+  description: Powinny składać się z jednego słowa (ew. kilku rozdzielonych "-").
+    Po dodaniu trzeba przechwycić je w Facebooku Pixela lub innym narzędziu do tworzenia
+    grup odbiorców.
 - type: textarea
   name: small-intro
   label: Wstęp (listing)
@@ -70,6 +77,9 @@ fields:
   - type: text
     name: link
     label: link
+- name: noindex
+  type: boolean
+  label: Blokować indexowanie?
 pages:
 - _posts/2019-07-17-gas-line-installation-gas-line-installation-which-pipe-is-better-copper-or-steel.markdown
 - _posts/2019-07-22-pipe-fittings-do-threaded-and-press-fittings-differ.md
@@ -84,3 +94,22 @@ pages:
 - _posts/2020-08-10-which-tile-leveling-system-is-the-best-top-3-products.md
 - _posts/2020-09-08-what-is-timber-framing-and-how-to-install-roof-trusses.md
 - _posts/2020-09-10-how-to-remove-silicone-3-effective-methods-for-silicone-removal.md
+- _posts/2020-09-24-how-to-purify-water-at-home-home-water-filtration-system.md
+- _posts/2020-09-29-how-to-connect-two-way-switch-easy-two-way-switch-diagram.md
+- _posts/2020-10-20-what-is-a-gully-trap-and-how-to-install-it.md
+- _posts/2020-10-29-low-water-pressure-how-to-fix-the-problem.md
+- _posts/2020-11-02-how-to-lay-tiles-tile-installation-doesn-t-have-to-be-hard.md
+- _posts/2020-11-04-how-to-choose-floor-underlayment-a-practical-guide-the-best-flooring-underlayment.md
+- _posts/2020-11-10-how-to-waterproof-bathroom-flooring-and-walls.md
+- _posts/2020-11-12-why-should-you-have-a-bidet-for-your-bathroom-and-how-to-install-it.md
+- _posts/2020-12-01-saving-water-at-home-10-tips-on-how-to-save-water-in-daily-life.md
+- _posts/2020-12-02-how-to-prep-walls-for-painting-a-guide-to-walls-priming.md
+- _posts/2020-12-03-a-modern-curbless-shower-design-is-it-worth-the-effort.md
+- _posts/2020-12-07-pipe-connecting-methods-threading-welding-or-compression-which-one-is-the-best.md
+- _posts/2020-12-08-planning-a-bathroom-renovation-choose-the-best-bathroom-radiator-for-your-comfort.md
+- _posts/2020-12-09-how-to-choose-a-water-meter-do-you-need-a-plumber-to-help-you-with-it.md
+- _posts/2020-12-10-multi-unit-buildings-how-to-heat-a-tenement-or-an-apartment-building.md
+- _posts/2020-12-14-how-to-make-a-bathtub-frame-skirted-bathtub-2020-trends.md
+- _posts/2020-12-15-how-to-change-a-tap-washer-a-quick-fix-for-a-dripping-tap.md
+- _posts/2020-12-15-what-is-screed-and-how-to-use-it.md
+- _posts/2020-12-16-how-to-build-a-gazebo-gazebo-diy-easy-step-by-step-guide.md
