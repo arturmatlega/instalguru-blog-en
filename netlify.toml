@@ -1,0 +1,8 @@
+[build]
+  publish = "_site"
+  command = "gem install bundler && bundle install && bundle exec jekyll build"
+
+[build.environment]
+  NODE_VERSION = "20"
+  RUBY_VERSION = "3.2.2"
+

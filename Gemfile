@@ -1,22 +1,22 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.0.0"
+gem "jekyll", "~> 4.3"
 gem 'jekyll-seo-tag'
-gem 'jekyll-toc', '~> 0.12.2'
+gem 'jekyll-toc'
 gem 'jekyll-sitemap'
 
 gem "jekyll-remote-theme"
 
 gem 'amp-jekyll'
-gem 'sanitize', '~> 5.1.0'
-gem "pry", '~> 0.12.2'
+gem 'sanitize'
+gem "pry"
 
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-feed"
 end
 
 install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
-  gem "tzinfo", "~> 1.2"
+  gem "tzinfo", "~> 2.0"
   gem "tzinfo-data"
 end
 
