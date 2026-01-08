@@ -70,8 +70,6 @@ Regardless of how skillfully the tiles were laid, some cracks always appear afte
 
 There are two types of surface waterproofing one might perform in one room. The main issue is securing the surface before laying the tiles. The products used at this stage will protect the structure of the building against water intrusion. Waterproofing the tiles is another problem. Thanks to special substances, water will remain on the tile, and it can be easily removed by the means of ventilation system.
 
-![](/uploads/hydroizolacja2.jpg)
-
 ## Waterproofing a bathroom - which sections of the rooms?
 
 Typically, every bathroom has two zones: wet and dry. The first basically involves the whole room. These are the places which are likely to have contact with water, which can splash everywhere - when performing ordinary, everyday activities.
@@ -89,8 +87,6 @@ Bathroom waterproofing can be done with three types of products - each has seali
 * **Liquid waterproofing membrane** - it is based on synthetic resin, thanks to which it provides a perfect protection. The product is very easy to use - one just has to mix it and cover a particular area with it, using e.g. a special roller or brush. The first layer can be laid freely, while the next one must be perpendicular to it. The biggest advantage of the membrane is its versatility. It can be used both for concrete surfaces, cement plaster and plasterboards. This type of protection is highly recommended for anybody who values their time - the membrane dries quickly, so one can immediately start laying the tiles in the bathroom.
 * **Sealing compounds** - it's a perfect alternative to a liquid membrane. It is made of cement mortar and synthetic resin. This type of material has much more dense structure than the previously mentioned membrane. It is typically used for securing mineral surfaces, but manufacturers also offer products for panel or stone cladding. The compound should be applied cross-wise, in two layers. It cannot be used for interiors with underfloor radiant heating.
 * **Cement-based waterproofing compounds** - also a highly effective material, used not only for bathrooms, but on balconies, patios, and to protect foundations as well. The material is highly durable, frost-resistant and flexible.
-
-![](/uploads/hydroizolacja3.jpg)
 
 ## How to waterproof a bathroom - a step-by-step guide
 
