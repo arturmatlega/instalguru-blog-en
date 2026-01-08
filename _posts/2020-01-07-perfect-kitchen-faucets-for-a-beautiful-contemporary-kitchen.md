@@ -73,8 +73,6 @@ A modern kitchen should be, first and foremost, functional. This criterion is de
 
 What to pay attention to when picking kitchen equipment of this type - how to choose a good kitchen faucet? As stated by many manufacturers, the best kitchen spout should perfectly match the particular needs of the user. A carefully chosen product can make one's life easier and simplify everyday tasks. The market offers kitchen faucets with three types of spouts to choose from: pull-out, flexible and rotating.
 
-![](/uploads/b4edda8b4d0c45fba909345f2184e419.jpg)
-
 ### A pull-out faucet
 
 Recent trends in modern kitchens design have been incorporating interesting choices with regards to kitchen faucets. One of them - a telescopic pull-out faucet placed under a window. It's a highly functional kitchen appliance. Such a model can be installed both by a single bowl, as well as double bowl sink.
