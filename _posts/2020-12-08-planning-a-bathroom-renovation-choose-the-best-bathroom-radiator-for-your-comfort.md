@@ -73,8 +73,6 @@ The location of the towel radiator is another important issue when planning a ba
 
 The design of a bathroom radiator is often key for homeowners planning to renovate their bathroom. For this reason, traditional radiators are replaced by bathroom (towel) radiators. Apart from their most basic function - emitting the heat to the room, they also serve as a decoration. What's more, they are very functional due to the fact that you can dry minor clothes and bath towels on them.
 
-![](/uploads/grzejnik2.jpg)
-
 ## A towel bathroom radiator is a good option!
 
 Towel radiators are one of the most popular choices among people who want to renovate their bathroom. It is mostly because of the fact that there are various models of towel radiators available on the market. What's worth noting - they all have a similar construction.
@@ -116,8 +114,6 @@ This issue is connected with several crucial aspects. **The power of a bathroom 
 Are you wondering how to install a bathroom radiator? Towel radiator installation is very easy. If you renovate your bathroom - you can easily do it yourself. The purchased set should contain all the elements needed for the installation. Just follow a few rules.
 
 As a water bathroom radiator is the most popular model, we are presenting the installation guide for this type of equipment.
-
-![](/uploads/grzejnik3.jpg)
 
 **Turning off the water is the most important aspect.** Then, you can follow the steps below to install the bathroom radiator:
 
