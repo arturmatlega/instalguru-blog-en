@@ -72,8 +72,6 @@ A tile leveling system is a **set of elements thanks to whose it is much easier 
 
 **Using a modern tile leveling system is a perfect solution both for professionals and for unexperienced users.** Thanks to this method the whole process is much easier and more importantly, quicker. It's estimated that a **tile leveling system can save up to 50% of time** compared to laying tiles using traditional spacers.
 
-![What is a tile leveling system?](/uploads/system-poziomowania-plytek-szczypce.jpg "What is a tile leveling system?")
-
 ## How does a tile leveling system work?
 
 A standard tile leveling system contains **specially shaped clips and wedges that have characteristic bumps on the surface.** It's important that one uses both of those elements to achieve the expected results.
@@ -94,8 +92,6 @@ Note that it doesn't matter what kind of tiles you use. They can be made of:
 * grés,
 * granite,
 * stone.
-
-![Where can you use a tile leveling system?](/uploads/system-poziomowania-plytek-top3.jpg "Where can you use a tile leveling system?")
 
 ## Is a tile leveling system worth it? Advantages of the solution
 
@@ -119,13 +115,9 @@ The slightly raised endings on the both sides of a clip are placed under the til
 
 It's common such a set also contains special pliers. Thanks to them, **setting the system and its elements is much quicker** and it doesn't require putting any force to it.
 
-![Tile leveling system with anchor-shaped clips](/uploads/system_poziomowania_ranking.jpg "Tile leveling system with anchor-shaped clips")
-
 ### A tile leveling system with standard clips and wedges
 
 One of the most commonly used option is a tile leveling system which uses **classic clips and wedges**. In this case, a clip resembles a window with a base at the bottom. The window is simply the space for a wedge. It's different than the previous system - the wedge should be slid in the middle of the clip. Thanks to the characteristic bumps one can put a maximum pressure on the wedge and as a result level the tiles perfectly.
-
-![A tile leveling system with standard clips and wedges](/uploads/system_poziomowania_ranking_2.jpg "A tile leveling system with standard clips and wedges")
 
 ### A reusable tile leveling system
 
@@ -136,8 +128,6 @@ This type of a tile leveling system uses two elements as well. The main part is 
 {:.distinction.distinction-info.distinction-negative}
 
 It's not an entirely flawless solution. In this case you have to use additional tile cross spacers, which takes more time and might be difficult for unexperienced users. Furthermore, after leveling the tiles, the clips have to be removed after a few hours. It might ruin the tiles level.
-
-![A reusable tile leveling system](/uploads/system_poziomowania_ranking_3.jpg "A reusable tile leveling system")
 
 ## A tile leveling system - single-use or reusable?
 
