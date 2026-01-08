@@ -82,8 +82,6 @@ What elements appear in the timber framing depends mostly on its particular cons
 
 There are many types of timber framing available on the market. **The decision on which roof truss to choose should be made at the stage of the building design.** Before picking a particular solution, one should consider factors like the size and shape of the house, one's budget and the aspect of aesthetics. Standard houses typically use a simple truss, a collar beam truss or a queen post truss.
 
-![Types of roofs - what kinds of roof trusses are the most popular?](/uploads/wiezba-dachowa-budowa-domu.jpg "Types of roofs - what kinds of roof trusses are the most popular?")
-
 ### Simple roof truss
 
 Such a construction can be used when the walls of the building are no more than 7 meters apart. **The roof slope should be no more than 45 degrees.** A simple roof truss is one of the most commonly used types of timber framing. It uses normal rafters and purlins which together form a roof truss resting on the building's walls. The rafters are supported only in two spots - on the walls and at the ridge.
@@ -105,8 +103,6 @@ There are many types of roofs available on the market. The final decision, of co
 {:.list.list-positive}
 * **Traditional roof trusses** preparation requires choosing the materials separately. The roof beams should be purchased in a lumbermill, and the roof itself is being constructed on site. Solid wood beams typically reach up to 7 meters. If the project needs longer beams, one should choose glued timber elements along with steel reinforcements.
 * **Prefabricated roof trusses** are definitely more versatile in terms of the size. Because the elements match perfectly, this solution requires far less timber than traditional projects. The installation process is definitely quicker - it's done by the manufacturer's team. In this case the space in the attic is seriously limited, which might be a disadvantage for some.
-
-![Traditional roof trusses vs. prefabricated timber framing](/uploads/konstrukcje-dachu.jpg "Traditional roof trusses vs. prefabricated timber framing")
 
 ## What timber is the best for roof trusses?
 
