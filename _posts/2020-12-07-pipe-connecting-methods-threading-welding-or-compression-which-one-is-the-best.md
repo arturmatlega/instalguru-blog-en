@@ -77,8 +77,6 @@ Polypropylene pipes need to be connected with a fusion welder for thermoplastics
 
 PP-R system elements can be also connected by threading. To do this, one needs fittings with a special brass male or female thread. Additionally, a special product is needed to make the process easer. Thread oil is highly recommended.
 
-![](/uploads/pipes2.jpg)
-
 ## How to connect PEX pipes? The most important info
 
 To connect pipes of central heating and hot water systems, threaded or compression fittings are used. **Both of the PEX pipe connecting methods provides satisfactory results and is resistant against various factors.**
@@ -86,8 +84,6 @@ To connect pipes of central heating and hot water systems, threaded or compressi
 If threaded elements are used, one just has to tighten the nut to connect the pipe and the fitting. This way, the fastener ring will get pressed to the tube. **The ring's special shape prevents it from moving when the nut is being tightened.**
 
 If you use compressed fittings, a special contracting collet needs to be placed directly on the tube. **This pipe connection method also requires a special crimping tool.** The tool has to be put on the collet, and the compressor is turned on. After a few seconds a characteristic crack can be heard - it means the collet has been connected with the pipe.
-
-![](/uploads/pipes3.jpg)
 
 ## PE pipes connection - which methods are the best?
 
