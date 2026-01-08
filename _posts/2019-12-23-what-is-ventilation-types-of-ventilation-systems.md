@@ -82,8 +82,6 @@ In some cases natural ventilation is mandatory - it is regulated by the law. It 
 
 **Natural ventilation** **is the most vulnerable in winter and summer**. Such a system works thanks to differences in temperature outside and inside the building. The air inside should be warmer than outside. Very often, especially when the air vents are poorly designed, the air flows back to the building in summer. In winter, on the other hand, natural ventilation might be the cause of a low temperature inside.
 
-![](/uploads/vent-207144_960_720.webp)
-
 ## Ventilation system at home - is advanced equipment worth it?
 
 With regards to mechanical ventilation, there are several types of the system. Depending on the mechanism, one can distinguish systems such as:
@@ -132,8 +130,6 @@ Ventilation should be tested by a legitimised specialist. The time of such a con
 
 Proper building ventilation is crucial, and it shouldn't be neglected. Because we typically spend most of the time at home, one should make sure that it's the place they feel safe and comfortable.
 
-![](/uploads/wentylacja_w_domu.jpg)
-
 ## Garage ventilation - what does the law say?
 
 Modern houses are often built in accordance with projects which include an attached garage as well. **Garage ventilation** is a very important issue.
@@ -151,8 +147,6 @@ This type of ventilation system works in the same way at home and in a garage. T
 The air of higher temperature coming from the garage has lower density than the cooler air outside. That's why it flows upwards. The whole convection process is possible thanks to air vents, used both by ventilation in the house and the garage.
 
 If you decide to use such a ventilation system in the garage, consider getting rectangular or square brown air vents. House ventilation typically uses white, round air vents. The latter are particularly universal, as they match any interior - regardless of the style it has been designed in.
-
-![](/uploads/wentylacja_w_domu2.jpg)
 
 **One can also use mechanical ventilation in the garage.** This solution not only provides a lot of fresh air, but also dries it. Mechanical ventilation does not depend on weather conditions, so it works perfectly at any season. One necessary condition for such a ventilation system is a perfect airtightness of the room. Furthermore, the process of installation makes it a substantially more expensive garage ventilation. One should also be prepared for the costs of its maintenance.
 
