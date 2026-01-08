@@ -81,8 +81,6 @@ The method of silicone removal **depends on the type of the surface covered by t
 
 You need to make sure that the surface is clean, especially if you're removing silicone sealant in a tiled bathroom. Take all the objects standing on the tub or the shower base and wash the **tiles and sealings carefully.** Use either a special cream cleaner or an ordinary detergent such as dish soap. Make sure to remove soap stains - this way removing silicone sealant will be easier and more effective.
 
-![Choosing a silicone remover: the most important issues](/uploads/jak-usunac-silikon-3-skuteczne-metody-na-usuwanie-silikonu.jpg "Choosing a silicone remover: the most important issues")
-
 ## A chemical silicone remover - is it an effective method?
 
 **A chemical silicone remover which can be bought in typical hardware shops**, is one of the most popular methods. Such products contain strong solvents that quickly dissolve silicone sealants and allow for its easy removal.
@@ -105,8 +103,6 @@ A too aggressive silicone remover might tarnish the surface. In case of such sit
 
 The **unpleasant smell** is definitely a large disadvantage of using a chemical sealant remover. Products like this typically contain acetone. After removing the silicone sealant with this method, make sure to ventilate the room. In case you or someone living with you are particularly sensitive to such acrid smells, consider removing the silicone sealant with a more eco-friendly method.
 
-![How to use a chemical silicone remover?](/uploads/jak-usunac-silikon-skuteczne-metody-usuwania-silikonu-chemia.jpg "How to use a chemical silicone remover?")
-
 ## An eco-friendly silicone remover. How to remove silicone sealant without chemicals?
 
 Are you anxious that a **strong chemical sealant remover** might be too strong? Or perhaps you just want to try a less expensive method? We have a fantastic solution for you. It is possible to remove a silicone sealant in a gentle way - which does not mean it is less effective.
@@ -123,8 +119,6 @@ After cleaning the surface, make a cut on one side of the sealant. Pull the blad
 ### How to remove silicone sealant that broke off and stayed on the surface?
 
 **Spread the grease on any residues of the sealant.** Wait for some time until the silicone absorbs the oil, and then scrape it off with a dry sponge or a piece of cloth. Because this method makes the surface very oily, make sure to degrease it before putting a fresh layer of sealant. To do this, use a detergent.
-
-![How to remove silicone sealant that broke off and stayed on the surface?](/uploads/jak-usunac-silikon-skuteczne-metody-usuwania-silikonu.jpg "How to remove silicone sealant that broke off and stayed on the surface?")
 
 ## How to remove silicone from clothes, wood, hands? Use temperature
 
