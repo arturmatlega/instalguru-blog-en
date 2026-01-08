@@ -73,8 +73,6 @@ By using this modern solution, a multi-unit building or a tenement can lower the
 * **Can be located anywhere** - the device can be placed anywhere the user finds it suitable, for instance in a laundry or drying room, or any other utility room. It's not possible for a boiler.
 * **No fuel tank** - thanks to the pump, there is no need for oil, gas or other fuel tank installation.
 
-![](/uploads/tenement2.jpg)
-
 ## Can tenements and apartment buildings use underfloor heating?
 
 Underfloor heating is often used in modern multi-unit buildings. The decision, in this case, is made by owners of individual apartments. There are two solutions to choose from. One might use water-based or electric underfloor heating. Each option generates high thermal comfort, although they work quite differently. Water-based systems are definitely more popular.
@@ -92,8 +90,6 @@ What are the biggest advantages of water underfloor heating? Most importantly:
 ## Condensing boilers for multi-unit buildings
 
 Condensing boilers are an alternative for heating tenements or apartment buildings. **Devices of this type provide the highest thermal comfort with a minimal energy use.** Condensing boilers are eco-friendly and they can reduce the costs of using the heating system.
-
-![](/uploads/tenement3.jpg)
 
 ### How does a condensing boiler work?
 
