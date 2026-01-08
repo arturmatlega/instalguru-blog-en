@@ -70,8 +70,6 @@ The difference in heating systems with PEX fittings lies in using various types 
 
 ### Heating systems with threaded fittings
 
-![](/uploads/6ff11734a9a849f79c5bf79cdea6dea0.png)
-
 Each heating system uses **PEX/AL/PEX pipes** as the basis. They are, however, connected with each other with various fittings. A threaded fitting consists of the following elements:
 
 1. A threaded nut.
@@ -87,8 +85,6 @@ Threaded pipe fittings have a threaded nut which needs to be twisted off the die
 Be careful not to screw the nut to tight, as you might damage both the fitting and the pipe.
 
 ### A heating system with press pipe fittings
-
-![](/uploads/7e1cd077fb3640e6b0a524d398d1f7d9.png)
 
 Press pipe fittings are also commonly used in heating systems. There are several elements in press pipe fittings:
 
