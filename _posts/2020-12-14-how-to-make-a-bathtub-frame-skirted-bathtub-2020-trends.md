@@ -78,8 +78,6 @@ Depending on the type of your skirted bathtub, you are going to need different a
 
 Additionally, if you are interested in plasterboards, you are going to need metal C and U tracks, wooden slats, power drill and scissors. If your are making a **bathtub frame from concrete blocks, you need thinset mortar or concrete adhesive, liquid membrane, a fine and coarse file and basic masonry tools.**
 
-![](/uploads/tub2.jpg)
-
 ### A skirted bathtub - a step-by-step installation guide
 
 If you want to install a skirted bathtub yourself - you should follow specialists' tips. Look at the 8 steps below - they will help you with your work.
@@ -114,8 +112,6 @@ The hole should be large enough to manoeuver the tools easily. Do not forget abo
 ## Skirted bathtub - the most popular trends 2020
 
 Are you wondering how to make a bathtub skirt? Are you looking for ideas on how to renovate your bathroom? **There are many solutions on the market.** Pay attention to the most popular 2020 trends, so that your interior is always up to date. By using a seemingly insignificant skirted bathtub, you might achieve a completely different result. Keep in mind that a manufactured bathtub skirt, also known as a universal one, is out of fashion. It might have been quick and easy to install, however the aesthetics weren't the best. It has been replaced with much better-looking solutions.
-
-![](/uploads/tub3.jpg)
 
 ### A bathtub skirt - perfectly matching the ceramic elements and fittings
 
