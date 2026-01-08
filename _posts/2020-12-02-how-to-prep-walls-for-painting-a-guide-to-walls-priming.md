@@ -76,8 +76,6 @@ In most cases, it is necessary to prime walls before painting. Especially if the
 
 **Remember!** It is necessary to use paint primer if the old layer has been scraped off or the wall was repaired by e.g. plastering small indentations as a result of mechanical damage.
 
-![](/uploads/priming2.jpg)
-
 ## How to check whether you need to apply paint primer?
 
 It is easy to check if the walls need priming - there are two methods. They differ from each other by the fact that they measure different parameters.
@@ -93,8 +91,6 @@ The other method tests the durability of the wall and the old layers of products
 ## Priming walls before wallpaper - when is it necessary?
 
 Priming walls before hanging wallpaper or after wallpaper removal must be always done - regardless whether the building is new or renovated. It also does not matter what types of plaster have been used in the room. The only difference is the type of primer you are going to use.
-
-![](/uploads/priming3.jpg)
 
 ## Wall primer - how to choose the right product?
 
