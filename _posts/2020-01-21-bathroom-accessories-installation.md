@@ -67,8 +67,6 @@ The latter solution is particularly attractive for those who have chosen the gla
 
 The installation of the sink should be started by placing an automatic sink waste in the drain. Then install the faucet. **During both of those steps, remember to insert seals** **protecting the sink from leaking**. Attach the sink trap and insert a drain pipe into the side of the element and screw the cap. You can do it easily by yourself, and what's more - it can be done manually - special tools are not necessary.
 
-![](/uploads/e11ae5ec4c414aefaa7f0f93d5edd21a.png)
-
 ## How to install a vanity unit?
 
 Vanity units are one of the most popular bathroom sinks. They look perfect in modern Scandinavian style interiors. They are typically round or elliptical. The market offers a wide variety of equipment in this type, therefore anyone can fit an ideal product to their individual needs.
