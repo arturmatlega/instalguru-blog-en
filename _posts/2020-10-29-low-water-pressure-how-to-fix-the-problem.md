@@ -84,8 +84,6 @@ Low water pressure is not always a result of the same cause. A set of various fa
 
 Another reason for low water pressure, as common as lime scale buildup, is a leakage in the system. **Unsealed pipes and fittings used for transmitting water might cause it to leak outside of the system, and only a part of it gets to the end point.** How to increase the water pressure in such a case? Make sure to reseal or replace the broken elements.
 
-![](/uploads/water_pressure.jpg)
-
 ## Perfect water pressure? Take care of the right equipment
 
 Low water pressure in the shower is probably a result of improperly matched equipment - such as a shower head or a rainshower. **Shower accessories should match the pressure in the system.** The equipment of high technical requirements won't function properly.
