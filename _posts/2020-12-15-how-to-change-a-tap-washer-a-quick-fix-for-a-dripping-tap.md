@@ -72,8 +72,6 @@ There are many reasons for a leaking tap. The most common issue, especially in o
 
 Rubber elements protect the device against leaks, but they get worn off after a while. As a result - they lose their leak-tightness abilities. They are products of a limited longevity, especially if they are used intensely. You can solve the problem of a leaky tap yourself. **Washer replacement is just a matter of several minutes of work and a very low cost.** Make sure to get the basic knowledge about it, so that you don't encounter any problems.
 
-![](/uploads/washer2.jpg)
-
 ## How to replace an old tap washer?
 
 Regardless whether it's a kitchen sink or a bathtub, tap washer replacement always involves the same action. You need to use a small element: a sealing ring. Before its installation, determine the thickness and size. Those parameters decide whether the new element fit and as a result, if the tap works correctly.
@@ -110,8 +108,6 @@ If you are wondering how to replace a tap washer - we have a universal guide for
 * **Unscrew and dismantle the whole handle.** It can be easily done without using any additional tools.
 * Then, remove the stem from the sleeve - to do this, you can use a fork spanner or a monkey wrench. Thanks to this, you have a full access to the cartridge, so that you can examine the tap washer. **If the element is worn off or damaged, replace it:** remove the screw, take out the old ring and replace it with a new one. Which type is the best one? You can choose a silicone washer - white or black.
 
-![](/uploads/washer3.jpg)
-
 ## How to fix a mixer tap?
 
 Fixing a mixer tap looks quite similar to a standard tap repair. The main difference is the construction - which in fact affects the time spent on the activity.
@@ -135,8 +131,6 @@ When replacing a tap washer, you can also clean elements like the strainer, the 
 A dripping tap might be a sign of a malfunctioning spout. The repair is quite simple and easy in this case as well - you can do it yourself. Just remove the installation screws and carefully remove the spout, making sure you don't damage the sink. Then, **remove the old washer**. Insert new elements in place. If you managed to do it properly - attach the spout back and tighten the screw so that the tap doesn't move from side to side.
 
 Are you wondering which product is the best in this case? A spout rubber o-ring is perfect. It's available in two standard sizes: 1/2'', 16 mm, 12 mm or 3/4'', 18 mm, 14 mm.
-
-![](/uploads/washer4.jpg)
 
 ## What is the cost of a tap washer replacement?
 
