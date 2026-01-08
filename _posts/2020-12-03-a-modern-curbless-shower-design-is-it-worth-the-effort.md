@@ -64,8 +64,6 @@ Linear drain is a type of drainage in the form of a long slit in the floor. It's
 
 A curbless shower with this type of drain creates a lot of possibilities for interior design, as it takes little space and can be located anywhere the user wants. Furthermore, one might choose between a classic linear drain with a simple design and a linear drain decorated with unusual carvings.
 
-![](/uploads/curbless2.jpg)
-
 ## Is a curbless shower safe for the bathroom?
 
 A curbless shower is a very practical solution; what's more, it's completely harmless for the bathroom, so one does not have to worry about a possibility of flooding.
@@ -91,8 +89,6 @@ Curbless shower stalls are offered by many manufacturers. But the lack of the ba
 You might get such walls in a very low price, although there are also very expensive models. The price range of shower doors is similar.
 
 Another solution is a walk in shower stall which has only one or two walls. It might be a cheaper solution, but as always - it all depends on the manufacturer, material and particular model. Typically, a higher price means also a higher level of comfort and aesthetics of the shower.
-
-![](/uploads/curbless3.jpg)
 
 ## What are the advantages of a curbless shower
 
