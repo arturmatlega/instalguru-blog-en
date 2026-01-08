@@ -76,8 +76,6 @@ Are you wondering how to safe water in daily life and looking for good solutions
 
 How to save water daily when using running water? Is it possible at all? Of course - just don't wash the dishes with constantly running water. You can install a water saving tap with a movable spout - thanks to which you will be able to direct the stream precisely where you need it.
 
-![](/uploads/watersaving2.jpg)
-
 {:.distinction.distinction-quotation.distinction-positive}
 
 Do you use a dish-washer? No problem - saving water is possible in this case as well. Just turn it on only after it is fully loaded.
@@ -117,8 +115,6 @@ If you're wondering how to save water in daily life when washing clothes - it is
 ### Shower instead of bathing - it's an effective water saving method
 
 **How to save water in daily life when taking a bath?** Instead of bathing choose shower. To fill a bath tub, you need approximately 200 liters of water. When taking a shower, you use about 50 liters. Think how much you can save if there are 3 or 4 people living in one household.
-
-![](/uploads/watersaving3.jpg)
 
 ### How to save water in the shower? Use modern gadgets
 
