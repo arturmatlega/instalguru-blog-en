@@ -94,8 +94,6 @@ Perhaps you are interested in a **good floor underlayment that would provide the
 
 This type of material is a perfect choice if the subfloor needs leveling. XPS foam underlay is available in various thicknesses - sometimes even 6 mm. It is, therefore, a perfect insulation and works ideally in non-heated interiors. It is also a good solution is you need a floor underlayment for radiant heating. Extruded polystyrene flooring underlayment is moisture-resistant, reduces transmitted sounds and provides durability of the flooring.
 
-![](/uploads/underlay2.jpg)
-
 ## The best floor underlayment - radiant heated floors
 
 Materials designated for use with underfloor heating need to fulfill certain special requirements. What flooring underlayment is the best in this case? As experts suggest, mats made of a high-density polyethylene are worth considering. Such products are commonly called HDPE.
@@ -123,8 +121,6 @@ Although it is a good floor underlayment in most cases, this solution also has c
 ## What is the best floor underlayment for uneven subfloor?
 
 If the surface is uneven, a good underlayment is a crucial issue. Laying floor planks on an uneven subfloor might cause them to move, bend and get damaged. To avoid that, make sure to make the surface even before laying laminate or vinyl flooring.
-
-![](/uploads/underlay3.jpg)
 
 What is the best floor underlayment in this case? If the subfloor has only minor differences, extruded polystyrene (XPS) is recommended. It smoothens the irregularities, so that the floor is perfectly even. If the subfloor has more dents, and differences in heights are quite visible, one should pour a new concrete floor. An ordinary floor underlayment is, unfortunately, not enough.
 
