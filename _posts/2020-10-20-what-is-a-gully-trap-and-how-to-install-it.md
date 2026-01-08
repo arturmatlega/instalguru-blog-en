@@ -46,8 +46,6 @@ Extremely strong winds can damage roof parts and carry other pieces, which also 
 
 Keeping both gutter and sewer systems clean is very important. A gully trap can be used to get access to the piping, it can act as a cleanout. Thanks to it cleaning the system is far easier.
 
-![Where is a rainwater gully trap installed?](/uploads/osadniki-rynnowe.jpg "Where is a rainwater gully trap installed?")
-
 ## Types of gully traps
 
 There are two solutions, most commonly chosen by homeowners. They are:
