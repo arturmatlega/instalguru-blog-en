@@ -65,8 +65,6 @@ Remember that the created drywall pipe cover is going to look well only if you t
 
 If you are wondering how to conceal pipes in a small bathroom - drywall is suitable in this case too. **You have to keep in mind, however, that interiors of higher humidity levels require special waterproof plasterboards.** They are significantly more durable and less vulnerable to harmful factors.
 
-![](/uploads/948196e9ad254b4f8fd0feeca9d3db0b.jpg)
-
 ## Concealing pipes with colour
 
 Are you looking for a quick way to hide pipes? There is a much cheaper and less invasive method than covering pipes with plasterboard - painting them in the wall colour. It is best to do it along with finishing or renovating the interior. The only thing you should remember in this case is choosing the exact same colour as the other parts of the interior have been painted in. This way, the pipes will perfectly blend in the wall, and they will be practically invisible.
@@ -82,8 +80,6 @@ If you're wondering how to conceal pipes located under the ceiling or by the flo
 {:.distinction.distinction-info.distinction-negative}
 
 To cover unwanted elements located right by the floor, use a wide sofa and place it by the wall, across its length. It's a very affordable method - you don't have to make any renovations.
-
-![](/uploads/17523f9df91141dbb5e50ea171230750.jpg)
 
 ## Special pipe boxing
 
