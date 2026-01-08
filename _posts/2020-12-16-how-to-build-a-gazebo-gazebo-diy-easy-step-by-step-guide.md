@@ -77,8 +77,6 @@ You might also encounter limitations about the allowed number of such facilities
 
 Apart from gazebos, building restrictions and permissions also concern other types of facilities such as utility sheds and detached garages.
 
-![](/uploads/gazebo2.jpg)
-
 ## How to build a gazebo? Start from the foundations!
 
 Stable foundations are one of the most important issues when building a gazebo. **The facility should be resistant to weather conditions** - such as strong winds.
@@ -96,8 +94,6 @@ As specialists claim, products based on resin or flaxseed oil are the best for i
 {:.distinction.distinction-info.distinction-negative}
 
 Although varnish is generally perfect for wood protection, it is not recommended to use it in a gazebo. Certain plants might use the gazebo as the basis for their further growth. If the surface is too slippery - the plant is not able to attach itself and its growth is hindered.
-
-![](/uploads/gazebo3.jpg)
 
 ## Building a gazebo - what kind of roof cover to choose?
 
