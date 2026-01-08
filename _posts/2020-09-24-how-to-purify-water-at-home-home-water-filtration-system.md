@@ -74,8 +74,6 @@ Many people are concerned about tap water quality. In reality, if the water is s
 
 **The chemical taste which is common for tap water is a result of disinfection processes using chlorine**. It is one of the most frequently mentioned problems reported by tap water users. It doesn't mean, however, that water from a private well is flawless. In this case, a taste of iron is a common issue. Everything depends on the location and depth of the source.
 
-![What is the reason for water taste issues?](/uploads/domowa-stacja-uzdatniania-wody-1.jpg "What is the reason for water taste issues?")
-
 ## Water from your own source - is it healthier than the one from a provider?
 
 It is believed that water from your own well has a better quality than the one from a local water supply system. What is the reality? **By connecting the house to the water main, one can be sure that the water is safe**, which has been already explained. Regular testing eliminates the presence of dangerous substances. In case of private wells, one has to control the water quality themselves. It is often neglected due to the amount of money charged for the procedure.
@@ -102,8 +100,6 @@ There are various types of water filters available on the market, with different
 
 The simplest types are **mesh, string and foam water filters. They are also called mechanical or sediment filters.** Thanks to them, the water filtration system eliminates sand and rust particles, invisible to the naked eye. The efficiency of such cartridges depends on their density and how large particles they can stop.
 
-![Water filtration solutions - which water purifier is the best?](/uploads/domowa-stacja-uzdatniania-wody-2.jpg "Water filtration solutions - which water purifier is the best?")
-
 Iron water filters are another popular option, used mostly for private wells. **Similar to mechanical cartridges, they are usually installed on pipes in a special casing of appropriate size and construction.** The role of such equipment is removing harmful iron compounds. They also partially remove nitrogen or even hydrogen sulfide.
 
 Many households have a problem of **so-called hard water**. It means that it contains a lot of calcium and magnesium. It's not an issue either, as an appropriate water softening filter will remove the sediments from the liquid.
@@ -113,8 +109,6 @@ Many households have a problem of **so-called hard water**. It means that it con
 A multimedia filter is one of the best choices for a household. This type of device is **highly efficient**. Thanks to this, the water purifier can remove various types of substances. Depending on the medium, various results can be achieved.
 
 **The medium is nothing else than special material filling of the tank,** which absorbs harmful substances. Depending on the type, one needs to wash it out or regenerate it from time to time. There is also another important aspect - a water purifier like a filter tank needs to be connected with the electric network and sewage system.
-
-![Multi-media filter tank - how does a modern water purification system work?](/uploads/domowa-stacja-uzdatniania-wody-3.jpg "Multi-media filter tank - how does a modern water purification system work?")
 
 ## Home water filtration system - is a reverse osmosis filter worth installing?
 
