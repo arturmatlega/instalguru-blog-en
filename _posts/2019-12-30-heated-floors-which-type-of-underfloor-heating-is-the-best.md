@@ -80,8 +80,6 @@ Wasting thermal potential and generating unnecessary costs is another issue in t
 
 The cost of heated floors includes both **materials and the service of installation.** Keep in mind that the initially calculated costs are only estimated values. The total expenses might be affected by the required equipment, the quality, and, most importantly, the pay for the person installing the elements, which usually depends on the region.
 
-![](/uploads/a7c8d4bf9636492d89a96f367d907195.jpg)
-
 ## Electric floor heating - when should you choose it?
 
 **Electric floor heating has many advantages.** It is easy to install in any type of space in any building. It can be used as the primary heating system for the house or apartment, as well as a compliment to another method.
