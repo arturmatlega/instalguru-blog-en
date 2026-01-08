@@ -87,8 +87,6 @@ A digital water meter is definitely much more precise, hence it's used especiall
 
 If you are choosing a water meter, know that the devices are classified by their intended use for hot and cold water. One device is not enough, unless you use a heater to heat up cold water. In this case, you need only a water meter for cold water.
 
-![](/uploads/wodomierz2.jpg)
-
 ### A specialist water meter
 
 If you need only a residential water meter for your house or apartment - there shouldn't be a problem to find the right one. You might, however, need a plumber and their knowledge if you need a specialist water meter. You can find the following devices on the market:
