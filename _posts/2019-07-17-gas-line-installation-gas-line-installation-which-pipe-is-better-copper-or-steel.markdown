@@ -73,8 +73,6 @@ A gas system with copper pipes creates many possibilities for their connection. 
 
 Another method involves using press fittings. In this particulr case, a usual PEX fitting will do. However, if you want to change the direction of the gas system and fit it to the building's construction, use PEX tees or press elbows. The installation process of such elements is currently one of the easiest ones, therefore every specialist should be able to do it. This fact definitely lowers the costs of gas installation.
 
-![](/uploads/e2aff6e93728483ea374e9d2c218e2c2.jpg)
-
 ## Steel pipes - gas installation more prone to harmful factors?
 
 Steel pipes used for gas line installation have bigger diameters than the copper counterparts. The walls of a steel tube is thicker, therefore it is more stiff and it does not need to be attached to a wall with additional elements. Unfortunately this type of installation is very heavy. **A home gas line installation like this is also significantly heavier.** Similar to copper lines, steep pipes are thermally expandable. Thanks to this feature, they are perfect for high temperatures.
