@@ -85,8 +85,6 @@ Choosing the right shape of a toilet seat might be a similar process. Oval toile
 
 There is also another group of products, designed specifically for children. It's a special toilet seat with an attached cover which allows a toddler to use the toilet normally.
 
-![](/uploads/a7a5eed986b34897b5334e6a0dca650b.jpg)
-
 ## A modern toilet seat
 
 When choosing a toilet seat, one can also pay attention to modern technologies which make using the bathroom much easier. One of the most basic features in this regard is a toilet seat with so called soft close, which has many advantages.
