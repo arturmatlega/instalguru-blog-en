@@ -77,7 +77,6 @@ It is the most popular method, which works if there are **residues inside which 
 
 It might happen that the issue was ignored for so long that the pipes have been clogged. In this case one has to unblock the pipes.
 
-![](/uploads/22026fe9c155463eaf62d4cf9553d0e6.png)
 
 ### Check the home remedies for clogged pipes - the best way to unclog your sink
 
