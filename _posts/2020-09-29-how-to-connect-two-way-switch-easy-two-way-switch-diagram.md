@@ -62,8 +62,6 @@ Specialists classify light switches in accordance to several criterions. The mos
 
 Judging by aesthetics, one can also distinguish light switches according to the type of buttons. Manufacturers offer traditional switches with a mechanical button. Touch light switches are gaining popularity. They have a smooth panel with a sensor which reacts to touch.
 
-![Two way light switch - what are its features?](/uploads/jak_podlaczyc_wlacznik_schodowy.jpg "Two way light switch - what are its features?")
-
 ### Two way and three way light switch
 
 Two way light switches are a special type of devices. They allow to control one light source from two different locations. It's a particularly useful solution on staircases, so that one does not have to come back up or down to turn the light off.
@@ -93,8 +91,6 @@ Each switch - one or multiple way, operates based on similar principle. To turn 
 
 To connect the simplest one way light switch, one needs to connect wires between the switch and the light bulb. **See the diagram for such a circuit below:**
 
-![A light switch - general principle of operation](/uploads/jak_podlaczyc_wlacznik_schemat1_en.jpg "A light switch - general principle of operation")
-
 Under no circumstance mix the wires - for instance phase with the neutral line. It would pose a threat during changing a light bulb - even when the light is turned off!
 
 ### Two way switch - diagram
@@ -103,16 +99,9 @@ Connecting a two way switch circuit is a little bit more complicated, as it uses
 
 A two way switch diagram is more elaborate. In this case, the phase wire is connected with one of the two way switches, and the light source - to the other. Neutral wire and earth conductor are lead to the light source independently. The two switches should be connected with each other with additional wires.
 
-**See the two way switch diagram below:**
-
-![Two way switch - diagram](/uploads/jak_podlaczyc_wlacznik_schemat2_en.jpg "Two way switch - diagram")
 
 ### How to connect a three way light switch?
 
 As already mentioned, **it is possible to wire more than only two light switches for the same light source.** To do this, one needs to use a three way light switch. The scheme of such connection is not much different from the two way switch diagram - there is a third switch between the two external ones. The number of intermediate switches is unlimited, and it can be adjusted as needed. Thanks to this one will be able to turn off the staircase light while being in another room.
-
-**See the three way light switch diagram presented below:**
-
-![How to connect a three way light switch?](/uploads/jak_podlaczyc_wlacznik_schemat3.jpg "How to connect a three way light switch?")
 
 **Connecting a two way or a three way switch is not as difficult as it might seem.** If you have the right switch diagram, you can easily do it yourself.
